@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Machine Learning Engineer & Robotics Developer
+subtitle: Machine Learning Engineer, Open-Source Advocate, and Robotics Nerd
 
 profile:
   align: right
@@ -16,8 +16,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, I’m Duncan Calvert. I am a passionate machine learning engineer dedicated to exploring and integrating cutting-edge technologies to make great products. My career is built on a foundation of continuous learning and a commitment to open-source software. I thrive on solving complex problems, contributing to impactful projects, and building meaningful professional relationships. Here, you'll find a showcase of my work, including projects that highlight my skills in machine learning, software development, and my continuous pursuit of knowledge. Let's connect and create something extraordinary together!
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I hold a M.S. in Applied Data Science from the University of Chicago, a B.S. certificate in Software Development and Programming from the University of California, Berkeley, and a B.A. in History and Political Science from the University of California, Santa Barbara. Throughout my career, I've worked across several industries, including finance, academic, and legal.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My current research and development areas include - robotic route planning, computer vision, and reinforcement learning.
+
