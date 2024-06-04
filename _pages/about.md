@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Machine Learning Engineer, Open-Source Advocate, and Robotics Nerd
+subtitle: Machine Learning Engineer
 
 profile:
   align: right
