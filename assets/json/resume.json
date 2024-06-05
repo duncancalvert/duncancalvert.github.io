@@ -34,7 +34,7 @@
       "url": "",
       "startDate": "2024-01-01",
       "endDate": "Present",
-      "summary": "Tea.",
+      "summary": "Summary placeholder",
       "highlights": ["Relativity"]
     },
     {
@@ -43,7 +43,16 @@
       "url": "",
       "startDate": "2022-01-01",
       "endDate": "2024-01-01",
-      "summary": "Teaching a.",
+      "summary": "Summary placeholder",
+      "highlights": ["Relativity"]
+    },
+    {
+      "name": "Wells Fargo",
+      "position": "AI Solutions Consultant",
+      "url": "",
+      "startDate": "2020-04",
+      "endDate": "2021-12",
+      "summary": "Summary placeholder",
       "highlights": ["Relativity"]
     }
   ],
