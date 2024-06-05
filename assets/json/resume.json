@@ -6,7 +6,7 @@
     "email": "duncanscalvert@gmail.com",
     "phone": "",
     "url": "https://www.linkedin.com/in/duncan-calvert/",
-    "summary": "I am an data scientist with 7+ years of experience leveraging cutting-edge technologies to build great products. I am passionate about solving complex problems, contributing to open-source software, continuous learning, and fostering meaningful professional relationships.I am an data scientist with 7+ years of experience leveraging cutting-edge technologies to build great products. I am passionate about solving complex problems, contributing to open-source software, continuous learning, and fostering meaningful professional relationships.",
+    "summary": "I am an data scientist with 7+ years of experience leveraging cutting-edge technologies to build great products. I am passionate about solving complex problems, contributing to open-source software, continuous learning, and fostering meaningful professional relationships.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -24,11 +24,20 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
+      "name": "Wells Fargo",
+      "position": "VP, Senior Lead Data Product Management Consultant",
+      "url": "",
+      "startDate": "2024-01-01",
+      "endDate": "Present",
+      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "highlights": ["Relativity"]
+    }
+    {
+      "name": "Wells Fargo",
+      "position": "Lead Quantitative Analytics Specialist",
+      "url": "",
+      "startDate": "2022-01-01",
+      "endDate": "2024-01-01",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
       "highlights": ["Relativity"]
     }
