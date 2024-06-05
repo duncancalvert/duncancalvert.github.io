@@ -63,13 +63,36 @@
     {
       "institution": "University of Chicago",
       "location": "Chicago, IL",
-      "url": "https://www.uchicago.edu/en",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/",
       "area": "Applied Data Science",
-      "studyType": "M.S.",
-      "startDate": "2021-08",
-      "endDate": "2024-12",
+      "studyType": "Masters of Science (MS)",
+      "startDate": "2021",
+      "endDate": "2024",
       "score": "",
-      "courses": ["Time Series Analysis and Forecasting, Natural Language Processing and Cognitive Computing, Supply Chain Optimization, MLOps, Machine Learning, Data Mining, Linear Algebra, Data Engineering, Statistics, Linear and Non-Linear Modeling"]
+      "courses": ["Time Series Analysis and Forecasting, Natural Language Processing and Cognitive Computing, Supply Chain Optimization, MLOps, Machine Learning, Data Mining, Linear Algebra, Data Engineering, Statistics, Linear and Non-Linear Modeling",
+                  "Thesis: Autonomous Drone Swarms for Search and Rescue"]
+    },
+    {
+      "institution": "University of California, Berkeley",
+      "location": "Berkeley, CA",
+      "url": "https://extension.berkeley.edu/public/category/courseCategoryCertificateProfile.do?method=load&certificateId=17558767",
+      "area": "Software Development and Programming",
+      "studyType": "Bachelors of Science (BS)-Level Certificate",
+      "startDate": "2018",
+      "endDate": "2020",
+      "score": "",
+      "courses": ["Python Programming, Cybersecurity, Database Management, Javascript and jQuery, Data Science, SQL"]
+    },
+    {
+      "institution": "University of California, Santa Barbara",
+      "location": "Santa Barbara, CA",
+      "url": "https://www.ucsb.edu/",
+      "area": "Political Science and History",
+      "studyType": "Bachelors of Arts (BA)",
+      "startDate": "2012",
+      "endDate": "2016",
+      "score": "",
+      "courses": # [""]
     }
   ],
   "awards": [
