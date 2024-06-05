@@ -197,19 +197,31 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "English",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
+      "language": "Spanish",
+      "fluency": "Limited working proficiency",
       "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Data Science",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Quantum Mechanics",
+        "Quantum Computing",
+        "Quantum Information",
+        "Quantum Cryptography",
+        "Quantum Communication",
+        "Quantum Teleportation"
+      ]
+    },
+    {
+      "name": "Data Science",
       "icon": "fa-solid fa-tag",
       "keywords": [
         "Quantum Mechanics",
