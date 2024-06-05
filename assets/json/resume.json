@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Duncan Calvert",
+    "label": "Machine Learning Engineer",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "duncanscalvert@gmail.com",
+    "phone": "",
+    "url": "https://www.linkedin.com/in/duncan-calvert/",
+    "summary": "I am an data scientist with 7+ years of experience leveraging cutting-edge technologies to build great products. I am passionate about solving complex problems, contributing to open-source software, continuous learning, and fostering meaningful professional relationships.I am an data scientist with 7+ years of experience leveraging cutting-edge technologies to build great products. I am passionate about solving complex problems, contributing to open-source software, continuous learning, and fostering meaningful professional relationships.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "",
+      "postalCode": "",
+      "city": "Chicago",
       "countryCode": "US",
-      "region": "California"
+      "region": "Illinois"
     },
     "profiles": [
       {
