@@ -16,9 +16,14 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "duncanscalvert",
+        "url": "https://www.linkedin.com/in/duncan-calvert/"
+      },
+      {
+        "network": "Medium",
+        "username": "duncan-calvert",
+        "url": "https://medium.com/@duncanscalvert"
       }
     ]
   },
@@ -29,7 +34,7 @@
       "url": "",
       "startDate": "2024-01-01",
       "endDate": "Present",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "summary": "Tea.",
       "highlights": ["Relativity"]
     },
     {
@@ -38,7 +43,7 @@
       "url": "",
       "startDate": "2022-01-01",
       "endDate": "2024-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "summary": "Teaching a.",
       "highlights": ["Relativity"]
     }
   ],
