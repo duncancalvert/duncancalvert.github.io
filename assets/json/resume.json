@@ -54,6 +54,15 @@
       "endDate": "2021-12",
       "summary": "Summary placeholder",
       "highlights": ["Relativity"]
+    },
+    {
+      "name": "Wells Fargo",
+      "position": "Associate AI Solutions Consultant",
+      "url": "",
+      "startDate": "2019-04",
+      "endDate": "2020-03",
+      "summary": "Summary placeholder",
+      "highlights": ["Relativity"]
     }
   ],
   "education": [
@@ -94,14 +103,14 @@
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Cloud Digital Leader",
+      "date": "2024-2027",
+      "issuer": "Google Cloud Platform",
+      "url": "https://www.credly.com/badges/2569e294-71bb-4cf5-9bb3-b47d8c2d17b1/linked_in_profile",
       "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Quantum Computing",
+      "name": "Alteryx Foundation Micro-Credential",
       "date": "2018-01-01",
       "issuer": "Stanford University",
       "url": "https://example.com",
@@ -134,29 +143,6 @@
       "issuer": "Stanford University",
       "url": "https://example.com",
       "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
     }
   ],
   "skills": [
@@ -199,31 +185,22 @@
       "icon": ""
     }
   ],
-  "interests": [
-    {
-      "name": "",
-      "icon": "",
-      "keywords": [
-        "",
-        ""
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "",
-      "icon": "",
-      "reference": ""
-    }
-  ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "KScanner: A Python Library for Automated Clustering",
+      "summary": "KScanner is a novel combination of DBSCAN and K-Means clustering that uses automated Epsilon and MinPts approximation to identify the correct model parameters for DBSCAN. The output of DBSCAN is then fed to K-Means as the value for n_clusters to lower the total amount of iterations to determine appropriate cluster amounts.",
+      "highlights": "",
+      "startDate": "2023-02",
+      "endDate": "Present",
+      "url": "https://github.com/duncancalvert/kscanner"
+    },
+    {
+      "name": "UCSB Reads: Community Policing and Just Mercy",
+      "summary": "In collaboration with the UC Santa Barbara Library, I developed a community round-table event which brought together Isla Vista Foot Patrol and UC Police Department officers to discuss issues related to mass incarceration, the death penalty, and racial bias. The event functioned in conjunction with the larger "UCSB Reads" program and its annual book choice, "Just Mercy" by Bryan Stevenson. The discussion was moderated by the Honorable Frank J. Ochoa, Retired Santa Barbara County Superior Court Judge.",
+      "highlights": "",
+      "startDate": "2016-01",
+      "endDate": "2016-04",
+      "url": "https://www.library.ucsb.edu/ucsbreads"
     }
   ],
   "volunteer": [
