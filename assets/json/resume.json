@@ -34,7 +34,7 @@
       "url": "",
       "startDate": "2024-01-01",
       "endDate": "Present",
-      "summary": "Summary placeholder",
+      "summary": "",
       "highlights": ["Relativity"]
     },
     {
@@ -43,7 +43,7 @@
       "url": "",
       "startDate": "2022-01-01",
       "endDate": "2024-01-01",
-      "summary": "Summary placeholder",
+      "summary": "",
       "highlights": ["Relativity"]
     },
     {
@@ -102,15 +102,6 @@
       "endDate": "2016",
       "score": "",
       "courses": ""
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
     }
   ],
   "certificates": [
@@ -182,13 +173,26 @@
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
+      "name": "Languages",
+      "level": "",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
+        "Python",
+        "SQL",
+        "R",
+        "JavaScript/TypeScript",
+        "Quantum Communication",
+        "Quantum Teleportation"
+      ]
+    },
+    {
+      "name": "Data Science",
+      "level": "",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Data Mining",
+        "Clustering",
+        "Computer Vision",
         "Quantum Cryptography",
         "Quantum Communication",
         "Quantum Teleportation"
