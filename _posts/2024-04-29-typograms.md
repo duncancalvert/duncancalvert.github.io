@@ -1,8 +1,8 @@
 ---
 layout: post
-title: The "Platonic Representation Hypothesis"
+title: The Platonic Representation Hypothesis
 date: 2024-05-29 05:36:10
-description: 
+description: test
 tags: AI MachineLearning DeepLearning MIT Research NeuralNetworks
 categories: data-science
 typograms: true
