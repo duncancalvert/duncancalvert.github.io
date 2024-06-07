@@ -1,85 +1,19 @@
 ---
 layout: post
-title: a post with typograms
-date: 2024-04-29 23:36:10
-description: this is what included typograms code could look like
+title: The "Platonic Representation Hypothesis"
+date: 2024-05-29 05:36:10
+description: 
 tags: formatting diagrams
 categories: sample-posts
 typograms: true
 ---
 
-This is an example post with some [typograms](https://github.com/google/typograms/) code.
+Amidst the buzz around GPT-4o and Google I/O, it was easy to miss this fascinating philosophical paper from MIT. The "Platonic Representation Hypothesis" argues that AI models are converging towards a shared “reality”. As they grow in size, their data representations across different modalities (images, text, etc.) become more aligned, echoing Plato's ideal forms.
 
-````markdown
-```typograms
-+----+
-|    |---> My first diagram!
-+----+
-```
-````
+🔍 Highlights:
 
-Which generates:
+• Unified Representations: Larger models show more alignment, suggesting a common underlying reality and statistical model.
+• Multimodal Efficiency: Combining data types boosts model performance and convergence.
+• Revolutionary Potential: Easier cross-modal translation and adaptation could transform AI applications.
 
-```typograms
-+----+
-|    |---> My first diagram!
-+----+
-```
-
-Another example:
-
-````markdown
-```typograms
-.------------------------.
-|.----------------------.|
-||"https://example.com" ||
-|'----------------------'|
-| ______________________ |
-||                      ||
-||   Welcome!           ||
-||                      ||
-||                      ||
-||  .----------------.  ||
-||  | username       |  ||
-||  '----------------'  ||
-||  .----------------.  ||
-||  |"*******"       |  ||
-||  '----------------'  ||
-||                      ||
-||  .----------------.  ||
-||  |   "Sign-up"    |  ||
-||  '----------------'  ||
-||                      ||
-|+----------------------+|
-.------------------------.
-```
-````
-
-which generates:
-
-```typograms
-.------------------------.
-|.----------------------.|
-||"https://example.com" ||
-|'----------------------'|
-| ______________________ |
-||                      ||
-||   Welcome!           ||
-||                      ||
-||                      ||
-||  .----------------.  ||
-||  | username       |  ||
-||  '----------------'  ||
-||  .----------------.  ||
-||  |"*******"       |  ||
-||  '----------------'  ||
-||                      ||
-||  .----------------.  ||
-||  |   "Sign-up"    |  ||
-||  '----------------'  ||
-||                      ||
-|+----------------------+|
-.------------------------.
-```
-
-For more examples, check out the [typograms documentation](https://google.github.io/typograms/#examples).
+[The Platonic Representation Hypothesis](https://phillipi.github.io/prh/?utm_source=substack&utm_medium=email).
