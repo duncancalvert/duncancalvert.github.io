@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
+title: KScanner
+description: KScanner is a novel combination of DBSCAN and K-Means clustering
 img: assets/img/7.jpg
-redirect: https://unsplash.com
+redirect: https://github.com/duncancalvert/kscanner
 importance: 3
 category: work
 ---
