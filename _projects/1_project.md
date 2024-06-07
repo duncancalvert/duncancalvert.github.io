@@ -1,7 +1,7 @@
 ---
 layout: page
 title: SkySearch
-description: with background image
+description: Missing Person Identification Using Aerial Drone Sensing
 img: assets/img/12.jpg
 importance: 1
 category: data-science
