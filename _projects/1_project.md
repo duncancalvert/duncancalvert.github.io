@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
+title: KScanner
 description: with background image
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: data-science
 related_publications: true
 ---
 
