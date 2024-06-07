@@ -2,7 +2,7 @@
 layout: post
 title: The Platonic Representation Hypothesis
 date: 2024-05-29 05:36:10
-description: test
+description: Exploring world representations in neural networks
 tags: AI MachineLearning DeepLearning MIT Research NeuralNetworks
 categories: data-science
 typograms: true
@@ -16,4 +16,4 @@ Amidst the buzz around GPT-4o and Google I/O, it was easy to miss this fascinati
 • Multimodal Efficiency: Combining data types boosts model performance and convergence.
 • Revolutionary Potential: Easier cross-modal translation and adaptation could transform AI applications.
 
-[The Platonic Representation Hypothesis](https://phillipi.github.io/prh/?utm_source=substack&utm_medium=email).
+[The Platonic Representation Hypothesis](https://phillipi.github.io/prh/).
