@@ -13,7 +13,9 @@ Amidst the buzz around GPT-4o and Google I/O, it was easy to miss this fascinati
 🔍 Highlights:
 
 • Unified Representations: Larger models show more alignment, suggesting a common underlying reality and statistical model.
+
 • Multimodal Efficiency: Combining data types boosts model performance and convergence.
+
 • Revolutionary Potential: Easier cross-modal translation and adaptation could transform AI applications.
 
 [The Platonic Representation Hypothesis](https://phillipi.github.io/prh/).
