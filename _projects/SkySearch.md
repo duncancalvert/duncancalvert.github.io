@@ -2,7 +2,7 @@
 layout: page
 title: SkySearch
 description: Missing Person Identification Using Aerial Drone Sensing
-img: https://github.com/duncancalvert/SkySearch_UAV/blob/main/media/images/SkySearch_Logos/SkySearchLogo5_Edited.png
+img: assets/img/SkySearchLogo5_Edited.png
 importance: 1
 category: projects
 related_publications: true
