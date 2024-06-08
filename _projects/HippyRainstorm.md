@@ -2,7 +2,7 @@
 layout: page
 title: Hippy Rainstorm
 description: a project with a background image and giscus comments
-img: https://github.com/duncancalvert/duncancalvert.github.io/blob/master/assets/img/Hippy-Rainstorm-Light%20with%20Music.gif
+img: assets/img/Hippy-Rainstorm-Light%20with%20Music.gif
 importance: 2
 redirect: https://github.com/duncancalvert/Hippy-Rainstorm
 category: projects
