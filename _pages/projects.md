@@ -2,12 +2,13 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: 
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [projects] 
 horizontal: false
 ---
+<!-- create a comma separated list in display_categories to break up project categories --> 
 
 <!-- pages/projects.md -->
 <div class="projects">
