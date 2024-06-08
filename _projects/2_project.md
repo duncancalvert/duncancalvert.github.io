@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 2
+title: Hippy Rainstorm
 description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+img: https://github.com/duncancalvert/duncancalvert.github.io/blob/master/assets/img/Hippy-Rainstorm-Light%20with%20Music.gif
 importance: 2
-category: work
+category: projects
 giscus_comments: true
 ---
 
