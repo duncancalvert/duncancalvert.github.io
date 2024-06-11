@@ -131,7 +131,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Robo-Realms # blog_name will be displayed in your blog page
-blog_description: My personal writings on data science, automation, robotics, and everything in between
+blog_description: My writings on data science, automation, robotics, and everything in between
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
