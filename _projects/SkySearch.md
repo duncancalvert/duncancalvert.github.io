@@ -4,7 +4,7 @@ title: SkySearch
 description: Missing Person Identification Using Aerial Drone Sensing
 img: assets/img/SkySearchLogo5_Edited.png
 importance: 1
-category: projects
+category: Robotics
 related_publications: true
 ---
 
