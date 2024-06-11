@@ -5,7 +5,7 @@ permalink: /projects/
 description: 
 nav: true
 nav_order: 3
-display_categories: [projects] 
+display_categories: [Visual Art, Robotics, Data Science] 
 horizontal: false
 ---
 <!-- create a comma separated list in display_categories to break up project categories --> 
