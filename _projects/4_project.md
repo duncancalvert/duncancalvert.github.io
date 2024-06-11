@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: Infinite Loop
+description: A CSS infinite loop on a pastel background
+img: 
 importance: 3
-category: fun
+category: Visual Art
 ---
 
 Every project has a beautiful feature showcase page.
