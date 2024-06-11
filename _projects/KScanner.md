@@ -5,7 +5,7 @@ description: KScanner is a novel combination of DBSCAN and K-Means clustering
 img: assets/img/7.jpg
 redirect: https://github.com/duncancalvert/kscanner
 importance: 3
-category: Data-Science
+category: Data Science
 ---
 
 Every project has a beautiful feature showcase page.
