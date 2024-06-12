@@ -30,12 +30,13 @@
   "work": [
     {
       "name": "Wells Fargo",
-      "position": "VP, Senior Lead Data Product Owner",
+      "position": "VP, Senior Lead Data Product Manager",
       "url": "",
       "startDate": "2024-01-01",
       "endDate": "Present",
       "summary": "",
-      "highlights": ["Relativity"]
+      "highlights": ["Led product ownership and development on an enterprise-wide internal application supporting 15,000 data scientists, analysts, engineers, and business users",\
+        "Built internal-facing AI/ML knowledge base and chatbot that increased employee efficiency by 30%"]
     },
     {
       "name": "Wells Fargo",
