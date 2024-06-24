@@ -2,6 +2,7 @@ github_users:
   - duncancalvert
 
 github_repos:
-  - duncancalvert/SkySearch_UAV
+  - duncancalvert/SkySearch
   - duncancalvert/kscanner
   - duncancalvert/Hippy-Rainstorm
+  - duncancalvert/ms_copilot_studio_extensions
