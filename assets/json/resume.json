@@ -1,18 +1,18 @@
 {
   "basics": {
     "name": "Duncan Calvert",
-    "label": "Machine Learning Engineer",
+    "label": "Data Scientist",
     "image": "",
     "email": "duncanscalvert@gmail.com",
     "phone": "",
     "url": "https://www.linkedin.com/in/duncan-calvert/",
-    "summary": "I am an data scientist with 7+ years of experience leveraging cutting-edge technologies to build great products. I am passionate about solving complex problems, contributing to open-source software, continuous learning, and fostering meaningful professional relationships.",
+    "summary": "I am a data scientist with 7+ years of experience leveraging cutting-edge technologies to build great products. I am passionate about solving complex problems, contributing to open-source software, continuous learning, and fostering meaningful professional relationships.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Chicago",
+      "city": "",
       "countryCode": "US",
-      "region": "Illinois"
+      "region": ""
     },
     "profiles": [
       {
@@ -31,38 +31,55 @@
     {
       "name": "Wells Fargo",
       "position": "VP, Senior Lead Data Product Manager",
-      "url": "",
+      "url": "https://www.wellsfargo.com/",
       "startDate": "2024-01-01",
       "endDate": "Present",
       "summary": "",
-      "highlights": ["Led product ownership and development on an enterprise-wide internal application supporting 15,000 data scientists, analysts, engineers, and business users","Built internal-facing AI/ML knowledge base and chatbot that increased employee efficiency by 30%"]
+      "highlights": ["Serving as lead developer, product manager, and vendor manager on an enterprise-wide internal application supporting 15,000 data scientists, analysts, engineers, and business users",
+                    "Building a suite of intent-driven and LLM-based RAG chatbots that automate 30% of total user support tickets", 
+                    "Managing 100+ RPA automations to ensure risk and operations are handled systematically, eliminating 300 payroll hours a week", 
+                    "Architecting a recommendation engine-powered news feed for internal employees",
+                    "Designing and developing dynamic application user interfaces that span mobile, tablet, and browser using Microsoft Power Apps, JavaScript, HTML, and CSS"]
     },
     {
       "name": "Wells Fargo",
       "position": "Lead Quantitative Analytics Specialist",
-      "url": "",
+      "url": "https://www.wellsfargo.com/",
       "startDate": "2022-01-01",
       "endDate": "2024-01-01",
       "summary": "",
-      "highlights": ["Relativity"]
+      "highlights": ["Enterprise-wide lead for AutoML (DataRobot, Driverless AI) and big data processing on-premise platforms supporting 51 deployed models with an ROI of $108MM",
+                    "Trained data scientists in modeling and big data processing frameworks (PySpark, Hadoop, PyTorch, etc.)",
+                    "Founded The Paper Collective, a biweekly academic paper discussion and research group with 30+ monthly active users"]
     },
     {
       "name": "Wells Fargo",
       "position": "AI Solutions Consultant",
-      "url": "",
+      "url": "https://www.wellsfargo.com/",
       "startDate": "2020-04",
       "endDate": "2021-12",
-      "summary": "Summary placeholder",
-      "highlights": ["Relativity"]
+      "summary": "",
+      "highlights": ["Technical product manager for the end-to-end model development life cycle supporting 26 models with a ROI of $71MM"]
     },
     {
       "name": "Wells Fargo",
       "position": "Associate AI Solutions Consultant",
-      "url": "",
+      "url": "https://www.wellsfargo.com/",
       "startDate": "2019-04",
       "endDate": "2020-03",
-      "summary": "Summary placeholder",
-      "highlights": ["Relativity"]
+      "summary": "",
+      "highlights": ["Facilitated data discovery and documentation for AI modeling efforts spanning hundreds of databases",
+                    "Developed, quantified, documented, and tracked AI business use cases"]
+    },
+    {
+      "name": "Apple, Inc.",
+      "position": "Data Analyst",
+      "url": "https://www.apple.com/",
+      "startDate": "2018-05",
+      "endDate": "2019-03",
+      "summary": "",
+      "highlights": ["Developed geospatial datasets using Python and SQL that powered the backend of Apple Maps and Apple Location Services",
+                    "Collaborated with data scientists to curate high-quality machine learning training data"]
     }
   ],
   "education": [
@@ -98,7 +115,9 @@
       "startDate": "2012",
       "endDate": "2016",
       "score": "",
-      "courses": ""
+      "courses": ["Division 1 Athletics: Track & Field/Cross Country",
+                  "Associated Students of UCSB, Student Director of Public Safety",
+                  "Daily Nexus Campus Newspaper, Stringer Reporter"]
     }
   ],
   "certificates": [
@@ -107,13 +126,13 @@
       "date": "2024-2027",
       "issuer": "Google Cloud Platform",
       "url": "https://www.credly.com/badges/2569e294-71bb-4cf5-9bb3-b47d8c2d17b1/linked_in_profile",
-      "icon": "fa-solid fa-location-dot"
+      "icon": "fa-solid fa-tag"
     },
     {
       "name": "Alteryx Foundation Micro-Credential",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "date": "2023 - 2025",
+      "issuer": "Alteryx",
+      "url": "https://community.alteryx.com/t5/badges/userbadgespage/user-id/419215/page/1",
       "icon": "fa-solid fa-tag"
     },
     {
@@ -121,33 +140,33 @@
       "date": "2018-01-01",
       "issuer": "Stanford University",
       "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
+      "icon": "fa-solid fa-tag"
     },
     {
       "name": "Quantum Cryptography",
       "date": "2018-01-01",
       "issuer": "Stanford University",
       "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
+      "icon": "fa-solid fa-tag"
     },
     {
       "name": "Quantum Communication",
       "date": "2018-01-01",
       "issuer": "Stanford University",
       "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
+      "icon": "fa-solid fa-tag"
     },
     {
       "name": "Quantum Teleportation",
       "date": "2018-01-01",
       "issuer": "Stanford University",
       "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "icon": "fa-solid fa-tag"
     }
   ],
   "skills": [
     {
-      "name": "Languages",
+      "name": "Programming Languages",
       "level": "",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
@@ -155,8 +174,9 @@
         "SQL",
         "R",
         "JavaScript/TypeScript",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "HTML/CSS",
+        "JSON",
+        "YAML"
       ]
     },
     {
@@ -166,10 +186,21 @@
       "keywords": [
         "Data Mining",
         "Clustering",
-        "Computer Vision",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Pandas",
+        "NumPy",
+        "SciPy",
+        "Scikit-learn",
+        "PyTorch",
+        "TensorFlow",
+        "XGBoost",
+        "OpenCV",
+        "DataRobot",
+        "Driverless AI", 
+        "Vertex AI",
+        "Gensim",
+        "NLTK",
+        "Gen AI/LLM",
+        "Model Garden"
       ]
     }
   ],
