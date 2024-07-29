@@ -2,7 +2,7 @@
 layout: page
 title: MS Copilot Studio Extensions
 description: A repository of front-end code extensions for Microsoft Copilot Studio (formerly "Power Virtual Agent") deployments 
-img: assets/img/MS_Copilot_Studio_Logo.jpg
+img: assets/img/MS_Copilot_Studio.jpeg
 redirect: https://github.com/duncancalvert/ms_copilot_studio_extensions
 importance: 3
 category: Data Science
