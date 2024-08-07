@@ -122,6 +122,13 @@
   ],
   "certificates": [
     {
+      "name": "Neo4j Graph Data Science Certification",
+      "date": "2024-No Expiration Date",
+      "issuer": "Neo4j, Inc.",
+      "url": "https://graphacademy.neo4j.com/c/b0752668-cdd4-4087-890d-43c78dfbf1ab/",
+      "icon": "fa-solid fa-tag"
+    },
+    {
       "name": "Cloud Digital Leader",
       "date": "2024-2027",
       "issuer": "Google Cloud Platform",
@@ -133,34 +140,6 @@
       "date": "2023-2025",
       "issuer": "Alteryx",
       "url": "https://community.alteryx.com/t5/badges/userbadgespage/user-id/419215/page/1",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
       "icon": "fa-solid fa-tag"
     }
   ],
@@ -202,6 +181,52 @@
         "Gen AI/LLM",
         "Model Garden"
       ]
+    },
+    {
+      "name": "Data Engineering",
+      "level": "",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "PySpark",
+        "PostgreSQL",
+        "Hadoop"
+      ]
+    },
+    {
+      "name": "Product Management",
+      "level": "",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Jira",
+        "Confluence",
+        "Agile",
+        "Scrum",
+        "Kanban",
+        "MS Planner",
+        "Excel",
+        "Word",
+        "PowerPoint"
+      ]
+    },
+    {
+      "name": "Tools and Platforms",
+      "level": "",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Git/GitHub",
+        "Linux",
+        "Google Cloud Platform (GCP)",
+        "Amazon Web Services (AWS)",
+        "Tableau",
+        "Power BI",
+        "MS Power Apps",
+        "MS Power Automate",
+        "MS Copilot Studio",
+        "VS Code",
+        "PyCharm",
+        "Anaconda",
+        "Neo4j"
+      ]
     }
   ],
   "languages": [
@@ -236,14 +261,14 @@
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "Ravenswood Community Services (Food Bank)",
+      "location": "Chicago, IL",
+      "position": "Volunteer",
+      "url": "",
+      "startDate": "2023",
+      "endDate": "",
+      "summary": "",
+      "highlights": [""]
     }
   ]
 }
