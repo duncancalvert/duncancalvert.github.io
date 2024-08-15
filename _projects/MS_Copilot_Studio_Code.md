@@ -1,9 +1,9 @@
 ---
 layout: page
-title: MS Copilot Studio Extensions
-description: A repository of front-end code extensions for Microsoft Copilot Studio (formerly "Power Virtual Agent") deployments 
-img: assets/img/MS_Copilot_Studio.jpeg
-redirect: https://github.com/duncancalvert/ms_copilot_studio_extensions
+title: Microsoft Power Platform - Reusable Code
+description: A repository of reusable code extensions for Microsoft Power Platform (including MS Copilot Studio (formerly "Power Virtual Agent"), Power Apps, MS Graph, Power Automate, etc.). 
+img: assets/img/MS_Power_Platform_logo.png
+redirect: https://github.com/duncancalvert/ms_power_platform_extensions
 importance: 3
 category: Data Science
 ---
