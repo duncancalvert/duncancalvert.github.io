@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Microsoft Power Platform - Reusable Code
+title: Microsoft Power Platform
 description: A repository of reusable code extensions for Microsoft Power Platform (including MS Copilot Studio (formerly "Power Virtual Agent"), Power Apps, MS Graph, Power Automate, etc.). 
 img: assets/img/MS_Power_Platform_logo.png
 redirect: https://github.com/duncancalvert/ms_power_platform_extensions
