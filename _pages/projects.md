@@ -8,6 +8,7 @@ nav_order: 3
 display_categories: [Data Science, Visual Art, Robotics] 
 horizontal: false
 ---
+
 <!-- create a comma separated list in display_categories to break up project categories --> 
 
 <!-- pages/projects.md -->
