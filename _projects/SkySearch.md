@@ -1,7 +1,7 @@
 ---
 layout: page
 title: SkySearch
-description: Missing Person Identification Using Aerial Drone Sensing
+description: Generalized Object Detection and Search Using UAVs and Multimodal Large Language Models​
 img: assets/img/SkySearchLogo5_Edited.png
 importance: 1
 redirect: https://github.com/duncancalvert/SkySearch_UAV
