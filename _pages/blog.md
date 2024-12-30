@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /blog/
-title: Diode Dialogues
+title: blog
 nav: true
 nav_order: 1
 pagination:
