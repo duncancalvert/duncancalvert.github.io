@@ -15,7 +15,7 @@ The rise of AI and Agentic frameworks have redefined the landscape of product de
 AI systems introduce new kinds of architecture concerns: model training pipelines, feature stores, real-time inference latency, versioning of data/models, and monitoring for drift and degradation. The AI TPM must orchestrate this stack while aligning with model scientists, ML engineers, infra teams, data SMEs, end users, and compliance stakeholders. They are responsible not just for what gets built, but how learning systems are trained, deployed, scaled, and governed. AI TPMs live at the intersection of infrastructure, research, and imperfect .
 
 ---
-## Skill Set
+## Skill Sets
 <br />
 
 
