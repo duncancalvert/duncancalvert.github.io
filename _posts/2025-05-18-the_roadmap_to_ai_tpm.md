@@ -15,33 +15,19 @@ The rise of AI and Agentic frameworks have redefined the landscape of product de
 AI systems introduce new kinds of architecture concerns: model training pipelines, feature stores, real-time inference latency, versioning of data/models, and monitoring for drift and degradation. The AI TPM must orchestrate this stack while aligning with model scientists, ML engineers, infra teams, data SMEs, end users, and compliance stakeholders. They are responsible not just for what gets built, but how learning systems are trained, deployed, scaled, and governed. AI TPMs live at the intersection of infrastructure, research, and imperfect .
 
 ---
-
 ## Skill Set
 <br />
 
-### Soft Skills
-* <ins>Stakeholder management</ins>: Adept at influencing executives and building consensus in a constantly changing and fast-paced environment. 
-* <ins>Expert Storytelling</ins>: master product positioning and messaging. Create a proven track record of successfully positioning solutions, presentation, and public speaking for technology professionals and leaders
-* <ins>Product Launch Experience</ins>: build up a knowledge of what to do at different stages of the product launch cycle, and how to do it
-* <ins>Growth and Expansive Mindset</ins>: foster a curiosity to learn, growth mindset, and positive attitude (kind human policy)
 
-### General Product Management
-* Waterfall
-* Agile (Scrum/Kanban)
-* Continuous Integration/Continuous Delivery (CI/CD)
-* DevOps and Site Reliability Engineering (SRE)
-* Robust documentation
-* FinOps
-
-### AI Product Management
+### AI Product Skills
 * <ins>AI product sense</ins>: understand what can, and importantly cannot, be solved by AI (i.e. AI is not a silver bullet, many processes and products are better served with non-AI solutions)
-* AI experiment design: practice iterative hypothesis testing with quantitative evaluation. Lead with A/B test, user interviews, and user feedback loops wherever possible
-* Market insight: build a deep understanding of the AI market, its competitive landscape, and emerging trends
-* <ins>User Journeys</ins>: define clear user journeys that align to a strategic product philosophy and north star metric
+* <ins>AI experiment design</ins>: practice iterative hypothesis testing with quantitative evaluation. Lead with A/B test, user interviews, and user feedback loops wherever possible
+* <ins>Market insight</ins>: build a deep understanding of the AI market, its competitive landscape, and emerging trends
+* <ins>User Journeys</ins>: define clear user journeys that align to a strategic AI product philosophy and north star metric
 
 ### Traditional Data Science Expertise
 * <ins>AI models</ins>: understand what the difference is between Random Forest, SVM, and KNN and when to use one over the other on a problem. 
-* <ins>AI evaluation metrics</ins>: undestand the right metric for the model(s) and the use case.
+* <ins>AI evaluation metrics</ins>: undestand the right metrics for each model and use case.
 * Model Development Lifecycle (MDLC): 
 * Machine Learning Operations (MLOps) processes and principles
 * Python (OOP principles, Pandas, NumPy, Jupyter)
@@ -59,7 +45,7 @@ AI systems introduce new kinds of architecture concerns: model training pipeline
         * [(Book) Build a Large Language Model (From Scratch) by Sebastian Raschka](https://www.manning.com/books/build-a-large-language-model-from-scratch)
         * [(Video) Deep Dive into LLMs like ChatGPT by Andrej Karpathy](https://www.youtube.com/watch?v=7xTGNNLPyMI&ab_channel=AndrejKarpathy)
         * [(Paper) Attention is All You Need](https://arxiv.org/abs/1706.03762)
-        * [(Class) Stanford CS229 | Machine Learning | Building Large Language Models (LLMs)](https://www.youtube.com/watch?v=9vM4p9NN0Ts&ab_channel=StanfordOnline)
+        * [(Class) Stanford CS229 - Machine Learning - Building Large Language Models (LLMs)](https://www.youtube.com/watch?v=9vM4p9NN0Ts&ab_channel=StanfordOnline)
     * Diffusion model architecture
     * GAN model architecture
 * LLM benchmarks
@@ -94,7 +80,6 @@ AI systems introduce new kinds of architecture concerns: model training pipeline
     * [(Class) AI Agentic Design Patterns with AutoGen by DeepLearning.AI](https://www.deeplearning.ai/short-courses/ai-agentic-design-patterns-with-autogen/)
     * [(Class) Multi AI Agent Systems with crewAI by DeepLearning.AI](https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/)
 
-
 ### General Technical Expertise
 * Public cloud infrastructure (GCP, Azure, AWS)
 * Data pipelines
@@ -108,9 +93,25 @@ AI systems introduce new kinds of architecture concerns: model training pipeline
     * Design authentication and rate limiting systems
     * Build WebSocket implementations for real-time AI interactions
 
+### Soft Skills
+* <ins>Stakeholder management</ins>: Adept at influencing executives and building consensus in a constantly changing and fast-paced environment. 
+* <ins>Expert Storytelling</ins>: master product positioning and messaging. Create a proven track record of successfully positioning solutions, presentation, and public speaking for technology professionals and leaders
+* <ins>Product Launch Experience</ins>: build up a knowledge of what to do at different stages of the product launch cycle, and how to do it
+* <ins>Growth and Expansive Mindset</ins>: foster a curiosity to learn, growth mindset, and positive attitude (kind human policy)
+
+### General Product Management
+* Waterfall
+* Agile (Scrum/Kanban)
+* Continuous Integration/Continuous Delivery (CI/CD)
+* DevOps and Site Reliability Engineering (SRE)
+* Robust documentation
+* FinOps
+
+
 ---
 
 ## Newsletters, Podcasts, and People
+<br />
 
 ### Newsletters
 * [The Sequence](https://thesequence.substack.com/): A weekly series that does technical deep dives on the latest AI/ML techniques 
