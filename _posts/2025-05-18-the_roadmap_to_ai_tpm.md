@@ -49,6 +49,8 @@ AI systems introduce new kinds of architecture concerns: model training pipeline
     * Diffusion model architecture
     * GAN model architecture
 * LLM benchmarks
+    * [AI Fundamentals: Benchmarks 101](https://www.latent.space/p/benchmarks-101)
+    * [Benchmarks 201: Why Leaderboards > Arenas >> LLM-as-Judge](https://www.latent.space/p/benchmarks-201)
 * LLM evaluation strategies
 * Prompt Engineering
     * [(Article) OpenAI Prompting Guide](https://platform.openai.com/docs/guides/text?api-mode=responses)
@@ -127,6 +129,7 @@ AI systems introduce new kinds of architecture concerns: model training pipeline
 ### Podcasts
 * [Practical AI by Changelog](https://podcasts.apple.com/us/podcast/practical-ai/id1406537385)
 * [Inference by Turing Post](https://www.youtube.com/playlist?list=PLRRoCwK1ZTNCAZXXOswpIYQqzMgT4swsI)
+* [Latent Space: The AI Engineer Podcast](https://www.latent.space/podcast)
 
 ### People to Follow
 * [Yann LeCun](https://www.linkedin.com/in/yann-lecun/)
