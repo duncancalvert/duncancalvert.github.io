@@ -17,6 +17,7 @@ AI systems introduce new kinds of architecture concerns: model training pipeline
 ---
 
 ## Skill Set
+<br />
 
 ### Soft Skills
 * <ins>Stakeholder management</ins>: Adept at influencing executives and building consensus in a constantly changing and fast-paced environment. 
