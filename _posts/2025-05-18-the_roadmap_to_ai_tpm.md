@@ -138,6 +138,6 @@ AI systems introduce new kinds of architecture concerns: model training pipeline
 ### People to Follow
 * [Yann LeCun](https://www.linkedin.com/in/yann-lecun/)
 * Andrej Karpathy
-* Fei-Fei Li
+* [Fei-Fei Li](https://www.linkedin.com/in/fei-fei-li-4541247/)
 * [Eugene Yan](https://eugeneyan.com/subscribe): ML, RecSys, LLMs, and engineering
 
