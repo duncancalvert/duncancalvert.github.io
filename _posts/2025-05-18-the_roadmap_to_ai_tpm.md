@@ -36,6 +36,10 @@ AI systems introduce new kinds of architecture concerns: model training pipeline
     * [(Book) Deep Learning by Ian Goodfellow](https://www.deeplearningbook.org/)
 * SQL
 * Apache Spark/PySpark
+* Data Warehouse/Data Lakehouse
+   * Databricks
+   * Snowflake
+   * GCP BigQuery
 
 ### Gen AI Expertise
 * Vector databases (Pinecone, Weaviate, Chroma)
@@ -66,8 +70,8 @@ AI systems introduce new kinds of architecture concerns: model training pipeline
     * [(Paper) Agent-as-a-Judge: Evaluate Agents with Agents](https://arxiv.org/abs/2410.10934)
 * Agent Frameworks
     * LangChain
-        * [(Class) AI Agents in LangGraph by DeepLearning.AI](https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/)
     * LangGraph
+        * [(Class) AI Agents in LangGraph by DeepLearning.AI](https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/)
     * LlamaIndex
         * [(Class) Building Agentic RAG with LlamaIndex by DeepLearning.AI](https://www.deeplearning.ai/short-courses/building-agentic-rag-with-llamaindex/)
     * Open AI Agent SDK
