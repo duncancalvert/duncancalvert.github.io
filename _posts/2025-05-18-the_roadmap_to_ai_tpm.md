@@ -42,7 +42,7 @@ AI systems introduce new kinds of architecture concerns: model training pipeline
    * GCP BigQuery
 
 ### Gen AI Expertise
-* Vector databases (Pinecone, Weaviate, Chroma)
+* Vector databases (Pinecone, Weaviate, Chroma, Elasticsearch)
 * Model garden APIs (Azure, GCP, AWS, OpenAI)
 * Models
     * Transformer model architecture
@@ -65,6 +65,7 @@ AI systems introduce new kinds of architecture concerns: model training pipeline
 * Agent Fundamentals
     * [(White Paper) Google Agents White Paper by Julia Wiesinger et al.](https://www.kaggle.com/whitepaper-agents)
     * [(White Paper) Google Agents Companion White Paper by Antonio Gulli et al.](https://www.kaggle.com/whitepaper-agent-companion)
+    * [(Paper) AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenges](https://arxiv.org/abs/2505.10468)
     * [(Paper) ReAct: Synergizing Reasoning and Acting in Language Models by Shunyu Yao et al.](https://arxiv.org/abs/2210.03629)
 * Agent Evals
     * [(Paper) Agent-as-a-Judge: Evaluate Agents with Agents](https://arxiv.org/abs/2410.10934)
