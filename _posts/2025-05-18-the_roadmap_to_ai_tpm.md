@@ -12,7 +12,7 @@ typograms: true
 
 The rise of AI and Agentic frameworks have redefined the landscape of product development and the role of a TPM. A traditional TPM focuses on building scalable systems, ensures alignment of engineering execution with product goals, and translates business needs into technical specs. In contrast, an AI TPM guides the development of probabilistic, data-dependent products where performance can vary across inputs, and success isn’t measured in "features shipped" but in model quality, inference efficiency, and real-world generalization.
 
-AI systems introduce new kinds of architecture concerns: model training pipelines, feature stores, real-time inference latency, versioning of data/models, and monitoring for drift and degradation. The AI TPM must orchestrate this stack while aligning with model scientists, ML engineers, infra teams, data SMEs, end users, and compliance stakeholders. They are responsible not just for what gets built, but how learning systems are trained, deployed, scaled, and governed. AI TPMs live at the intersection of infrastructure, research, and imperfect .
+AI systems introduce new kinds of architecture concerns: model training pipelines, feature stores, real-time inference latency, versioning of data/models, and monitoring for drift and degradation. The AI TPM must orchestrate this stack while aligning with model scientists, ML engineers, infra teams, data SMEs, end users, and compliance stakeholders. They are responsible not just for what gets built, but how learning systems are trained, deployed, scaled, and governed. AI TPMs live at the intersection of infrastructure, research, and imperfect systems.
 
 ---
 ## Skill Sets
