@@ -9,8 +9,8 @@ typograms: true
 ---
 
 ## What is AI Agent Memory
-* An agent's "memory" is generally considered as data on past interactions or data not available in the user prompt that is added to the context window/prompt and passed to an LLM.
-* This "memory" helps the agent to better conceptualize the request, plan, and then answer the user or take an action.
+* An agent's "memory" is data that is not provided via the user prompt, but is appended to the prompt and passed to an LLM. Memory is diverse and encompass past chatbot interactions, past actions, external knowledge sources, system prompts, guardrails, etc.
+* This memory helps the agent to better conceptualize the request, plan, and then answer the user or take an action.
 
 ---
 ## Long-Term Agent Memory Types
