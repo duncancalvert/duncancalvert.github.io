@@ -20,11 +20,6 @@ typograms: true
 * Agent memory encompasses a diverse set of references and can include everything from past user interactions, previous agent actions, external knowledge bases, system prompts, guardrails, etc.
 * The additional context and knowledge provided by memory helps the agent to better conceptualize the request, plan, and then answer the user or take an action.
 
-<div style="text-align: center;">
-  <img src="https://github.com/duncancalvert/duncancalvert.github.io/blob/master/assets/img/agent_memory_post/agent_memory.png" alt="Agent Memory Diagram" style="max-width: 100%; height: auto;" />
-  <p style="font-size: 0.9em; font-style: italic; color: #555;">Cognitive Architectures for Language Agents</p>
-</div>
-
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/duncancalvert/duncancalvert.github.io/blob/master/assets/img/agent_memory_post/agent_memory.png">
   <img alt="Agent Memory Diagram" src="https://github.com/duncancalvert/duncancalvert.github.io/blob/master/assets/img/agent_memory_post/agent_memory.png">
