@@ -2,14 +2,14 @@
 layout: page
 title: projects
 permalink: /projects/
-description: 
+description:
 nav: true
 nav_order: 3
-display_categories: [Data Science, Visual Art, Robotics] 
+display_categories: [Data Science, Visual Art, Robotics]
 horizontal: false
 ---
 
-<!-- create a comma separated list in display_categories to break up project categories --> 
+<!-- create a comma separated list in display_categories to break up project categories -->
 
 <!-- pages/projects.md -->
 <div class="projects">

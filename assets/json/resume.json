@@ -35,11 +35,13 @@
       "startDate": "2024-01-01",
       "endDate": "Present",
       "summary": "",
-      "highlights": ["Architect, technical product manager, and vendor manager on an enterprise-wide internal application supporting 20,000 data scientists, analysts, engineers, and business users",
-                    "Built a suite of intent-driven and LLM-based RAG chatbots that automate 40% of total user support tickets", 
-                    "Managing 100+ RPA automations to ensure risk and operations are handled systematically, eliminating 300 payroll hours a week", 
-                    "Architecting a recommendation engine-powered news feed for internal employees",
-                    "Designing and developing dynamic application user interfaces that span mobile, tablet, and browser using Microsoft Power Apps, JavaScript, HTML, and CSS"]
+      "highlights": [
+        "Architect, technical product manager, and vendor manager on an enterprise-wide internal application supporting 20,000 data scientists, analysts, engineers, and business users",
+        "Built a suite of intent-driven and LLM-based RAG chatbots that automate 40% of total user support tickets",
+        "Managing 100+ RPA automations to ensure risk and operations are handled systematically, eliminating 300 payroll hours a week",
+        "Architecting a recommendation engine-powered news feed for internal employees",
+        "Designing and developing dynamic application user interfaces that span mobile, tablet, and browser using Microsoft Power Apps, JavaScript, HTML, and CSS"
+      ]
     },
     {
       "name": "Wells Fargo",
@@ -48,9 +50,11 @@
       "startDate": "2022-01-01",
       "endDate": "2024-01-01",
       "summary": "",
-      "highlights": ["Enterprise-wide platform lead for AutoML (DataRobot, Driverless AI) and big data processing on-premise platforms supporting 51 deployed models with an ROI of $108MM",
-                    "Trained data scientists in modeling and big data processing frameworks (PySpark, Hadoop, PyTorch, etc.)",
-                    "Founded The Paper Collective, a biweekly academic paper discussion and research group with 40+ monthly active users"]
+      "highlights": [
+        "Enterprise-wide platform lead for AutoML (DataRobot, Driverless AI) and big data processing on-premise platforms supporting 51 deployed models with an ROI of $108MM",
+        "Trained data scientists in modeling and big data processing frameworks (PySpark, Hadoop, PyTorch, etc.)",
+        "Founded The Paper Collective, a biweekly academic paper discussion and research group with 40+ monthly active users"
+      ]
     },
     {
       "name": "Wells Fargo",
@@ -68,8 +72,10 @@
       "startDate": "2019-04",
       "endDate": "2020-03",
       "summary": "",
-      "highlights": ["Facilitated data discovery and documentation for AI modeling efforts spanning hundreds of databases",
-                    "Developed, quantified, documented, and tracked AI business use cases"]
+      "highlights": [
+        "Facilitated data discovery and documentation for AI modeling efforts spanning hundreds of databases",
+        "Developed, quantified, documented, and tracked AI business use cases"
+      ]
     },
     {
       "name": "Apple, Inc.",
@@ -78,8 +84,10 @@
       "startDate": "2018-05",
       "endDate": "2019-03",
       "summary": "",
-      "highlights": ["Developed geospatial datasets using Python and SQL that powered the backend of Apple Maps and Apple Location Services",
-                    "Collaborated with data scientists to curate high-quality machine learning training data"]
+      "highlights": [
+        "Developed geospatial datasets using Python and SQL that powered the backend of Apple Maps and Apple Location Services",
+        "Collaborated with data scientists to curate high-quality machine learning training data"
+      ]
     }
   ],
   "education": [
@@ -92,8 +100,10 @@
       "startDate": "2021",
       "endDate": "2024",
       "score": "",
-      "courses": ["Time Series Analysis and Forecasting, Natural Language Processing and Cognitive Computing, Supply Chain Optimization, MLOps, Machine Learning, Data Mining, Linear Algebra, Data Engineering, Statistics, Linear and Non-Linear Modeling",
-                  "Thesis: Autonomous Drone Swarms for Search and Rescue"]
+      "courses": [
+        "Time Series Analysis and Forecasting, Natural Language Processing and Cognitive Computing, Supply Chain Optimization, MLOps, Machine Learning, Data Mining, Linear Algebra, Data Engineering, Statistics, Linear and Non-Linear Modeling",
+        "Thesis: Autonomous Drone Swarms for Search and Rescue"
+      ]
     },
     {
       "institution": "University of California, Berkeley",
@@ -115,9 +125,11 @@
       "startDate": "2012",
       "endDate": "2016",
       "score": "",
-      "courses": ["Division 1 Athletics: Track & Field/Cross Country",
-                  "Associated Students of UCSB, Student Director of Public Safety",
-                  "Daily Nexus Campus Newspaper, Stringer Reporter"]
+      "courses": [
+        "Division 1 Athletics: Track & Field/Cross Country",
+        "Associated Students of UCSB, Student Director of Public Safety",
+        "Daily Nexus Campus Newspaper, Stringer Reporter"
+      ]
     }
   ],
   "certificates": [
@@ -148,15 +160,7 @@
       "name": "Programming Languages",
       "level": "",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Python",
-        "SQL",
-        "R",
-        "JavaScript/TypeScript",
-        "HTML/CSS",
-        "JSON",
-        "YAML"
-      ]
+      "keywords": ["Python", "SQL", "R", "JavaScript/TypeScript", "HTML/CSS", "JSON", "YAML"]
     },
     {
       "name": "Data Science",
@@ -174,7 +178,7 @@
         "XGBoost",
         "OpenCV",
         "DataRobot",
-        "Driverless AI", 
+        "Driverless AI",
         "Vertex AI",
         "Gensim",
         "NLTK",
@@ -186,27 +190,13 @@
       "name": "Data Engineering",
       "level": "",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "PySpark",
-        "PostgreSQL",
-        "Hadoop"
-      ]
+      "keywords": ["PySpark", "PostgreSQL", "Hadoop"]
     },
     {
       "name": "Product Management",
       "level": "",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Jira",
-        "Confluence",
-        "Agile",
-        "Scrum",
-        "Kanban",
-        "MS Planner",
-        "Excel",
-        "Word",
-        "PowerPoint"
-      ]
+      "keywords": ["Jira", "Confluence", "Agile", "Scrum", "Kanban", "MS Planner", "Excel", "Word", "PowerPoint"]
     },
     {
       "name": "Tools and Platforms",
