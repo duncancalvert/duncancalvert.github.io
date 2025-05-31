@@ -6,6 +6,7 @@ description: Demystifying the different types of AI agent memory
 tags: AI Research Agents
 categories: data-science
 typograms: true
+thumbnail: assets/img/agent_memory_post/agent_memory.png
 ---
  
 <p style="text-align: center;">
