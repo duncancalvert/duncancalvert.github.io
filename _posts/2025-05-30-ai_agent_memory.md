@@ -22,7 +22,7 @@ typograms: true
 
 <div style="text-align: center;">
   <img src="assets/img/agent_memory_post/agent_memory.png" alt="Agent Memory Diagram" style="max-width: 100%; height: auto;" />
-  <p style="font-size: 0.9em; font-style: italic; color: #555;">[Cognitive Architectures for Language Agents](https://arxiv.org/pdf/2309.02427)</p>
+  <p style="font-size: 0.9em; font-style: italic; color: #555;">Cognitive Architectures for Language Agents</p>
 </div>
 
 ---
