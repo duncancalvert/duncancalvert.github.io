@@ -18,9 +18,10 @@ typograms: true
 * Agent memory encompasses a diverse set of references and can include everything from past user interactions, previous agent actions, external knowledge bases, system prompts, guardrails, etc.
 * The additional context and knowledge provided by memory helps the agent to better conceptualize the request, plan, and then answer the user or take an action.
 
-![Agent Memory Diagram](assets/img/agent_memory_post/agent_memory.png)<br>
-<em>Image Source: [Cognitive Architectures for Language Agents](https://arxiv.org/pdf/2309.02427)</em>
-
+<div style="text-align: center;">
+  <img src="assets/img/agent_memory_post/agent_memory.png" alt="Agent Memory Diagram" style="max-width: 100%; height: auto;" />
+  <p style="font-size: 0.9em; font-style: italic; color: #555;">[Cognitive Architectures for Language Agents](https://arxiv.org/pdf/2309.02427)</p>
+</div>
 
 ---
 ## Long-Term Agent Memory Types
@@ -34,7 +35,7 @@ typograms: true
 * This short-term memory is added to the user prompt and passed to the LLM with the aim of boosting performance
 * Any intermediate reasoning steps/action history of the current session is also considered short-term memory when in-use.
 
-
+---
 ### References
 * [Cognitive Architectures for Language Agents](https://arxiv.org/pdf/2309.02427)
 
