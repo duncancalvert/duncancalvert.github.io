@@ -7,15 +7,19 @@ tags: AI Research Agents
 categories: data-science
 typograms: true
 ---
+ 
+<p style="text-align: center;">
+    <em>"What we call the present is given shape by an accumulation of memories."</em><br>
+    — Haruki Murakami
+</p>
 
 ## What is AI Agent Memory
 * An agent's "memory" is data that is not provided by the user in their prompt, but is retrieved and appended to the reasoning process via runtime calls. 
 * Agent memory encompasses a diverse set of references and can include everything from past user interactions, previous agent actions, external knowledge bases, system prompts, guardrails, etc.
 * The additional context and knowledge provided by memory helps the agent to better conceptualize the request, plan, and then answer the user or take an action.
 
-![Agent Memory Diagram](/Users/attis/VS_Code_Repos/duncancalvert.github.io/assets/img/agent_memory_post/agent_memory.png)
-*Image Source: [Cognitive Architectures for Language Agents](https://arxiv.org/pdf/2309.02427)*
-
+![Agent Memory Diagram](assets/img/agent_memory_post/agent_memory.png)<br>
+<em>Image Source: [Cognitive Architectures for Language Agents](https://arxiv.org/pdf/2309.02427)</em>
 
 
 ---
