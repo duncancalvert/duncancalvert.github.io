@@ -21,7 +21,7 @@ typograms: true
 * The additional context and knowledge provided by memory helps the agent to better conceptualize the request, plan, and then answer the user or take an action.
 
 <div style="text-align: center;">
-  <img src="assets/img/agent_memory_post/agent_memory.png" alt="Agent Memory Diagram" style="max-width: 100%; height: auto;" />
+  <img src="https://github.com/duncancalvert/duncancalvert.github.io/blob/master/assets/img/agent_memory_post/agent_memory.png" alt="Agent Memory Diagram" style="max-width: 100%; height: auto;" />
   <p style="font-size: 0.9em; font-style: italic; color: #555;">Cognitive Architectures for Language Agents</p>
 </div>
 
