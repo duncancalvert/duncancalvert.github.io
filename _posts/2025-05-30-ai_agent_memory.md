@@ -25,6 +25,7 @@ typograms: true
   <p style="font-size: 0.9em; font-style: italic; color: #555;">Cognitive Architectures for Language Agents</p>
 </div>
 
+
 ---
 ## Long-Term Agent Memory Types
 1. **Episodic:** this type of memory contains past agent interactions and agent action logs. For example, if you asked a chatbot to "repeat the last action that it took in a previous session," it could use episodic memory to complete this request.
