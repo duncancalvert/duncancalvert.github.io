@@ -7,11 +7,13 @@ tags: AI Research Agents
 categories: data-science
 typograms: true
 ---
- 
+
+<br>
 <p style="text-align: center;">
     <em>"What we call the present is given shape by an accumulation of memories."</em><br>
     — Haruki Murakami
 </p>
+<br>
 
 ## What is AI Agent Memory
 * An agent's "memory" is data that is not provided by the user in their prompt, but is retrieved and appended to the reasoning process via runtime calls. 
