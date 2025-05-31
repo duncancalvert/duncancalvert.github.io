@@ -24,6 +24,9 @@ typograms: true
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/duncancalvert/duncancalvert.github.io/blob/master/assets/img/agent_memory_post/agent_memory.png">
   <img alt="Agent Memory Diagram" src="https://github.com/duncancalvert/duncancalvert.github.io/blob/master/assets/img/agent_memory_post/agent_memory.png">
 </picture>
+<div style="text-align: center;">
+  <p style="font-size: 0.9em; font-style: italic; color: #555;">Cognitive Architectures for Language Agents</p>
+</div>
 
 
 ---
