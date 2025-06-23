@@ -19,6 +19,13 @@ thumbnail: assets/img/agent_memory_post/agent_memory.png
 <br>
 
 
+## Why Do Agents Need Memory
+
+Imagine trying to hold a conversation with someone who forgets everything you’ve said the moment you stop talking. That’s essentially what AI agents are without memory, perpetually amnesiac, doomed to reinvent the wheel with every interaction. 
+
+Memory gives agents context: what you asked before, what actions they've taken, and what worked (or failed) in the past. It's the difference between your trusted lieutenance and right hand man and a goldfish with Wi-Fi.
+
+Just like humans, agents use memory to build up knowledge, learn from past mistakes, and recognize familiar faces. This helps them better personalize experiences, conduct long-term planning, and avoids repeat mistakes. Without memory, an agent can’t improve or adapt; it’s like trying to navigate a city with no map and no recollection of where you’ve been. Memory turns reactive automatons into proactive thinkers.
 
 ## What is AI Agent Memory
 * An agent's "memory" is data that is not provided by the user in their prompt, but is retrieved and appended to the reasoning process via runtime calls. 
