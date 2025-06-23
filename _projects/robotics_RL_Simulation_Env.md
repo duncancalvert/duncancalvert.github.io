@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Reinforcement Learning & Robotic Simulation
+title: RL & Robotic Simulation
 description: Code tutorials for reinforcement learning using Gymnasium, GRID Robotics, and the NVIDIA Omniverse platforms.
-img: https://github.com/duncancalvert/rl_robotic_simulation_tutorials/blob/main/media/lunar_lander_gif.gif
+img: assets/img/lunar_lander_gif.gif
 redirect: https://github.com/duncancalvert/rl_robotic_simulation_tutorials
-importance: 3
+importance: 2
 category: Robotics
 ---
