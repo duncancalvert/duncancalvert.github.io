@@ -10,9 +10,23 @@ typograms: true
 
 ## What Makes an AI Technical Product Manager Different Than a Normal TPM
 
-The rise of AI and Agentic frameworks have redefined the landscape of product development and the role of a TPM. A traditional TPM focuses on building scalable systems, ensures alignment of engineering execution with product goals, and translates business needs into technical specs. In contrast, an AI TPM guides the development of probabilistic, data-dependent products where performance can vary across inputs, and success isn’t measured in "features shipped" but in model quality, inference efficiency, and real-world generalization.
 
-AI systems introduce new kinds of architecture concerns: model training pipelines, feature stores, real-time inference latency, versioning of data/models, and monitoring for drift and degradation. The AI TPM must orchestrate this stack while aligning with model scientists, ML engineers, infra teams, data SMEs, end users, and compliance stakeholders. They are responsible not just for what gets built, but how learning systems are trained, deployed, scaled, and governed. AI TPMs live at the intersection of infrastructure, research, and imperfect systems.
+<br>
+<br>
+<p style="text-align: center;">
+    <em>"Be stubborn on vision but flexible on details."</em><br>
+    — Jeff Bezos 
+</p>
+<br>
+<br>
+
+
+
+The rapid rise of AI and Agentic frameworks has redefined the landscape of product development and the role of a TPM. A traditional TPM focuses on building scalable systems, ensures alignment of engineering with product, and translates business needs into technical specs. They primarily build with tools that are time-tested, relatively stable, and well documented. 
+
+In contrast, AI TPMs live at the intersection of infrastructure, cutting edge research, and business outcomes. They guide the development of probabilistic, data-dependent products where performance varies widely across inputs, and success isn’t measured in "features shipped" but in hard to measure metrics like model quality, inference efficiency, and real-world generalization. Add to that the fact that tools are shifting under their feet with vendors and the open-source community launching new frameworks based on the latest cutting edge agentic and Gen AI research.
+
+Instead of the generally linear Software Development Lifecycle (SDLC) used to build traditional products, building AI systems require a highly iterative Model Development Lifecycle (MDLC). This involves continuously tweaking model training pipelines, feature stores, real-time inference latency, versioning of data/models, and monitoring for drift and degradation. This must be done in alignment with a motely crew of data scientists, ML engineers, infra teams, data SMEs, end users, and model governance stakeholders.
 
 ---
 
@@ -29,7 +43,7 @@ AI systems introduce new kinds of architecture concerns: model training pipeline
 
 ### Traditional Data Science Expertise
 
-- <ins>AI models</ins>: understand what the difference is between Random Forest, SVM, and KNN and when to use one over the other on a problem.
+- <ins>AI models</ins>: understand what the difference is between Random Forest, SVM, and KNN. Importantly, understand when to use one over the other on a problem.
 - <ins>AI evaluation metrics</ins>: undestand the right metrics for each model and use case.
 - Model Development Lifecycle (MDLC):
 - Machine Learning Operations (MLOps) processes and principles
