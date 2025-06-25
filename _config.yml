@@ -129,8 +129,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Diode Dialogues # blog_name will be displayed in your blog page
-blog_description: My writings on data science, automation, robotics, and everything in between
+blog_name: One Degree Better # blog_name will be displayed in your blog page
+blog_description: My writings on data science, robotics, philosophy, literature, and everything in between
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
