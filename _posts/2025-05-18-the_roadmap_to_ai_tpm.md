@@ -18,28 +18,27 @@ typograms: true
 <br>
 <br>
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/posts_the_roadmap_to_ai_pm/Map_Denise Jans Unsplash.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+
+<div class="container-fluid p-0">
+    <div class="w-100">
+        {% include figure.liquid loading="eager" path="assets/img/posts_the_roadmap_to_ai_pm/Map_Denise Jans Unsplash.jpg" class="img-fluid w-100 rounded z-depth-1" zoomable=true %}
     </div>
 </div>
-<div class="caption">
+<div class="caption text-center mt-2" style="font-size: 0.875rem; font-style: italic">
     Source: Photo by Denise Jans on Unsplash
 </div>
 <br>
 
 
-## Table of Contents
 <!-- TOC -->
 
 - [What Makes an AI Technical Product Manager Different Than a Normal TPM](#what-makes-an-ai-technical-product-manager-different-than-a-normal-tpm)
-- [Table of Contents](#table-of-contents)
 - [Skill Sets](#skill-sets)
     - [AI Product Skills](#ai-product-skills)
-    - [Traditional Data Science Expertise](#traditional-data-science-expertise)
-    - [Gen AI Expertise](#gen-ai-expertise)
-    - [Agentic Expertise](#agentic-expertise)
-    - [General Technical Expertise](#general-technical-expertise)
+    - [Traditional Data Science Skills](#traditional-data-science-skills)
+    - [Gen AI Skills](#gen-ai-skills)
+    - [Agentic Skills](#agentic-skills)
+    - [General Technical Skills](#general-technical-skills)
     - [Soft Skills](#soft-skills)
     - [General Product Management](#general-product-management)
 - [Newsletters, Podcasts, and People](#newsletters-podcasts-and-people)
@@ -48,10 +47,7 @@ typograms: true
     - [People to Follow](#people-to-follow)
 
 <!-- /TOC -->
-
-
 ## What Makes an AI Technical Product Manager Different Than a Normal TPM
-
 
 The rapid rise of AI and Agentic frameworks has redefined the landscape of product development and the role of a TPM. A traditional TPM focuses on building scalable systems, ensures alignment of engineering with product, and translates business needs into technical specs. They primarily build with tools that are time-tested, relatively stable, and well documented. 
 
@@ -59,12 +55,11 @@ In contrast, AI TPMs live at the intersection of infrastructure, cutting edge re
 
 Instead of the generally linear Software Development Lifecycle (SDLC) used to build traditional products, building AI systems require a highly iterative Model Development Lifecycle (MDLC). This involves continuously tweaking model training pipelines, feature stores, real-time inference latency, versioning of data/models, and monitoring for drift and degradation. This must be done in alignment with a motely crew of data scientists, ML engineers, infra teams, data SMEs, end users, and model governance stakeholders.
 
----
-
-## Skill Sets
-
 <br />
 
+
+## Skill Sets
+---
 ### AI Product Skills
 
 - <ins>AI product sense</ins>: understand what can, and importantly cannot, be solved by AI (i.e. AI is not a silver bullet, many processes and products are better served with non-AI solutions)
@@ -72,7 +67,7 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 - <ins>Market insight</ins>: build a deep understanding of the AI market, its competitive landscape, and emerging trends
 - <ins>User Journeys</ins>: define clear user journeys that align to a strategic AI product philosophy and north star metric
 
-### Traditional Data Science Expertise
+### Traditional Data Science Skills
 
 - <ins>AI models</ins>: understand what the difference is between Random Forest, SVM, and KNN. Importantly, understand when to use one over the other on a problem.
 - <ins>AI evaluation metrics</ins>: undestand the right metrics for each model and use case.
@@ -89,7 +84,7 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
   - Snowflake
   - GCP BigQuery
 
-### Gen AI Expertise
+### Gen AI Skills
 
 - Vector databases (Pinecone, Weaviate, Chroma, Elasticsearch)
 - Model garden APIs (Azure, GCP, AWS, OpenAI)
@@ -110,7 +105,7 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
   - [(Website) Prompt Engineering Guide by DAIR.AI](https://www.promptingguide.ai/)
 - LLM Observability (Langfuse and LangSmith)
 
-### Agentic Expertise
+### Agentic Skills
 
 - Agent Fundamentals
   - [(White Paper) Google Agents White Paper by Julia Wiesinger et al.](https://www.kaggle.com/whitepaper-agents)
@@ -137,7 +132,7 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
   - [(Class) AI Agentic Design Patterns with AutoGen by DeepLearning.AI](https://www.deeplearning.ai/short-courses/ai-agentic-design-patterns-with-autogen/)
   - [(Class) Multi AI Agent Systems with crewAI by DeepLearning.AI](https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/)
 
-### General Technical Expertise
+### General Technical Skills
 
 - Public cloud infrastructure (GCP, Azure, AWS)
 - Data pipelines
@@ -167,12 +162,11 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 - Robust documentation
 - FinOps
 
----
-
-## Newsletters, Podcasts, and People
-
 <br />
 
+
+## Newsletters, Podcasts, and People
+---
 ### Newsletters
 
 - [The Sequence](https://thesequence.substack.com/): A weekly series that does technical deep dives on the latest AI/ML techniques
