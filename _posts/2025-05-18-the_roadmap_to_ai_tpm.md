@@ -8,8 +8,6 @@ categories: data-science
 typograms: true
 ---
 
-## What Makes an AI Technical Product Manager Different Than a Normal TPM
-
 
 <br>
 <br>
@@ -20,6 +18,39 @@ typograms: true
 <br>
 <br>
 
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/posts_the_roadmap_to_ai_pm/Map_Denise Jans Unsplash.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    Source: Photo by Denise Jans on Unsplash
+</div>
+<br>
+
+
+## Table of Contents
+<!-- TOC -->
+
+- [What Makes an AI Technical Product Manager Different Than a Normal TPM](#what-makes-an-ai-technical-product-manager-different-than-a-normal-tpm)
+- [Table of Contents](#table-of-contents)
+- [Skill Sets](#skill-sets)
+    - [AI Product Skills](#ai-product-skills)
+    - [Traditional Data Science Expertise](#traditional-data-science-expertise)
+    - [Gen AI Expertise](#gen-ai-expertise)
+    - [Agentic Expertise](#agentic-expertise)
+    - [General Technical Expertise](#general-technical-expertise)
+    - [Soft Skills](#soft-skills)
+    - [General Product Management](#general-product-management)
+- [Newsletters, Podcasts, and People](#newsletters-podcasts-and-people)
+    - [Newsletters](#newsletters)
+    - [Podcasts](#podcasts)
+    - [People to Follow](#people-to-follow)
+
+<!-- /TOC -->
+
+
+## What Makes an AI Technical Product Manager Different Than a Normal TPM
 
 
 The rapid rise of AI and Agentic frameworks has redefined the landscape of product development and the role of a TPM. A traditional TPM focuses on building scalable systems, ensures alignment of engineering with product, and translates business needs into technical specs. They primarily build with tools that are time-tested, relatively stable, and well documented. 
