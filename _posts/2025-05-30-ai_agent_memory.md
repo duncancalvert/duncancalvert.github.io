@@ -34,9 +34,10 @@ Just like humans, agents use memory to build up knowledge, learn from past mista
 
 
 <br>
+
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/agent_memory_post/agent_memory.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/posts_agent_memory/agent_memory.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
@@ -60,7 +61,7 @@ Just like humans, agents use memory to build up knowledge, learn from past mista
 <br>
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/agent_memory_post/ai_agent_gif_cropped.gif" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/posts_agent_memory/ai_agent_gif_cropped.gif" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
