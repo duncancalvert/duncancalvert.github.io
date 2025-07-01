@@ -65,8 +65,24 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 
 ### Traditional Data Science Skills
 
-<details open>
-  <summary><b>Deep Learning (PyTorch/TensorFlow)</b></summary>
+<details>
+  <summary><b>AI models</b></summary>
+  <ul>
+    <li>Understand the difference between Random Forest, SVM, and KNN and when to use one over the other on a problem.</li>
+    <li>Understand the model architecture, hyperparameters, and issues with each model.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>AI evaluation metrics</b></summary>
+  <ul>
+    <li>Build an intuitive understanding of the right metrics for each model and use case.</li>
+    <li>Recognize areas of concern or blind spots for each metric.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>Deep Learning Frameworks (PyTorch/TensorFlow)</b></summary>
     <ul>
       <li>
         <a href="https://www.coursera.org/specializations/deep-learning">(Class) Deep Learning Specialisation by Andrew Ng</a>
@@ -76,53 +92,37 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
       </li>
 </details>
 
-<details open>
-  <summary><b>AI models</b></summary>
-  <ul>
-    <li>Understand the difference between Random Forest, SVM, and KNN and when to use one over the other on a problem.</li>
-    <li>Understand the model architecture, hyperparameters, and issues with each model.</li>
-  </ul>
-</details>
-
-<details open>
-  <summary><b>AI evaluation metrics</b></summary>
-  <ul>
-    <li>Build an intuitive understanding of the right metrics for each model and use case.</li>
-    <li>Recognize areas of concern or blind spots for each metric.</li>
-  </ul>
-</details>
-
-<details open>
+<details>
   <summary><b>Model Development Lifecycle (MDLC)</b></summary>
   <ul>
     <li>Understand the end-to-end process of building, testing, deploying, and monitoring machine learning models.</li>
   </ul>
 </details>
 
-<details open>
+<details>
   <summary><b>Machine Learning Operations (MLOps)</b></summary>
   <ul>
     <li>Learn the principles and practices of maintaining and scaling ML workflows in production environments.</li>
   </ul>
 </details>
 
-<details open>
+<details>
   <summary><b>Python</b></summary>
   <ul>
-    <li>Emphasis on OOP principles.</li>
+    <li>Learn Object-oriented programming (OOP) principles.</li>
     <li>Proficiency in Pandas and NumPy for data manipulation.</li>
     <li>Use Jupyter notebooks for exploration and experimentation.</li>
   </ul>
 </details>
 
-<details open>
+<details>
   <summary><b>SQL</b></summary>
   <ul>
     <li>Ensure fluency in querying and manipulating structured data from relational databases.</li>
   </ul>
 </details>
 
-<details open>
+<details>
   <summary><b>Apache Spark / PySpark</b></summary>
   <ul>
     <li>Leverage distributed computing for large-scale data processing.</li>
@@ -130,7 +130,7 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
   </ul>
 </details>
 
-<details open>
+<details>
   <summary><b>Data Warehouse / Data Lakehouse</b></summary>
   <ul>
     <li>Databricks</li>
@@ -142,92 +142,287 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 
 ### Gen AI Skills
 
-* Vector databases (Pinecone, Weaviate, Chroma, Elasticsearch)
-* Model garden APIs
-  * Azure
-  * GCP
-  * AWS
-  * OpenAI
-* Models
-  * Transformer model architecture
-    * [(Book) Build a Large Language Model (From Scratch) by Sebastian Raschka](https://www.manning.com/books/build-a-large-language-model-from-scratch)
-    * [(Video) Deep Dive into LLMs like ChatGPT by Andrej Karpathy](https://www.youtube.com/watch?v=7xTGNNLPyMI&ab_channel=AndrejKarpathy)
-    * [(Paper) Attention is All You Need](https://arxiv.org/abs/1706.03762)
-    * [(Class) Stanford CS229 - Machine Learning - Building Large Language Models (LLMs)](https://www.youtube.com/watch?v=9vM4p9NN0Ts&ab_channel=StanfordOnline)
-  * Diffusion model architecture
-  * GAN model architecture
-* LLM benchmarks
-  * [(Podcast Episode) AI Fundamentals: Benchmarks 101](https://www.latent.space/p/benchmarks-101)
-  * [(Podcast Episode) Benchmarks 201: Why Leaderboards > Arenas >> LLM-as-Judge](https://www.latent.space/p/benchmarks-201)
-* LLM evaluation strategies
-* Prompt Engineering
-  * [(Article) OpenAI Prompting Guide](https://platform.openai.com/docs/guides/text?api-mode=responses)
-  * [(Website) Prompt Engineering Guide by DAIR.AI](https://www.promptingguide.ai/)
-* LLM Observability (Langfuse and LangSmith)
+<details>
+  <summary><b>Vector Databases</b></summary>
+  <ul>
+    <li>Pinecone</li>
+    <li>Weaviate</li>
+    <li>Chroma</li>
+    <li>Elasticsearch</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>Model Garden APIs</b></summary>
+  <ul>
+    <li>Azure</li>
+    <li>GCP</li>
+    <li>AWS</li>
+    <li>OpenAI</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>Models</b></summary>
+  <ul>
+    <li><b>Transformer model architecture</b>
+      <ul>
+        <li><a href="https://www.manning.com/books/build-a-large-language-model-from-scratch">(Book) Build a Large Language Model (From Scratch) by Sebastian Raschka</a></li>
+        <li><a href="https://www.youtube.com/watch?v=7xTGNNLPyMI&ab_channel=AndrejKarpathy">(Video) Deep Dive into LLMs like ChatGPT by Andrej Karpathy</a></li>
+        <li><a href="https://arxiv.org/abs/1706.03762">(Paper) Attention is All You Need</a></li>
+        <li><a href="https://www.youtube.com/watch?v=9vM4p9NN0Ts&ab_channel=StanfordOnline">(Class) Stanford CS229 - Machine Learning - Building Large Language Models (LLMs)</a></li>
+      </ul>
+    </li>
+    <li><b>Diffusion model architecture</b></li>
+    <li><b>GAN model architecture</b></li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>LLM Benchmarks</b></summary>
+  <ul>
+    <li><a href="https://www.latent.space/p/benchmarks-101">(Podcast) AI Fundamentals: Benchmarks 101</a></li>
+    <li><a href="https://www.latent.space/p/benchmarks-201">(Podcast) Benchmarks 201: Why Leaderboards > Arenas >> LLM-as-Judge</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>LLM Evaluation Strategies</b></summary>
+  <ul>
+    <li>Understand qualitative and quantitative evaluation techniques for large language models.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>Prompt Engineering</b></summary>
+  <ul>
+    <li><a href="https://platform.openai.com/docs/guides/text?api-mode=responses">(Article) OpenAI Prompting Guide</a></li>
+    <li><a href="https://www.promptingguide.ai/">(Website) Prompt Engineering Guide by DAIR.AI</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>LLM Observability</b></summary>
+  <ul>
+    <li>Langfuse</li>
+    <li>LangSmith</li>
+  </ul>
+</details>
+
+---
 
 ### Agentic Skills
 
-* Agent Fundamentals
-  * [(White Paper) Google Agents White Paper by Julia Wiesinger et al.](https://www.kaggle.com/whitepaper-agents)
-  * [(White Paper) Google Agents Companion White Paper by Antonio Gulli et al.](https://www.kaggle.com/whitepaper-agent-companion)
-  * [(Paper) AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenges](https://arxiv.org/abs/2505.10468)
-  * [(Paper) ReAct: Synergizing Reasoning and Acting in Language Models by Shunyu Yao et al.](https://arxiv.org/abs/2210.03629)
-* Agent Evals
-  * [(Paper) Agent-as-a-Judge: Evaluate Agents with Agents](https://arxiv.org/abs/2410.10934)
-* Agent Frameworks
-  * LangChain
-  * LangGraph
-    * [(Class) AI Agents in LangGraph by DeepLearning.AI](https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/)
-  * LlamaIndex
-    * [(Class) Building Agentic RAG with LlamaIndex by DeepLearning.AI](https://www.deeplearning.ai/short-courses/building-agentic-rag-with-llamaindex/)
-  * Open AI Agent SDK
-  * Mastra
-* Agent Protocols
-  * Anthropic Model Context Protocol (MCP)
-    * [(Article) Why Every AI Builder Needs to Understand MCP](https://blog.neosage.io/p/why-every-ai-builder-needs-to-understand)
-  * Google Agent-2-Agent (A2A)
-* AI Integrated Development Environments (IDE): Cursor, Windsurf, or Replit
-* Agentic Design Patterns
-  * [(Article) Zero to One: Learning Agentic Patterns](https://www.philschmid.de/agentic-pattern)
-  * [(Class) AI Agentic Design Patterns with AutoGen by DeepLearning.AI](https://www.deeplearning.ai/short-courses/ai-agentic-design-patterns-with-autogen/)
-  * [(Class) Multi AI Agent Systems with crewAI by DeepLearning.AI](https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/)
+<details>
+  <summary><b>Agent Fundamentals</b></summary>
+  <ul>
+    <li><a href="https://www.kaggle.com/whitepaper-agents">(White Paper) Google Agents White Paper by Julia Wiesinger et al.</a></li>
+    <li><a href="https://www.kaggle.com/whitepaper-agent-companion">(White Paper) Google Agents Companion by Antonio Gulli et al.</a></li>
+    <li><a href="https://arxiv.org/abs/2505.10468">(Paper) AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenges</a></li>
+    <li><a href="https://arxiv.org/abs/2210.03629">(Paper) ReAct: Synergizing Reasoning and Acting in Language Models by Shunyu Yao et al.</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>Agent Evals</b></summary>
+  <ul>
+    <li><a href="https://arxiv.org/abs/2410.10934">(Paper) Agent-as-a-Judge: Evaluate Agents with Agents</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>Agent Frameworks</b></summary>
+  <ul>
+    <li>LangChain</li>
+    <li>LangGraph
+      <ul>
+        <li><a href="https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/">(Class) AI Agents in LangGraph by DeepLearning.AI</a></li>
+      </ul>
+    </li>
+    <li>LlamaIndex
+      <ul>
+        <li><a href="https://www.deeplearning.ai/short-courses/building-agentic-rag-with-llamaindex/">(Class) Building Agentic RAG with LlamaIndex</a></li>
+      </ul>
+    </li>
+    <li>OpenAI Agent SDK</li>
+    <li>Mastra</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>Agent Protocols</b></summary>
+  <ul>
+    <li><b>Anthropic Model Context Protocol (MCP)</b>
+      <ul>
+        <li><a href="https://blog.neosage.io/p/why-every-ai-builder-needs-to-understand">(Article) Why Every AI Builder Needs to Understand MCP</a></li>
+      </ul>
+    </li>
+    <li><b>Google Agent-2-Agent (A2A)</b></li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>AI Integrated Development Environments (IDEs)</b></summary>
+  <ul>
+    <li>Cursor</li>
+    <li>Windsurf</li>
+    <li>Replit</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>Agentic Design Patterns</b></summary>
+  <ul>
+    <li><a href="https://www.philschmid.de/agentic-pattern">(Article) Zero to One: Learning Agentic Patterns</a></li>
+    <li><a href="https://www.deeplearning.ai/short-courses/ai-agentic-design-patterns-with-autogen/">(Class) AI Agentic Design Patterns with AutoGen</a></li>
+    <li><a href="https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/">(Class) Multi AI Agent Systems with crewAI</a></li>
+  </ul>
+</details>
+
+---
 
 ### General Technical Skills
 
-* Public cloud infrastructure (GCP, Azure, AWS)
-* Data pipelines
-  * Apache Airflow/GCP Composer
-  * Dataflow
-  * Apache Beam
-  * Apache Kafka
-* API and Backend skills
-  * Develop backends with FastAPI or Flask
-  * Implement REST and streaming endpoints for AI services
-  * Design authentication and rate limiting systems
-  * Build WebSocket implementations for real-time AI interactions
+<details>
+  <summary><b>Public Cloud Infrastructure</b></summary>
+  <ul>
+    <li>GCP</li>
+    <li>Azure</li>
+    <li>AWS</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>Data Pipelines</b></summary>
+  <ul>
+    <li>Apache Airflow / GCP Composer</li>
+    <li>Dataflow</li>
+    <li>Apache Beam</li>
+    <li>Apache Kafka</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>API and Backend Skills</b></summary>
+  <ul>
+    <li>Develop backends with FastAPI or Flask</li>
+    <li>Implement REST and streaming endpoints for AI services</li>
+    <li>Design authentication and rate-limiting systems</li>
+    <li>Build WebSocket implementations for real-time AI interactions</li>
+  </ul>
+</details>
+
+---
 
 ### AI Product Skills
 
-* <ins>AI product sense</ins>: understand what can, and importantly cannot, be solved by AI (i.e. AI is not a silver bullet, many processes and products are better served with non-AI solutions)
-* <ins>AI experiment design</ins>: practice iterative hypothesis testing with quantitative evaluation. Lead with A/B test, user interviews, and user feedback loops wherever possible
-* <ins>Market insight</ins>: build a deep understanding of the AI market, its competitive landscape, and emerging trends
-* <ins>User Journeys</ins>: define clear user journeys that align to a strategic AI product philosophy and north star metric
+<details>
+  <summary><b>AI Product Sense</b></summary>
+  <ul>
+    <li>Understand what can, and importantly cannot, be solved by AI (i.e. AI is not a silver bullet, many processes and products are better served with non-AI solutions)</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>AI Experiment Design</b></summary>
+  <ul>
+    <li>Practice iterative hypothesis testing with quantitative evaluation. </li>
+    <li>Lead with A/B test, user interviews, and user feedback loops where possible</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>Market Insight</b></summary>
+  <ul>
+    <li>Build a deep understanding of the AI market, its competitive landscape, and emerging trends</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>User Journeys</b></summary>
+  <ul>
+    <li>Define clear user journeys aligned with a strategic AI product philosophy and a north star metric.</li>
+  </ul>
+</details>
+
+---
 
 ### General Product Management
 
-* Waterfall
-* Agile (Scrum/Kanban)
-* Continuous Integration/Continuous Delivery (CI/CD)
-* DevOps and Site Reliability Engineering (SRE)
-* Robust documentation
-* FinOps
-* <ins>Stakeholder management</ins>: Adept at influencing executives and building consensus in a constantly changing and fast-paced environment.
-* <ins>Expert Storytelling</ins>: master product positioning and messaging. Create a proven track record of successfully positioning solutions, presentation, and public speaking for technology professionals and leaders
-* <ins>Product Launch Experience</ins>: build up a knowledge of what to do at different stages of the product launch cycle, and how to do it
-* <ins>Growth and Expansive Mindset</ins>: foster a curiosity to learn, growth mindset, and positive attitude (kind human policy)
+<details>
+  <summary><b>Waterfall</b></summary>
+  <ul>
+    <li>Traditional, sequential development process with defined phases like requirements, design, implementation, and testing.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>Agile (Scrum/Kanban)</b></summary>
+  <ul>
+    <li>Iterative product development using adaptive planning and continuous improvement.</li>
+    <li>Scrum: structured roles, sprints, and ceremonies.</li>
+    <li>Kanban: visual flow-based system emphasizing WIP limits and continuous delivery.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>Continuous Integration / Continuous Delivery (CI/CD)</b></summary>
+  <ul>
+    <li>Automate testing, building, and deployment to speed up release cycles and improve reliability.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>DevOps and Site Reliability Engineering (SRE)</b></summary>
+  <ul>
+    <li>Bridge development and operations to ensure scalable, stable, and reliable systems.</li>
+    <li>SRE focuses on uptime, latency, monitoring, and incident response with a software engineering mindset.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>Robust Documentation</b></summary>
+  <ul>
+    <li>Ensure product documentation is clear, current, and accessible to cross-functional teams.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>FinOps</b></summary>
+  <ul>
+    <li>Manage cloud financial operations to maximize efficiency and optimize cost.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>Stakeholder Management</b></summary>
+  <ul>
+    <li>Adept at influencing executives and building consensus in a constantly changing and fast-paced environment.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>Expert Storytelling</b></summary>
+  <ul>
+    <li>Craft compelling product messaging and present effectively to diverse audiences.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>Product Launch Experience</b></summary>
+  <ul>
+    <li>Know what to do at each product launch stage and how to execute effectively to get things over the finish line</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>Growth and Expansive Mindset</b></summary>
+  <ul>
+    <li>Foster a curiosity to learn, a growth mindset, a positive attitude, and a "kind human" policy.</li>
+  </ul>
+</details>
 
 <br>
-
 
 ## Newsletters, Podcasts, and People
 ---
