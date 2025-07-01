@@ -48,6 +48,9 @@ typograms: true
 
 <!-- /TOC -->
 
+<br>
+---
+
 
 ## What Makes an AI Technical Product Manager Different Than a Normal TPM
 
@@ -136,6 +139,7 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
   </ul>
 </details>
 
+---
 
 ### Gen AI Skills
 
