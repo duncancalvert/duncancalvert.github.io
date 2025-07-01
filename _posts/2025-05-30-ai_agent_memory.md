@@ -6,7 +6,7 @@ description: Demystifying the different types of AI agent memory
 tags: AI Research Agents
 categories: data-science
 typograms: true
-thumbnail: assets/img/agent_memory_post/agent_memory.png
+thumbnail:
 ---
 
 <br>
@@ -56,7 +56,6 @@ Just like humans, agents use memory to build up knowledge, learn from past mista
 * Any of the above long-term memory types that is pulled during runtime is called "short-term memory" or "working memory".
 * This short-term memory is added to the user prompt and passed to the LLM with the aim of boosting performance
 * Any intermediate reasoning steps/action history of the current session is also considered short-term memory when in-use.
-
 
 <br>
 <div class="row mt-3">

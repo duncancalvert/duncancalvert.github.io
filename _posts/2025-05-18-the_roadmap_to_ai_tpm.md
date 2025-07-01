@@ -33,13 +33,13 @@ typograms: true
 ---
 <!-- TOC -->
 
+- [What Makes an AI Technical Product Manager Different Than a Normal TPM](#what-makes-an-ai-technical-product-manager-different-than-a-normal-tpm)
 - [Skill Sets](#skill-sets)
-    - [AI Product Skills](#ai-product-skills)
     - [Traditional Data Science Skills](#traditional-data-science-skills)
     - [Gen AI Skills](#gen-ai-skills)
     - [Agentic Skills](#agentic-skills)
     - [General Technical Skills](#general-technical-skills)
-    - [Soft Skills](#soft-skills)
+    - [AI Product Skills](#ai-product-skills)
     - [General Product Management](#general-product-management)
 - [Newsletters, Podcasts, and People](#newsletters-podcasts-and-people)
     - [Newsletters](#newsletters)
@@ -47,6 +47,9 @@ typograms: true
     - [People to Follow](#people-to-follow)
 
 <!-- /TOC -->
+
+
+## What Makes an AI Technical Product Manager Different Than a Normal TPM
 
 The rapid rise of AI and Agentic frameworks has redefined the landscape of product development and the role of a TPM. A traditional TPM focuses on building scalable systems, ensures alignment of engineering with product, and translates business needs into technical specs. They primarily build with tools that are time-tested, relatively stable, and well documented. 
 
@@ -59,6 +62,7 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 
 ## Skill Sets
 ---
+
 ### Traditional Data Science Skills
 
 - <ins>AI models</ins>: understand what the difference is between Random Forest, SVM, and KNN. Importantly, understand when to use one over the other on a problem.
@@ -163,6 +167,7 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 
 ## Newsletters, Podcasts, and People
 ---
+
 ### Newsletters
 
 - [The Sequence](https://thesequence.substack.com/): A weekly series that does technical deep dives on the latest AI/ML techniques
