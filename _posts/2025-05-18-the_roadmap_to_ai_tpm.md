@@ -52,7 +52,7 @@ typograms: true
 ---
 
 
-## What Makes an AI Technical Product Manager Different Than a Normal TPM
+## What Makes an AI Technical Product Manager Different
 
 The rapid rise of AI and Agentic frameworks has redefined the landscape of product development and the role of a TPM. A traditional TPM focuses on building scalable systems, ensures alignment of engineering with product, and translates business needs into technical specs. They primarily build with tools that are time-tested, relatively stable, and well documented. 
 
@@ -69,7 +69,7 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 ### Traditional Data Science Skills
 
 <details>
-  <summary><b>AI models</b></summary>
+  <summary><b>AI Models</b></summary>
   <ul>
     <li>Understand the difference between Random Forest, SVM, and KNN and when to use one over the other on a problem.</li>
     <li>Understand the model architecture, hyperparameters, and issues with each model.</li>
@@ -77,7 +77,7 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 </details>
 
 <details>
-  <summary><b>AI evaluation metrics</b></summary>
+  <summary><b>AI Evaluation Metrics</b></summary>
   <ul>
     <li>Build an intuitive understanding of the right metrics for each model and use case.</li>
     <li>Recognize areas of concern or blind spots for each metric.</li>
@@ -164,9 +164,9 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 </details>
 
 <details>
-  <summary><b>Models</b></summary>
+  <summary><b>Gen AI Models</b></summary>
   <ul>
-    <li><b>Transformer model architecture</b>
+    <li>Transformers
       <ul>
         <li><a href="https://www.manning.com/books/build-a-large-language-model-from-scratch">(Book) Build a Large Language Model (From Scratch) by Sebastian Raschka</a></li>
         <li><a href="https://www.youtube.com/watch?v=7xTGNNLPyMI&ab_channel=AndrejKarpathy">(Video) Deep Dive into LLMs like ChatGPT by Andrej Karpathy</a></li>
@@ -174,8 +174,8 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
         <li><a href="https://www.youtube.com/watch?v=9vM4p9NN0Ts&ab_channel=StanfordOnline">(Class) Stanford CS229 - Machine Learning - Building Large Language Models (LLMs)</a></li>
       </ul>
     </li>
-    <li><b>Diffusion model architecture</b></li>
-    <li><b>GAN model architecture</b></li>
+    <li>Diffusion models</li>
+    <li>Generative Adversarial Networks (GAN)</li>
   </ul>
 </details>
 
@@ -195,7 +195,7 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 </details>
 
 <details>
-  <summary><b>Prompt Engineering</b></summary>
+  <summary><b>Prompt/Context Engineering</b></summary>
   <ul>
     <li><a href="https://platform.openai.com/docs/guides/text?api-mode=responses">(Article) OpenAI Prompting Guide</a></li>
     <li><a href="https://www.promptingguide.ai/">(Website) Prompt Engineering Guide by DAIR.AI</a></li>
@@ -253,12 +253,12 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 <details>
   <summary><b>Agent Protocols</b></summary>
   <ul>
-    <li><b>Anthropic Model Context Protocol (MCP)</b>
+    <li>Anthropic Model Context Protocol (MCP)
       <ul>
         <li><a href="https://blog.neosage.io/p/why-every-ai-builder-needs-to-understand">(Article) Why Every AI Builder Needs to Understand MCP</a></li>
       </ul>
     </li>
-    <li><b>Google Agent-2-Agent (A2A)</b></li>
+    <li>Google Agent-2-Agent (A2A)</li>
   </ul>
 </details>
 
