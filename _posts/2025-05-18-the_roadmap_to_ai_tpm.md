@@ -65,20 +65,80 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 
 ### Traditional Data Science Skills
 
-* <ins>AI models</ins>: understand what the difference is between Random Forest, SVM, and KNN. Importantly, understand when to use one over the other on a problem.
-* <ins>AI evaluation metrics</ins>: an intuitive understanding of the right metrics for each model and use case.
-* Model Development Lifecycle (MDLC): 
-* Machine Learning Operations (MLOps) processes and principles
-* Python (OOP principles, Pandas, NumPy, Jupyter)
-* Deep Learning (PyTorch/TensorFlow/Non-Transformer Neural Networks)
-  * [(Class) Deep Learning Specialisation by Andrew Ng](https://www.coursera.org/specializations/deep-learning)
-  * [(Book) Deep Learning by Ian Goodfellow](https://www.deeplearningbook.org/)
-* SQL
-* Apache Spark/PySpark
-* Data Warehouse/Data Lakehouse
-  * Databricks
-  * Snowflake
-  * GCP BigQuery
+<details open>
+  <summary><b>Deep Learning (PyTorch/TensorFlow)</b></summary>
+    <ul>
+      <li>
+        <a href="https://www.coursera.org/specializations/deep-learning">(Class) Deep Learning Specialisation by Andrew Ng</a>
+      </li>
+      <li>
+        <a href="https://www.deeplearningbook.org/">(Book) Deep Learning by Ian Goodfellow</a>
+      </li>
+</details>
+
+<details open>
+  <summary><b>AI models</b></summary>
+  <ul>
+    <li>Understand the difference between Random Forest, SVM, and KNN and when to use one over the other on a problem.</li>
+    <li>Understand the model architecture, hyperparameters, and issues with each model.</li>
+  </ul>
+</details>
+
+<details open>
+  <summary><b>AI evaluation metrics</b></summary>
+  <ul>
+    <li>Build an intuitive understanding of the right metrics for each model and use case.</li>
+    <li>Recognize areas of concern or blind spots for each metric.</li>
+  </ul>
+</details>
+
+<details open>
+  <summary><b>Model Development Lifecycle (MDLC)</b></summary>
+  <ul>
+    <li>Understand the end-to-end process of building, testing, deploying, and monitoring machine learning models.</li>
+  </ul>
+</details>
+
+<details open>
+  <summary><b>Machine Learning Operations (MLOps)</b></summary>
+  <ul>
+    <li>Learn the principles and practices of maintaining and scaling ML workflows in production environments.</li>
+  </ul>
+</details>
+
+<details open>
+  <summary><b>Python</b></summary>
+  <ul>
+    <li>Emphasis on OOP principles.</li>
+    <li>Proficiency in Pandas and NumPy for data manipulation.</li>
+    <li>Use Jupyter notebooks for exploration and experimentation.</li>
+  </ul>
+</details>
+
+<details open>
+  <summary><b>SQL</b></summary>
+  <ul>
+    <li>Ensure fluency in querying and manipulating structured data from relational databases.</li>
+  </ul>
+</details>
+
+<details open>
+  <summary><b>Apache Spark / PySpark</b></summary>
+  <ul>
+    <li>Leverage distributed computing for large-scale data processing.</li>
+    <li>Use PySpark for writing scalable, Python-based ETL and analysis pipelines.</li>
+  </ul>
+</details>
+
+<details open>
+  <summary><b>Data Warehouse / Data Lakehouse</b></summary>
+  <ul>
+    <li>Databricks</li>
+    <li>Snowflake</li>
+    <li>GCP BigQuery</li>
+  </ul>
+</details>
+
 
 ### Gen AI Skills
 
