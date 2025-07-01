@@ -18,21 +18,21 @@ typograms: true
 <br>
 <br>
 
-
-<div class="container-fluid p-0">
-    <div class="w-100">
-        {% include figure.liquid loading="eager" path="assets/img/posts_the_roadmap_to_ai_pm/Map_Denise Jans Unsplash.jpg" class="img-fluid w-100 rounded z-depth-1" zoomable=true %}
-    </div>
+<div class="row mt-3">
+  <div class="col-sm mt-3 mt-md-0">
+      {% include figure.liquid loading="eager" path="assets/img/posts_the_roadmap_to_ai_pm/Map_Denise Jans Unsplash.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+  </div>
 </div>
-<div class="caption text-center mt-2" style="font-size: 0.875rem; font-style: italic">
+<div class="caption">
     Source: Photo by Denise Jans on Unsplash
 </div>
 <br>
+<br>
 
-
+## Table of Contents
+---
 <!-- TOC -->
 
-- [What Makes an AI Technical Product Manager Different Than a Normal TPM](#what-makes-an-ai-technical-product-manager-different-than-a-normal-tpm)
 - [Skill Sets](#skill-sets)
     - [AI Product Skills](#ai-product-skills)
     - [Traditional Data Science Skills](#traditional-data-science-skills)
@@ -47,7 +47,6 @@ typograms: true
     - [People to Follow](#people-to-follow)
 
 <!-- /TOC -->
-## What Makes an AI Technical Product Manager Different Than a Normal TPM
 
 The rapid rise of AI and Agentic frameworks has redefined the landscape of product development and the role of a TPM. A traditional TPM focuses on building scalable systems, ensures alignment of engineering with product, and translates business needs into technical specs. They primarily build with tools that are time-tested, relatively stable, and well documented. 
 
@@ -55,18 +54,11 @@ In contrast, AI TPMs live at the intersection of infrastructure, cutting edge re
 
 Instead of the generally linear Software Development Lifecycle (SDLC) used to build traditional products, building AI systems require a highly iterative Model Development Lifecycle (MDLC). This involves continuously tweaking model training pipelines, feature stores, real-time inference latency, versioning of data/models, and monitoring for drift and degradation. This must be done in alignment with a motely crew of data scientists, ML engineers, infra teams, data SMEs, end users, and model governance stakeholders.
 
-<br />
+<br>
 
 
 ## Skill Sets
 ---
-### AI Product Skills
-
-- <ins>AI product sense</ins>: understand what can, and importantly cannot, be solved by AI (i.e. AI is not a silver bullet, many processes and products are better served with non-AI solutions)
-- <ins>AI experiment design</ins>: practice iterative hypothesis testing with quantitative evaluation. Lead with A/B test, user interviews, and user feedback loops wherever possible
-- <ins>Market insight</ins>: build a deep understanding of the AI market, its competitive landscape, and emerging trends
-- <ins>User Journeys</ins>: define clear user journeys that align to a strategic AI product philosophy and north star metric
-
 ### Traditional Data Science Skills
 
 - <ins>AI models</ins>: understand what the difference is between Random Forest, SVM, and KNN. Importantly, understand when to use one over the other on a problem.
@@ -146,23 +138,27 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
   - Design authentication and rate limiting systems
   - Build WebSocket implementations for real-time AI interactions
 
-### Soft Skills
+### AI Product Skills
 
-- <ins>Stakeholder management</ins>: Adept at influencing executives and building consensus in a constantly changing and fast-paced environment.
-- <ins>Expert Storytelling</ins>: master product positioning and messaging. Create a proven track record of successfully positioning solutions, presentation, and public speaking for technology professionals and leaders
-- <ins>Product Launch Experience</ins>: build up a knowledge of what to do at different stages of the product launch cycle, and how to do it
-- <ins>Growth and Expansive Mindset</ins>: foster a curiosity to learn, growth mindset, and positive attitude (kind human policy)
+- <ins>AI product sense</ins>: understand what can, and importantly cannot, be solved by AI (i.e. AI is not a silver bullet, many processes and products are better served with non-AI solutions)
+- <ins>AI experiment design</ins>: practice iterative hypothesis testing with quantitative evaluation. Lead with A/B test, user interviews, and user feedback loops wherever possible
+- <ins>Market insight</ins>: build a deep understanding of the AI market, its competitive landscape, and emerging trends
+- <ins>User Journeys</ins>: define clear user journeys that align to a strategic AI product philosophy and north star metric
 
 ### General Product Management
 
-- Waterfall
-- Agile (Scrum/Kanban)
-- Continuous Integration/Continuous Delivery (CI/CD)
-- DevOps and Site Reliability Engineering (SRE)
-- Robust documentation
-- FinOps
+* Waterfall
+* Agile (Scrum/Kanban)
+* Continuous Integration/Continuous Delivery (CI/CD)
+* DevOps and Site Reliability Engineering (SRE)
+* Robust documentation
+* FinOps
+* <ins>Stakeholder management</ins>: Adept at influencing executives and building consensus in a constantly changing and fast-paced environment.
+* <ins>Expert Storytelling</ins>: master product positioning and messaging. Create a proven track record of successfully positioning solutions, presentation, and public speaking for technology professionals and leaders
+* <ins>Product Launch Experience</ins>: build up a knowledge of what to do at different stages of the product launch cycle, and how to do it
+* <ins>Growth and Expansive Mindset</ins>: foster a curiosity to learn, growth mindset, and positive attitude (kind human policy)
 
-<br />
+<br>
 
 
 ## Newsletters, Podcasts, and People
@@ -188,6 +184,6 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 ### People to Follow
 
 - [Yann LeCun](https://www.linkedin.com/in/yann-lecun/)
-- Andrej Karpathy
+- [Andrej Karpathy](https://karpathy.ai/)
 - [Fei-Fei Li](https://www.linkedin.com/in/fei-fei-li-4541247/)
 - [Eugene Yan](https://eugeneyan.com/subscribe): ML, RecSys, LLMs, and engineering
