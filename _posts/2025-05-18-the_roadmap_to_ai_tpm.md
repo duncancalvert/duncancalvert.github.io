@@ -84,12 +84,9 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 <details>
   <summary><b>Deep Learning Frameworks (PyTorch/TensorFlow)</b></summary>
     <ul>
-      <li>
-        <a href="https://www.coursera.org/specializations/deep-learning">(Class) Deep Learning Specialisation by Andrew Ng</a>
-      </li>
-      <li>
-        <a href="https://www.deeplearningbook.org/">(Book) Deep Learning by Ian Goodfellow</a>
-      </li>
+      <li><a href="https://www.coursera.org/specializations/deep-learning">(Class) Deep Learning Specialisation by Andrew Ng</a></li>
+      <li><a href="https://www.deeplearningbook.org/">(Book) Deep Learning by Ian Goodfellow</a></li>
+    </ul>
 </details>
 
 <details>
