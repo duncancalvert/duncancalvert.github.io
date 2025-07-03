@@ -154,28 +154,55 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 </details>
 
 <details>
-  <summary><b>Model Garden APIs</b></summary>
+  <summary><b>Cloud Provider Model APIs</b></summary>
   <ul>
-    <li>Azure</li>
-    <li>GCP</li>
-    <li>AWS</li>
+    <li><a href="https://azure.microsoft.com/en-us/products/ai-model-catalog">Azure AI Foundry</a></li>
+    <li><a href="https://cloud.google.com/model-garden">GCP - Vertex AI Model Garden</a></li>
+    <li><a href="https://aws.amazon.com/bedrock/">AWS - Amazon Bedrock</a></li>
     <li>OpenAI</li>
   </ul>
 </details>
 
 <details>
-  <summary><b>Gen AI Models</b></summary>
+  <summary><b>Transformers</b></summary>
   <ul>
-    <li>Transformers
+    <li>Attention Mechanism</li>
+    <li>Positional Encoding</li>
+    <li>Tokenization & Embeddings</li>
+    <li>Decoder-Only, Encoder-Only, and Encoder-Decoder Architecture</li>
+    <li>Hyperparameter Tuning</li>
       <ul>
+        <li>Temperature</li>
+        <li>top-K</li>
+        <li>top-P</li>
+      </ul>
+    <li>General Resources:</li>
+    <ul>
         <li><a href="https://www.manning.com/books/build-a-large-language-model-from-scratch">(Book) Build a Large Language Model (From Scratch) by Sebastian Raschka</a></li>
         <li><a href="https://www.youtube.com/watch?v=7xTGNNLPyMI&ab_channel=AndrejKarpathy">(Video) Deep Dive into LLMs like ChatGPT by Andrej Karpathy</a></li>
         <li><a href="https://arxiv.org/abs/1706.03762">(Paper) Attention is All You Need</a></li>
         <li><a href="https://www.youtube.com/watch?v=9vM4p9NN0Ts&ab_channel=StanfordOnline">(Class) Stanford CS229 - Machine Learning - Building Large Language Models (LLMs)</a></li>
       </ul>
-    </li>
-    <li>Diffusion models</li>
-    <li>Generative Adversarial Networks (GAN)</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>Diffusion Models</b></summary>
+</details>
+
+<details>
+  <summary><b>Generative Adversarial Networks (GAN)</b></summary>
+</details>
+
+<details>
+  <summary><b>LLM Fine-Tuning</b></summary>
+  <ul>
+    <li>Compute Efficiency Techniques</li>
+      <ul>
+        <li>LoRA</li>
+        <li>QLoRA</li>
+        <li>PEFT</li>
+      </ul>
   </ul>
 </details>
 
@@ -195,18 +222,43 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 </details>
 
 <details>
-  <summary><b>Prompt/Context Engineering</b></summary>
+  <summary><b>LLM Observability</b></summary>
   <ul>
-    <li><a href="https://platform.openai.com/docs/guides/text?api-mode=responses">(Article) OpenAI Prompting Guide</a></li>
-    <li><a href="https://www.promptingguide.ai/">(Website) Prompt Engineering Guide by DAIR.AI</a></li>
+    <li>Langfuse</li>
+    <li><a href="https://www.langchain.com/langsmith">LangSmith</a>: a developer platform for inspecting, tracing, and evaluating LLM-powered applications built with LangChain or other orchestration frameworks. It enables fine-grained logging of prompts, model inputs/outputs, tool invocations, and intermediate steps, while supporting automated and manual evaluation workflows for performance, latency, and correctness.</li>
   </ul>
 </details>
 
 <details>
-  <summary><b>LLM Observability</b></summary>
+  <summary><b>LLM Interpretability</b></summary>
   <ul>
-    <li>Langfuse</li>
-    <li>LangSmith</li>
+    <li>Anthropic's Interpretability Team</li>
+      <ul>
+        <li><a href="https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html">Dictionary Learning: </a>A technique developed by Anthropic that helps uncover millions of neuron patterns or “features” and match them to human concepts. Think of it as building a rough glossary for the brain of an LLM.
+        </li>
+        <li><a href="https://www.anthropic.com/research/towards-monosemanticity-decomposing-language-models-with-dictionary-learning">Monosemanticity</a>: A concept that a single neuron pattern might align with a single meaning. A clean signal, not a messy blend.</li>
+        <li><a href="https://transformer-circuits.pub/2025/attribution-graphs/biology.html">Attributional Graphs</a>: A technique to trace how an LLM reasons across multiple steps while completing tasks like  writing poems, diagnosing patients, etc. Anthropic's Interpretability team's findings show that Claude 3.5 Haiku wasn't just completing sentences, it was constructing long "thought" chains.
+        </li>
+      </ul>
+  </ul>
+</details>
+
+<details>
+  <summary><b>LLM Safety & Security</b></summary>
+  <ul>
+    <li>Content Filtering</li>
+      <ul>
+        <li><a href="https://cloud.google.com/security-command-center/docs/model-armor-overview">GCP Model Armor</a>
+        </li>
+      </ul>
+  </ul>
+</details>
+
+<details>
+  <summary><b>Prompt/Context Engineering</b></summary>
+  <ul>
+    <li><a href="https://platform.openai.com/docs/guides/text?api-mode=responses">(Article) OpenAI Prompting Guide</a></li>
+    <li><a href="https://www.promptingguide.ai/">(Website) Prompt Engineering Guide by DAIR.AI</a></li>
   </ul>
 </details>
 
