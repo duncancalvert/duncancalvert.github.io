@@ -33,7 +33,8 @@ typograms: true
 ---
 <!-- TOC -->
 
-- [What Makes an AI Technical Product Manager Different Than a Normal TPM](#what-makes-an-ai-technical-product-manager-different-than-a-normal-tpm)
+- [Table of Contents](#table-of-contents)
+- [What Makes an AI Technical Product Manager Different](#what-makes-an-ai-technical-product-manager-different)
 - [Skill Sets](#skill-sets)
     - [Traditional Data Science Skills](#traditional-data-science-skills)
     - [Gen AI Skills](#gen-ai-skills)
@@ -62,10 +63,10 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 
 <br>
 
-
 ## Skill Sets
 ---
 
+<!------------------ Section --------------------->
 ### Traditional Data Science Skills
 
 <details>
@@ -87,6 +88,7 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 <details>
   <summary><b>Deep Learning Frameworks (PyTorch/TensorFlow)</b></summary>
     <ul>
+      <li>Build a </li>
       <li><a href="https://www.coursera.org/specializations/deep-learning">(Class) Deep Learning Specialisation by Andrew Ng</a></li>
       <li><a href="https://www.deeplearningbook.org/">(Book) Deep Learning by Ian Goodfellow</a></li>
     </ul>
@@ -141,25 +143,16 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 
 ---
 
+<!------------------ Section --------------------->
 ### Gen AI Skills
 
 <details>
-  <summary><b>Vector Databases</b></summary>
-  <ul>
-    <li>Pinecone</li>
-    <li>Weaviate</li>
-    <li>Chroma</li>
-    <li>Elasticsearch</li>
-  </ul>
-</details>
-
-<details>
-  <summary><b>Cloud Provider Model APIs</b></summary>
+  <summary><b>Cloud Model APIs</b></summary>
   <ul>
     <li><a href="https://azure.microsoft.com/en-us/products/ai-model-catalog">Azure AI Foundry</a></li>
     <li><a href="https://cloud.google.com/model-garden">GCP - Vertex AI Model Garden</a></li>
     <li><a href="https://aws.amazon.com/bedrock/">AWS - Amazon Bedrock</a></li>
-    <li>OpenAI</li>
+    <li><a href="https://openai.com/api/">OpenAI</a></li>
   </ul>
 </details>
 
@@ -215,9 +208,29 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 </details>
 
 <details>
-  <summary><b>LLM Evaluation Strategies</b></summary>
+  <summary><b>LLM Evaluation</b></summary>
   <ul>
-    <li>Understand qualitative and quantitative evaluation techniques for large language models.</li>
+    <li>LLM Eval Metrics</li>
+      <ul>
+        <li>Statistical Metrics</li>
+          <ul>
+            <li><a href="https://en.wikipedia.org/wiki/BLEU">BLEU (BiLingual Evaluation Understudy)</a>: a performance evaluation metric for machine-translated text from one language to another. Specifically, it calculates the precision for each matching Ngram between an LLM output and the expected output. It uses this to calculate their geometric mean and applies a brevity penalty if needed</li>
+            <li><a href="https://en.wikipedia.org/wiki/ROUGE_(metric)">ROUGE (Recall-Oriented Understudy for Gisting Evaluation)</a></li>
+            <li><a href="https://en.wikipedia.org/wiki/METEOR">METEOR (Metric for Evaluation of Translation with Explicit Ordering)</a></li>
+            <li><a href="https://en.wikipedia.org/wiki/Levenshtein_distance">Levenshtein Distance</a></li>
+          </ul>
+        <li>LLM-as-Judge Metrics</li>
+      </ul>
+    <li>LLM Eval Tools</li>
+      <ul>
+        <li><a href="https://docs.ragas.io">Ragas</a></li>
+      </ul>
+    <li>LLM-as-Judge Techniques</li>
+      <ul>
+        <li>Pairwise Comparison</li>
+        <li>Evaluation by Criteria (Reference Free)</li>
+        <li>Evaluation by Criteria (Reference-Based)</li>
+      </ul>
   </ul>
 </details>
 
@@ -226,6 +239,7 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
   <ul>
     <li>Langfuse</li>
     <li><a href="https://www.langchain.com/langsmith">LangSmith</a>: a developer platform for inspecting, tracing, and evaluating LLM-powered applications built with LangChain or other orchestration frameworks. It enables fine-grained logging of prompts, model inputs/outputs, tool invocations, and intermediate steps, while supporting automated and manual evaluation workflows for performance, latency, and correctness.</li>
+    
   </ul>
 </details>
 
@@ -262,8 +276,49 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
   </ul>
 </details>
 
+<details>
+  <summary><b>Retrieval Augmented Generation (RAG)</b></summary>
+  <ul>
+    <li>Vector embeddings</li>
+    <li>Chunking</li>
+    <li>Hybrid retrieval</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>RAG Evaluation</b></summary>
+  <ul>
+    <li>RAG Eval Metrics</li>
+    <ul>
+      <li>Context Precision</li>
+      <li>Context Recall</li>
+      <li>Content Entities Recall</li>
+      <li>Noise Sensitivity</li>
+      <li>Response Relevance</li>
+      <li>Faithfulness</li>
+      <li>Multimodal Faithfulness</li>
+      <li>Multimodal Relevance</li>
+    </ul>
+  <li>RAG Eval Tools</li>
+    <ul>
+      <li>Ragas</li>
+    </ul>
+  </ul>
+</details>
+
+<details>
+  <summary><b>Vector Databases</b></summary>
+  <ul>
+    <li>Pinecone</li>
+    <li>Weaviate</li>
+    <li>Chroma</li>
+    <li>Elasticsearch</li>
+  </ul>
+</details>
+
 ---
 
+<!------------------ Section --------------------->
 ### Agentic Skills
 
 <details>
@@ -334,21 +389,27 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 
 ---
 
+<!------------------ Section --------------------->
 ### General Technical Skills
 
 <details>
   <summary><b>Public Cloud Infrastructure</b></summary>
   <ul>
-    <li>GCP</li>
-    <li>Azure</li>
-    <li>AWS</li>
+    <li><a href="https://cloud.google.com/">Google Cloud Platform (GCP)</a></li>
+    <li><a href="https://azure.microsoft.com/en-us/">Microsoft Azure</a></li>
+    <li><a href="https://aws.amazon.com/">Amazon Web Services (AWS)</a></li>
   </ul>
 </details>
 
 <details>
   <summary><b>Data Pipelines</b></summary>
   <ul>
-    <li>Apache Airflow / GCP Composer</li>
+    <li>Apache Airflow</li>
+      <ul>
+        <li>GCP Composer</li>
+        <li>Amazon Managed Workflows for Apache Airflow (MWAA)</li>
+        <li>Azure Workflow Orchestration Manager</li>
+      </ul>
     <li>Dataflow</li>
     <li>Apache Beam</li>
     <li>Apache Kafka</li>
@@ -367,6 +428,7 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 
 ---
 
+<!------------------ Section --------------------->
 ### AI Product Skills
 
 <details>
@@ -400,6 +462,7 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 
 ---
 
+<!------------------ Section --------------------->
 ### General Product Management
 
 <details>
