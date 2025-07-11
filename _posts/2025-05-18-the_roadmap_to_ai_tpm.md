@@ -553,7 +553,7 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 * [Google Developer Program](https://developers.google.com/newsletter): stay up to date with the latest GCP releases
 * [The Variable](https://medium.com/towards-data-science/newsletter): a curated list of articles/tutorials from Towards Data Science, the data science channel in Medium
 * [The Download from MIT Technology Review](https://www.technologyreview.com/topic/download-newsletter/): a higher level tech news roundup
-* [Turing Post](https://www.turingpost.com/)
+* [Turing Post](https://www.turingpost.com/subscribe?ref=WAGU23hEVa)
 * [SwirlAI](https://www.newsletter.swirlai.com/): MLOps and data engineering focused newsletter with great visualizations
 
 ### Podcasts
@@ -564,8 +564,8 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 
 ### People to Follow
 
-* [Yann LeCun](https://www.linkedin.com/in/yann-lecun/)
-* [Andrej Karpathy](https://karpathy.ai/)
-* [Fei-Fei Li](https://www.linkedin.com/in/fei-fei-li-4541247/)
+* [Yann LeCun](https://www.linkedin.com/in/yann-lecun/): Chief AI Scientist at Meta and a pioneer in optical character recognition (OCR) and convolutional neural networks (CNN). A Turing Award winner and one of the three "Godfathers of AI".
+* [Andrej Karpathy](https://karpathy.ai/): Former director of Autopilot at Tesla, co-founder of OpenAI, and prolific AI educator.
+* [Fei-Fei Li](https://www.linkedin.com/in/fei-fei-li-4541247/): Stanford CS professor, co-director of the Stanford Institute for Human-Centered AI, inventor of ImageNet, and former Chief Scientist of AI/ML at GCP. 
 * [Eugene Yan](https://eugeneyan.com/subscribe): ML, RecSys, LLMs, and engineering
 * [Andrew Ng](https://www.andrewng.org/): founder of Coursera, DeepLearning.AI, Stanford AI computer science professor, and neural network pioneer
