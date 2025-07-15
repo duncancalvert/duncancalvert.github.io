@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Technical Product Manager | Machine Learning Engineer
+subtitle: Technical Product Manager | ML Engineer
 
 profile:
   align: right
