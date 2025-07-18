@@ -149,7 +149,7 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 <details>
   <summary><b>Cloud Model APIs</b></summary>
   <ul>
-    <li><a href="https://azure.microsoft.com/en-us/products/ai-model-catalog">Azure AI Foundry</a></li>
+    <li><a href="https://azure.microsoft.com/en-us/products/ai-model-catalog">Azure - AI Foundry</a></li>
     <li><a href="https://cloud.google.com/model-garden">GCP - Vertex AI Model Garden</a></li>
     <li><a href="https://aws.amazon.com/bedrock/">AWS - Amazon Bedrock</a></li>
     <li><a href="https://openai.com/api/">OpenAI</a></li>
@@ -309,10 +309,19 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 <details>
   <summary><b>Vector Databases</b></summary>
   <ul>
-    <li>Pinecone</li>
-    <li>Weaviate</li>
-    <li>Chroma</li>
-    <li>Elasticsearch</li>
+    <li>Vector Search Prototyping Libraries</li>
+      <ul>
+        <li><a href="https://faiss.ai/">FAISS</a></li>
+        <li><a href="https://github.com/nmslib/hnswlib">HNSWlib</a></li>
+      </ul>
+    <li>Production Databases</li>
+      <ul>
+        <li>Pinecone</li>
+        <li>Weaviate</li>
+        <li>Chroma</li>
+        <li>Elasticsearch</li>
+        <li>Milvus</li>
+      </ul>
   </ul>
 </details>
 
@@ -328,6 +337,7 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
     <li><a href="https://www.kaggle.com/whitepaper-agent-companion">(White Paper) Google Agents Companion by Antonio Gulli et al.</a></li>
     <li><a href="https://arxiv.org/abs/2505.10468">(Paper) AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenges</a></li>
     <li><a href="https://arxiv.org/abs/2210.03629">(Paper) ReAct: Synergizing Reasoning and Acting in Language Models by Shunyu Yao et al.</a></li>
+    <li><a href="https://huggingface.co/learn/agents-course/en/unit0/introduction">(Course) HuggingFace AI Agents Course</a></li>
   </ul>
 </details>
 
