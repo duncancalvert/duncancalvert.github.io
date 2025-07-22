@@ -6,7 +6,7 @@ subtitle: Technical Product Manager | ML Engineer
 
 profile:
   align: right
-  image: assets/img/profile_photo_enhanced.jpg
+  image: profile_photo_enhanced.jpg
   image_circular: false # crops the image to make it circular
   more_info: # Add <p> indented below this to add profile info
 

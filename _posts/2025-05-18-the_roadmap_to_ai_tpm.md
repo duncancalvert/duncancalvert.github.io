@@ -176,8 +176,8 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
     <li>Resources:</li>
     <ul>
         <li><a href="https://www.manning.com/books/build-a-large-language-model-from-scratch">(Book) Build a Large Language Model (From Scratch) by Sebastian Raschka</a></li>
-        <li><a href="https://www.amazon.de/-/en/Hands-Large-Language-Models-Understanding/dp/1098150961/">(Book) Hands-On Large Language Models by Jay Alammar</a></li>
-        <li><a href="https://www.amazon.de/Natural-Language-Processing-Transformers-Applications/dp/1098136799/">(Book) Natural Language Processing with Transformers by Lewis Tunstall</a></li>
+        <li><a href="https://www.amazon.com/Hands-Large-Language-Models-Understanding/dp/1098150961">(Book) Hands-On Large Language Models by Jay Alammar</a></li>
+        <li><a href="https://www.amazon.com/Natural-Language-Processing-Transformers-Revised/dp/1098136799">(Book) Natural Language Processing with Transformers by Lewis Tunstall</a></li>
         <li><a href="https://www.youtube.com/watch?v=7xTGNNLPyMI&ab_channel=AndrejKarpathy">(Video) Deep Dive into LLMs like ChatGPT by Andrej Karpathy</a></li>
         <li><a href="https://arxiv.org/abs/1706.03762">(Paper) Attention is All You Need</a></li>
         <li><a href="https://www.youtube.com/watch?v=9vM4p9NN0Ts&ab_channel=StanfordOnline">(Class) Stanford CS229 - Machine Learning - Building Large Language Models (LLMs)</a></li>
@@ -255,8 +255,7 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
       <ul>
         <li><a href="https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html">Dictionary Learning</a></li>
         <li><a href="https://www.anthropic.com/research/towards-monosemanticity-decomposing-language-models-with-dictionary-learning">Monosemanticity</a></li>
-        <li><a href="https://transformer-circuits.pub/2025/attribution-graphs/biology.html">Attributional Graphs</a>
-        </li>
+        <li><a href="https://transformer-circuits.pub/2025/attribution-graphs/biology.html">Attributional Graphs</a></li>
       </ul>
   </ul>
 </details>
