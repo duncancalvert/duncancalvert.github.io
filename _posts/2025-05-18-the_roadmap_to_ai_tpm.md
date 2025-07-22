@@ -220,7 +220,7 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
       <ul>
         <li>Statistical Metrics</li>
           <ul>
-            <li><a href="https://en.wikipedia.org/wiki/BLEU"></li>
+            <li><a href="https://en.wikipedia.org/wiki/BLEU">BLEU</a></li>
             <li><a href="https://en.wikipedia.org/wiki/ROUGE_(metric)">ROUGE (Recall-Oriented Understudy for Gisting Evaluation)</a></li>
             <li><a href="https://en.wikipedia.org/wiki/METEOR">METEOR (Metric for Evaluation of Translation with Explicit Ordering)</a></li>
             <li><a href="https://en.wikipedia.org/wiki/Levenshtein_distance">Levenshtein Distance</a></li>
