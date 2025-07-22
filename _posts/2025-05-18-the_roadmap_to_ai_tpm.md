@@ -8,7 +8,6 @@ categories: data-science
 typograms: true
 ---
 
-
 <br>
 <br>
 <p style="text-align: center;">
@@ -30,6 +29,7 @@ typograms: true
 <br>
 
 ## Table of Contents
+
 ---
 <!-- TOC -->
 
@@ -50,10 +50,11 @@ typograms: true
 
 <!-- /TOC -->
 
+<br>s
 
 ## What Makes an AI Technical Product Manager Different
 
-The rapid rise of AI and Agentic frameworks has redefined the landscape of product development and the role of a TPM. A traditional TPM focuses on building scalable systems, ensures alignment of engineering with product, and translates business needs into technical specs. They primarily build with tools that are time-tested, relatively stable, and well documented. 
+The rapid rise of AI and Agentic frameworks has redefined the landscape of product development and the role of a TPM. A traditional TPM focuses on building scalable systems, ensures alignment of engineering with product, and translates business needs into technical specs. They primarily build with tools that are time-tested, relatively stable, and well documented.
 
 In contrast, AI TPMs live at the intersection of infrastructure, cutting edge research, and business outcomes. They guide the development of probabilistic, data-dependent products where performance varies widely across inputs, and success isn’t measured in "features shipped" but in hard to measure metrics like model quality, inference efficiency, and real-world generalization. Add to that the fact that tools are shifting under their feet with vendors and the open-source community launching new frameworks based on the latest cutting edge agentic and Gen AI research.
 
@@ -62,9 +63,11 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 <br>
 
 ## Skill Sets
+
 ---
 
 <!------------------ Section --------------------->
+
 ### Traditional Data Science
 
 <details>
@@ -148,6 +151,7 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 ---
 
 <!------------------ Section --------------------->
+
 ### Gen AI & Foundation Models
 
 <details>
@@ -289,7 +293,9 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 ---
 
 <!------------------ Section --------------------->
+
 ### Retrieval Augmented Generation
+
 <details>
   <summary><b>RAG Fundamentals</b></summary>
   <ul>
@@ -348,6 +354,7 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 ---
 
 <!------------------ Section --------------------->
+
 ### Agentic AI
 
 <details>
@@ -420,6 +427,7 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 ---
 
 <!------------------ Section --------------------->
+
 ### General Technical Skills
 
 <details>
@@ -459,6 +467,7 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 ---
 
 <!------------------ Section --------------------->
+
 ### AI Product Skills
 
 <details>
@@ -493,6 +502,7 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 ---
 
 <!------------------ Section --------------------->
+
 ### General Product Management
 
 <details>
@@ -567,31 +577,32 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 <br>
 
 ## Newsletters, Podcasts, and People
+
 ---
 
 ### Newsletters
 
-* [The Sequence](https://thesequence.substack.com/): A weekly series that does technical deep dives on the latest AI/ML techniques
-* [The Batch @ DeepLearning.AI](https://www.deeplearning.ai/the-batch/): a weekly deep dive from Stanford Professor Andrew Ng
-* [Data Points](https://www.deeplearning.ai/the-batch/tag/data-points/)
-* [Daily Zaps](https://www.dailyzaps.com/): high level tech news, not very technical
-* [The MLOps Newsletter](https://mlops.substack.com/): technical with a specific focus on MLOps
-* [Google Developer Program](https://developers.google.com/newsletter): stay up to date with the latest GCP releases
-* [The Variable](https://medium.com/towards-data-science/newsletter): a curated list of articles/tutorials from Towards Data Science, the data science channel in Medium
-* [The Download from MIT Technology Review](https://www.technologyreview.com/topic/download-newsletter/): a higher level tech news roundup
-* [Turing Post](https://www.turingpost.com/subscribe?ref=WAGU23hEVa)
-* [SwirlAI](https://www.newsletter.swirlai.com/): MLOps and data engineering focused newsletter with great visualizations
+- [The Sequence](https://thesequence.substack.com/): A weekly series that does technical deep dives on the latest AI/ML techniques
+- [The Batch @ DeepLearning.AI](https://www.deeplearning.ai/the-batch/): a weekly deep dive from Stanford Professor Andrew Ng
+- [Data Points](https://www.deeplearning.ai/the-batch/tag/data-points/)
+- [Daily Zaps](https://www.dailyzaps.com/): high level tech news, not very technical
+- [The MLOps Newsletter](https://mlops.substack.com/): technical with a specific focus on MLOps
+- [Google Developer Program](https://developers.google.com/newsletter): stay up to date with the latest GCP releases
+- [The Variable](https://medium.com/towards-data-science/newsletter): a curated list of articles/tutorials from Towards Data Science, the data science channel in Medium
+- [The Download from MIT Technology Review](https://www.technologyreview.com/topic/download-newsletter/): a higher level tech news roundup
+- [Turing Post](https://www.turingpost.com/subscribe?ref=WAGU23hEVa)
+- [SwirlAI](https://www.newsletter.swirlai.com/): MLOps and data engineering focused newsletter with great visualizations
 
 ### Podcasts
 
-* [Practical AI by Changelog](https://podcasts.apple.com/us/podcast/practical-ai/id1406537385)
-* [Inference by Turing Post](https://www.youtube.com/playlist?list=PLRRoCwK1ZTNCAZXXOswpIYQqzMgT4swsI)
-* [Latent Space: The AI Engineer Podcast](https://www.latent.space/podcast)
+- [Practical AI by Changelog](https://podcasts.apple.com/us/podcast/practical-ai/id1406537385)
+- [Inference by Turing Post](https://www.youtube.com/playlist?list=PLRRoCwK1ZTNCAZXXOswpIYQqzMgT4swsI)
+- [Latent Space: The AI Engineer Podcast](https://www.latent.space/podcast)
 
 ### People to Follow
 
-* [Yann LeCun](https://www.linkedin.com/in/yann-lecun/): Chief AI Scientist at Meta and a pioneer in optical character recognition (OCR) and convolutional neural networks (CNN). A Turing Award winner and one of the three "Godfathers of AI".
-* [Andrej Karpathy](https://karpathy.ai/): Former director of Autopilot at Tesla, co-founder of OpenAI, and prolific AI educator.
-* [Fei-Fei Li](https://www.linkedin.com/in/fei-fei-li-4541247/): Stanford CS professor, co-director of the Stanford Institute for Human-Centered AI, inventor of ImageNet, and former Chief Scientist of AI/ML at GCP. 
-* [Eugene Yan](https://eugeneyan.com/subscribe): ML, RecSys, LLMs, and engineering
-* [Andrew Ng](https://www.andrewng.org/): founder of Coursera, DeepLearning.AI, Stanford AI computer science professor, and neural network pioneer
+- [Yann LeCun](https://www.linkedin.com/in/yann-lecun/): Chief AI Scientist at Meta and a pioneer in optical character recognition (OCR) and convolutional neural networks (CNN). A Turing Award winner and one of the three "Godfathers of AI".
+- [Andrej Karpathy](https://karpathy.ai/): Former director of Autopilot at Tesla, co-founder of OpenAI, and prolific AI educator.
+- [Fei-Fei Li](https://www.linkedin.com/in/fei-fei-li-4541247/): Stanford CS professor, co-director of the Stanford Institute for Human-Centered AI, inventor of ImageNet, and former Chief Scientist of AI/ML at GCP.
+- [Eugene Yan](https://eugeneyan.com/subscribe): ML, RecSys, LLMs, and engineering
+- [Andrew Ng](https://www.andrewng.org/): founder of Coursera, DeepLearning.AI, Stanford AI computer science professor, and neural network pioneer
