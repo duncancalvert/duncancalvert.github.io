@@ -36,9 +36,10 @@ typograms: true
 - [Table of Contents](#table-of-contents)
 - [What Makes an AI Technical Product Manager Different](#what-makes-an-ai-technical-product-manager-different)
 - [Skill Sets](#skill-sets)
-    - [Traditional Data Science Skills](#traditional-data-science-skills)
-    - [Gen AI Skills](#gen-ai-skills)
-    - [Agentic Skills](#agentic-skills)
+    - [Traditional Data Science](#traditional-data-science)
+    - [Gen AI & Foundation Models](#gen-ai--foundation-models)
+    - [Retrieval Augmented Generation](#retrieval-augmented-generation)
+    - [Agentic AI](#agentic-ai)
     - [General Technical Skills](#general-technical-skills)
     - [AI Product Skills](#ai-product-skills)
     - [General Product Management](#general-product-management)
@@ -48,9 +49,6 @@ typograms: true
     - [People to Follow](#people-to-follow)
 
 <!-- /TOC -->
-
-<br>
----
 
 
 ## What Makes an AI Technical Product Manager Different
@@ -67,10 +65,10 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 ---
 
 <!------------------ Section --------------------->
-### Traditional Data Science Skills
+### Traditional Data Science
 
 <details>
-  <summary><b>AI Models</b></summary>
+  <summary><b>AI Model Theory</b></summary>
   <ul>
     <li>Understand the difference between Random Forest, SVM, and KNN and when to use one over the other on a problem.</li>
     <li>Understand the model architecture, hyperparameters, and issues with each model.</li>
@@ -86,11 +84,12 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 </details>
 
 <details>
-  <summary><b>Deep Learning Frameworks (PyTorch/TensorFlow)</b></summary>
+  <summary><b>ML & Deep Learning Frameworks (Scikit-Learn, PyTorch, TensorFlow)</b></summary>
     <ul>
-      <li>Build a </li>
       <li><a href="https://www.coursera.org/specializations/deep-learning">(Class) Deep Learning Specialisation by Andrew Ng</a></li>
       <li><a href="https://www.deeplearningbook.org/">(Book) Deep Learning by Ian Goodfellow</a></li>
+      <li><a href="https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/">(Book) Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 3rd Edition by Aurélien Géron</a></li>
+      <li><a href="https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ">(Videos) Neural Networks: Zero to Hero by Andrej Karpathy</a></li>
     </ul>
 </details>
 
@@ -105,6 +104,11 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
   <summary><b>Machine Learning Operations (MLOps)</b></summary>
   <ul>
     <li>Learn the principles and practices of maintaining and scaling ML workflows in production environments.</li>
+    <li>General Resources</li>
+      <ul>
+        <li><a href="https://www.amazon.com/Designing-Machine-Learning-Systems-Production-Ready/dp/1098107969">(Book) Designing Machine Learning Systems by Chip Huyen</a></li>
+        <li><a href="https://github.com/GokuMohandas/Made-With-ML">(Class) Made With ML</a></li>
+      </ul>
   </ul>
 </details>
 
@@ -144,7 +148,7 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 ---
 
 <!------------------ Section --------------------->
-### Gen AI Skills
+### Gen AI & Foundation Models
 
 <details>
   <summary><b>Cloud Model APIs</b></summary>
@@ -169,9 +173,11 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
         <li>top-K</li>
         <li>top-P</li>
       </ul>
-    <li>General Resources:</li>
+    <li>Resources:</li>
     <ul>
         <li><a href="https://www.manning.com/books/build-a-large-language-model-from-scratch">(Book) Build a Large Language Model (From Scratch) by Sebastian Raschka</a></li>
+        <li><a href="https://www.amazon.de/-/en/Hands-Large-Language-Models-Understanding/dp/1098150961/">(Book) Hands-On Large Language Models by Jay Alammar</a></li>
+        <li><a href="https://www.amazon.de/Natural-Language-Processing-Transformers-Applications/dp/1098136799/">(Book) Natural Language Processing with Transformers by Lewis Tunstall</a></li>
         <li><a href="https://www.youtube.com/watch?v=7xTGNNLPyMI&ab_channel=AndrejKarpathy">(Video) Deep Dive into LLMs like ChatGPT by Andrej Karpathy</a></li>
         <li><a href="https://arxiv.org/abs/1706.03762">(Paper) Attention is All You Need</a></li>
         <li><a href="https://www.youtube.com/watch?v=9vM4p9NN0Ts&ab_channel=StanfordOnline">(Class) Stanford CS229 - Machine Learning - Building Large Language Models (LLMs)</a></li>
@@ -214,7 +220,7 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
       <ul>
         <li>Statistical Metrics</li>
           <ul>
-            <li><a href="https://en.wikipedia.org/wiki/BLEU">BLEU (BiLingual Evaluation Understudy)</a>: a performance evaluation metric for machine-translated text from one language to another. Specifically, it calculates the precision for each matching Ngram between an LLM output and the expected output. It uses this to calculate their geometric mean and applies a brevity penalty if needed</li>
+            <li><a href="https://en.wikipedia.org/wiki/BLEU"></li>
             <li><a href="https://en.wikipedia.org/wiki/ROUGE_(metric)">ROUGE (Recall-Oriented Understudy for Gisting Evaluation)</a></li>
             <li><a href="https://en.wikipedia.org/wiki/METEOR">METEOR (Metric for Evaluation of Translation with Explicit Ordering)</a></li>
             <li><a href="https://en.wikipedia.org/wiki/Levenshtein_distance">Levenshtein Distance</a></li>
@@ -248,10 +254,9 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
   <ul>
     <li>Anthropic's Interpretability Team</li>
       <ul>
-        <li><a href="https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html">Dictionary Learning: </a>A technique developed by Anthropic that helps uncover millions of neuron patterns or “features” and match them to human concepts. Think of it as building a rough glossary for the brain of an LLM.
-        </li>
-        <li><a href="https://www.anthropic.com/research/towards-monosemanticity-decomposing-language-models-with-dictionary-learning">Monosemanticity</a>: A concept that a single neuron pattern might align with a single meaning. A clean signal, not a messy blend.</li>
-        <li><a href="https://transformer-circuits.pub/2025/attribution-graphs/biology.html">Attributional Graphs</a>: A technique to trace how an LLM reasons across multiple steps while completing tasks like  writing poems, diagnosing patients, etc. Anthropic's Interpretability team's findings show that Claude 3.5 Haiku wasn't just completing sentences, it was constructing long "thought" chains.
+        <li><a href="https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html">Dictionary Learning</a></li>
+        <li><a href="https://www.anthropic.com/research/towards-monosemanticity-decomposing-language-models-with-dictionary-learning">Monosemanticity</a></li>
+        <li><a href="https://transformer-circuits.pub/2025/attribution-graphs/biology.html">Attributional Graphs</a>
         </li>
       </ul>
   </ul>
@@ -277,11 +282,28 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 </details>
 
 <details>
-  <summary><b>Retrieval Augmented Generation (RAG)</b></summary>
+  <summary><b>AI Engineering</b></summary>
+  <ul>
+    <li><a href="https://www.amazon.com/AI-Engineering-Building-Applications-Foundation/dp/1098166302">(Book) AI Engineering: Building Applications with Foundation Models by Chip Huyen</a></li>
+  </ul>
+</details>
+
+---
+
+<!------------------ Section --------------------->
+### Retrieval Augmented Generation
+<details>
+  <summary><b>RAG Fundamentals</b></summary>
   <ul>
     <li>Vector embeddings</li>
     <li>Chunking</li>
     <li>Hybrid retrieval</li>
+    <li>General Resources</li>
+      <ul>
+        <li>
+          <a href="https://github.com/NirDiamant/RAG_Techniques">(GitHub) RAG Techniques by Nir Diamant</a>
+        </li>
+      </ul>
   </ul>
 </details>
 
@@ -328,7 +350,7 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 ---
 
 <!------------------ Section --------------------->
-### Agentic Skills
+### Agentic AI
 
 <details>
   <summary><b>Agent Fundamentals</b></summary>
@@ -476,18 +498,14 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 ### General Product Management
 
 <details>
-  <summary><b>Waterfall</b></summary>
+  <summary><b>Project Management Frameworks</b></summary>
   <ul>
-    <li>Traditional, sequential development process with defined phases like requirements, design, implementation, and testing.</li>
-  </ul>
-</details>
-
-<details>
-  <summary><b>Agile (Scrum/Kanban)</b></summary>
-  <ul>
-    <li>Iterative product development using adaptive planning and continuous improvement.</li>
-    <li>Scrum: structured roles, sprints, and ceremonies.</li>
-    <li>Kanban: visual flow-based system emphasizing WIP limits and continuous delivery.</li>
+    <li><ins>Waterfall</ins>: A traditional, sequential approach where each project phase is completed before the next begins. Each phase has specific deliverables and a review process, making it suitable for projects with clearly defined requirements and predictable outcomes. However, it offers limited flexibility for changes once a phase is complete.</li>
+    <li><ins>Agile</ins>: An iterative and incremental approach, suitable for projects with evolving requirements</li>
+      <ul>
+        <li><ins>Scrum</ins>: structured roles, sprints, and ceremonies.</li>
+        <li><ins>Kanban</ins>: visual flow-based system emphasizing WIP limits and continuous delivery.</li>
+      </ul>
   </ul>
 </details>
 
