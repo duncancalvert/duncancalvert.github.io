@@ -245,7 +245,6 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
   <ul>
     <li>Langfuse</li>
     <li><a href="https://www.langchain.com/langsmith">LangSmith</a>: a developer platform for inspecting, tracing, and evaluating LLM-powered applications built with LangChain or other orchestration frameworks. It enables fine-grained logging of prompts, model inputs/outputs, tool invocations, and intermediate steps, while supporting automated and manual evaluation workflows for performance, latency, and correctness.</li>
-    
   </ul>
 </details>
 
