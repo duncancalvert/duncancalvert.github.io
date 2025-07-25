@@ -31,6 +31,7 @@ typograms: true
 ## Table of Contents
 
 ---
+
 <!-- TOC -->
 
 - [Table of Contents](#table-of-contents)
@@ -49,8 +50,7 @@ typograms: true
     - [People to Follow](#people-to-follow)
 
 <!-- /TOC -->
-
-<br>s
+<br>
 
 ## What Makes an AI Technical Product Manager Different
 
@@ -71,10 +71,23 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 ### Traditional Data Science
 
 <details>
-  <summary><b>AI Model Theory</b></summary>
+  <summary><b>ML Model Theory</b></summary>
   <ul>
-    <li>Understand the difference between Random Forest, SVM, and KNN and when to use one over the other on a problem.</li>
+    <li>Understand the difference between Random Forest, SVM, and K-means and when to use one over the other on a problem.</li>
     <li>Understand the model architecture, hyperparameters, and issues with each model.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>Deep Learning Theory</b></summary>
+  <ul>
+    <li>Build a deep understanding of artificial neural networks (ANN) and Deep Learning (DNN, CNN, RNN, etc.).
+    <li>Model architectures and training</li>
+      <ul>  
+        <li>Activation functions</li>
+        <li>Loss functions/cost functions</li>
+        <li>Backpropagation</li>
+      </ul>
   </ul>
 </details>
 
@@ -142,9 +155,9 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 <details>
   <summary><b>Data Warehouse / Data Lakehouse</b></summary>
   <ul>
-    <li>Databricks</li>
-    <li>Snowflake</li>
-    <li>GCP BigQuery</li>
+    <li><a href="https://www.databricks.com/" target="_blank" rel="noopener noreferrer">Databricks</a></li>
+    <li><a href="https://www.snowflake.com/" target="_blank" rel="noopener noreferrer">Snowflake</a></li>
+    <li><a href="https://cloud.google.com/bigquery" target="_blank" rel="noopener noreferrer">GCP BigQuery</a></li>
   </ul>
 </details>
 
@@ -165,17 +178,20 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 </details>
 
 <details>
-  <summary><b>Transformers</b></summary>
+  <summary><b>Transformer Theory</b></summary>
   <ul>
-    <li>Attention Mechanism</li>
-    <li>Positional Encoding</li>
-    <li>Tokenization & Embeddings</li>
-    <li>Decoder-Only, Encoder-Only, and Encoder-Decoder Architecture</li>
-    <li>Hyperparameter Tuning</li>
+    <li>Architecture & Training</li>
       <ul>
-        <li>Temperature</li>
-        <li>top-K</li>
-        <li>top-P</li>
+        <li>Attention Mechanism</li>
+        <li>Positional Encoding</li>
+        <li>Tokenization & Embeddings</li>
+        <li>Decoder-Only, Encoder-Only, and Encoder-Decoder Models</li>
+        <li>Hyperparameter Tuning</li>
+          <ul>
+            <li>Temperature</li>
+            <li>top-K</li>
+            <li>top-P</li>
+          </ul>
       </ul>
     <li>Resources:</li>
     <ul>
@@ -191,10 +207,23 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 
 <details>
   <summary><b>Diffusion Models</b></summary>
+  <ul>
+    <li><a href="https://lilianweng.github.io/posts/2021-07-11-diffusion-models/" target="_blank" rel="noopener noreferrer">Lil'Log: A Gentle Introduction to Diffusion Models</a></li>
+    <li><a href="https://arxiv.org/abs/2006.11239" target="_blank" rel="noopener noreferrer">DDPM Paper (Denoising Diffusion Probabilistic Models)</a></li>
+    <li><a href="https://huggingface.co/blog/annotated-diffusion" target="_blank" rel="noopener noreferrer">Hugging Face: Annotated Diffusion Model Code</a></li>
+    <li><a href="https://www.youtube.com/watch?v=HoKDTa4h0xc" target="_blank" rel="noopener noreferrer">Diffusion Models Explained Visually – What the Diff?!</a></li>
+    <li><a href="https://keras.io/examples/generative/ddpm/" target="_blank" rel="noopener noreferrer">Keras DDPM Example</a></li>
+  </ul>
 </details>
 
 <details>
   <summary><b>Generative Adversarial Networks (GAN)</b></summary>
+  <ul>
+    <li><a href="https://www.deeplearning.ai/courses/generative-adversarial-networks-gans-specialization/" target="_blank" rel="noopener noreferrer">(Course) DeepLearning.AI - GAN Specialization</a></li>
+    <li><a href="https://arxiv.org/abs/1406.2661" target="_blank" rel="noopener noreferrer">(Paper) Original GAN Paper (Goodfellow et al.)</a></li>
+    <li><a href="https://www.tensorflow.org/tutorials/generative/dcgan" target="_blank" rel="noopener noreferrer">(Tutorial) TensorFlow Deep Convolutional GAN Tutorial</a></li>
+    <li><a href="https://www.youtube.com/watch?v=8L11aMN5KY8" target="_blank" rel="noopener noreferrer">(Video) A Friendly Introduction to GANs by Serrano Academy</a></li>
+  </ul>
 </details>
 
 <details>
