@@ -31,26 +31,26 @@ typograms: true
 ## Table of Contents
 
 ---
+
 <!-- TOC -->
 
 - [Table of Contents](#table-of-contents)
 - [What Makes an AI Technical Product Manager Different](#what-makes-an-ai-technical-product-manager-different)
 - [Skill Sets](#skill-sets)
-    - [Traditional Data Science](#traditional-data-science)
-    - [Gen AI & Foundation Models](#gen-ai--foundation-models)
-    - [Retrieval Augmented Generation](#retrieval-augmented-generation)
-    - [Agentic AI](#agentic-ai)
-    - [General Technical Skills](#general-technical-skills)
-    - [AI Product Skills](#ai-product-skills)
-    - [General Product Management](#general-product-management)
+  - [Traditional Data Science](#traditional-data-science)
+  - [Gen AI & Foundation Models](#gen-ai--foundation-models)
+  - [Retrieval Augmented Generation](#retrieval-augmented-generation)
+  - [Agentic AI](#agentic-ai)
+  - [General Technical Skills](#general-technical-skills)
+  - [AI Product Skills](#ai-product-skills)
+  - [General Product Management](#general-product-management)
 - [Newsletters, Podcasts, and People](#newsletters-podcasts-and-people)
-    - [Newsletters](#newsletters)
-    - [Podcasts](#podcasts)
-    - [People to Follow](#people-to-follow)
+  - [Newsletters](#newsletters)
+  - [Podcasts](#podcasts)
+  - [People to Follow](#people-to-follow)
 
 <!-- /TOC -->
-
-<br>s
+<br>
 
 ## What Makes an AI Technical Product Manager Different
 
@@ -71,10 +71,23 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 ### Traditional Data Science
 
 <details>
-  <summary><b>AI Model Theory</b></summary>
+  <summary><b>ML Model Theory</b></summary>
   <ul>
-    <li>Understand the difference between Random Forest, SVM, and KNN and when to use one over the other on a problem.</li>
+    <li>Understand the difference between Random Forest, SVM, and K-means and when to use one over the other on a problem.</li>
     <li>Understand the model architecture, hyperparameters, and issues with each model.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>Deep Learning Theory</b></summary>
+  <ul>
+    <li>Build a deep understanding of artificial neural networks (ANN) and Deep Learning (DNN, CNN, RNN, etc.).
+    <li>Model architectures and training</li>
+      <ul>  
+        <li>Activation functions</li>
+        <li>Loss functions/cost functions</li>
+        <li>Backpropagation</li>
+      </ul>
   </ul>
 </details>
 
@@ -109,7 +122,7 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
     <li>Learn the principles and practices of maintaining and scaling ML workflows in production environments.</li>
     <li>General Resources</li>
       <ul>
-        <li><a href="https://www.amazon.com/Designing-Machine-Learning-Systems-Production-Ready/dp/1098107969">(Book) Designing Machine Learning Systems by Chip Huyen</a></li>
+        <li><a href="https://a.co/d/eIRcpD7">(Book) Designing Machine Learning Systems by Chip Huyen</a></li>
         <li><a href="https://github.com/GokuMohandas/Made-With-ML">(Class) Made With ML</a></li>
       </ul>
   </ul>
@@ -142,9 +155,9 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 <details>
   <summary><b>Data Warehouse / Data Lakehouse</b></summary>
   <ul>
-    <li>Databricks</li>
-    <li>Snowflake</li>
-    <li>GCP BigQuery</li>
+    <li><a href="https://www.databricks.com/" target="_blank" rel="noopener noreferrer">Databricks</a></li>
+    <li><a href="https://www.snowflake.com/" target="_blank" rel="noopener noreferrer">Snowflake</a></li>
+    <li><a href="https://cloud.google.com/bigquery" target="_blank" rel="noopener noreferrer">GCP BigQuery</a></li>
   </ul>
 </details>
 
@@ -165,23 +178,26 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 </details>
 
 <details>
-  <summary><b>Transformers</b></summary>
+  <summary><b>Transformer Theory</b></summary>
   <ul>
-    <li>Attention Mechanism</li>
-    <li>Positional Encoding</li>
-    <li>Tokenization & Embeddings</li>
-    <li>Decoder-Only, Encoder-Only, and Encoder-Decoder Architecture</li>
-    <li>Hyperparameter Tuning</li>
+    <li>Architecture & Training</li>
       <ul>
-        <li>Temperature</li>
-        <li>top-K</li>
-        <li>top-P</li>
+        <li>Attention Mechanism</li>
+        <li>Positional Encoding</li>
+        <li>Tokenization & Embeddings</li>
+        <li>Decoder-Only, Encoder-Only, and Encoder-Decoder Models</li>
+        <li>Hyperparameter Tuning</li>
+          <ul>
+            <li>Temperature</li>
+            <li>top-K</li>
+            <li>top-P</li>
+          </ul>
       </ul>
     <li>Resources:</li>
     <ul>
         <li><a href="https://www.manning.com/books/build-a-large-language-model-from-scratch">(Book) Build a Large Language Model (From Scratch) by Sebastian Raschka</a></li>
-        <li><a href="https://www.amazon.com/Hands-Large-Language-Models-Understanding/dp/1098150961">(Book) Hands-On Large Language Models by Jay Alammar</a></li>
-        <li><a href="https://www.amazon.com/Natural-Language-Processing-Transformers-Revised/dp/1098136799">(Book) Natural Language Processing with Transformers by Lewis Tunstall</a></li>
+        <li><a href="https://a.co/d/3POHRks">(Book) Hands-On Large Language Models by Jay Alammar</a></li>
+        <li><a href="https://a.co/d/fI0MdEB">(Book) Natural Language Processing with Transformers by Lewis Tunstall</a></li>
         <li><a href="https://www.youtube.com/watch?v=7xTGNNLPyMI&ab_channel=AndrejKarpathy">(Video) Deep Dive into LLMs like ChatGPT by Andrej Karpathy</a></li>
         <li><a href="https://arxiv.org/abs/1706.03762">(Paper) Attention is All You Need</a></li>
         <li><a href="https://www.youtube.com/watch?v=9vM4p9NN0Ts&ab_channel=StanfordOnline">(Class) Stanford CS229 - Machine Learning - Building Large Language Models (LLMs)</a></li>
@@ -191,10 +207,19 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 
 <details>
   <summary><b>Diffusion Models</b></summary>
+  <ul>
+    <li></li>
+  </ul>
 </details>
 
 <details>
   <summary><b>Generative Adversarial Networks (GAN)</b></summary>
+  <ul>
+    <li><a href="https://www.deeplearning.ai/courses/generative-adversarial-networks-gans-specialization/" target="_blank" rel="noopener noreferrer">(Course) DeepLearning.AI - GAN Specialization</a></li>
+    <li><a href="https://arxiv.org/abs/1406.2661" target="_blank" rel="noopener noreferrer">(Paper) Original GAN Paper (Goodfellow et al.)</a></li>
+    <li><a href="https://www.tensorflow.org/tutorials/generative/dcgan" target="_blank" rel="noopener noreferrer">(Tutorial) TensorFlow Deep Convolutional GAN Tutorial</a></li>
+    <li><a href="https://www.youtube.com/watch?v=8L11aMN5KY8" target="_blank" rel="noopener noreferrer">(Video) A Friendly Introduction to GANs by Serrano Academy</a></li>
+  </ul>
 </details>
 
 <details>
@@ -286,7 +311,7 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 <details>
   <summary><b>AI Engineering</b></summary>
   <ul>
-    <li><a href="https://www.amazon.com/AI-Engineering-Building-Applications-Foundation/dp/1098166302">(Book) AI Engineering: Building Applications with Foundation Models by Chip Huyen</a></li>
+    <li><a href="https://a.co/d/gr8eiN1">(Book) AI Engineering: Building Applications with Foundation Models by Chip Huyen</a></li>
   </ul>
 </details>
 
