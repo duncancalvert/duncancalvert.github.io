@@ -37,17 +37,17 @@ typograms: true
 - [Table of Contents](#table-of-contents)
 - [What Makes an AI Technical Product Manager Different](#what-makes-an-ai-technical-product-manager-different)
 - [Skill Sets](#skill-sets)
-    - [Traditional Data Science](#traditional-data-science)
-    - [Gen AI & Foundation Models](#gen-ai--foundation-models)
-    - [Retrieval Augmented Generation](#retrieval-augmented-generation)
-    - [Agentic AI](#agentic-ai)
-    - [General Technical Skills](#general-technical-skills)
-    - [AI Product Skills](#ai-product-skills)
-    - [General Product Management](#general-product-management)
+  - [Traditional Data Science](#traditional-data-science)
+  - [Gen AI & Foundation Models](#gen-ai--foundation-models)
+  - [Retrieval Augmented Generation](#retrieval-augmented-generation)
+  - [Agentic AI](#agentic-ai)
+  - [General Technical Skills](#general-technical-skills)
+  - [AI Product Skills](#ai-product-skills)
+  - [General Product Management](#general-product-management)
 - [Newsletters, Podcasts, and People](#newsletters-podcasts-and-people)
-    - [Newsletters](#newsletters)
-    - [Podcasts](#podcasts)
-    - [People to Follow](#people-to-follow)
+  - [Newsletters](#newsletters)
+  - [Podcasts](#podcasts)
+  - [People to Follow](#people-to-follow)
 
 <!-- /TOC -->
 <br>
@@ -122,7 +122,7 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
     <li>Learn the principles and practices of maintaining and scaling ML workflows in production environments.</li>
     <li>General Resources</li>
       <ul>
-        <li><a href="https://www.amazon.com/Designing-Machine-Learning-Systems-Production-Ready/dp/1098107969">(Book) Designing Machine Learning Systems by Chip Huyen</a></li>
+        <li><a href="https://a.co/d/eIRcpD7">(Book) Designing Machine Learning Systems by Chip Huyen</a></li>
         <li><a href="https://github.com/GokuMohandas/Made-With-ML">(Class) Made With ML</a></li>
       </ul>
   </ul>
@@ -196,8 +196,8 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
     <li>Resources:</li>
     <ul>
         <li><a href="https://www.manning.com/books/build-a-large-language-model-from-scratch">(Book) Build a Large Language Model (From Scratch) by Sebastian Raschka</a></li>
-        <li><a href="https://www.amazon.com/Hands-Large-Language-Models-Understanding/dp/1098150961">(Book) Hands-On Large Language Models by Jay Alammar</a></li>
-        <li><a href="https://www.amazon.com/Natural-Language-Processing-Transformers-Revised/dp/1098136799">(Book) Natural Language Processing with Transformers by Lewis Tunstall</a></li>
+        <li><a href="https://a.co/d/3POHRks">(Book) Hands-On Large Language Models by Jay Alammar</a></li>
+        <li><a href="https://a.co/d/fI0MdEB">(Book) Natural Language Processing with Transformers by Lewis Tunstall</a></li>
         <li><a href="https://www.youtube.com/watch?v=7xTGNNLPyMI&ab_channel=AndrejKarpathy">(Video) Deep Dive into LLMs like ChatGPT by Andrej Karpathy</a></li>
         <li><a href="https://arxiv.org/abs/1706.03762">(Paper) Attention is All You Need</a></li>
         <li><a href="https://www.youtube.com/watch?v=9vM4p9NN0Ts&ab_channel=StanfordOnline">(Class) Stanford CS229 - Machine Learning - Building Large Language Models (LLMs)</a></li>
@@ -208,11 +208,7 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 <details>
   <summary><b>Diffusion Models</b></summary>
   <ul>
-    <li><a href="https://lilianweng.github.io/posts/2021-07-11-diffusion-models/" target="_blank" rel="noopener noreferrer">Lil'Log: A Gentle Introduction to Diffusion Models</a></li>
-    <li><a href="https://arxiv.org/abs/2006.11239" target="_blank" rel="noopener noreferrer">DDPM Paper (Denoising Diffusion Probabilistic Models)</a></li>
-    <li><a href="https://huggingface.co/blog/annotated-diffusion" target="_blank" rel="noopener noreferrer">Hugging Face: Annotated Diffusion Model Code</a></li>
-    <li><a href="https://www.youtube.com/watch?v=HoKDTa4h0xc" target="_blank" rel="noopener noreferrer">Diffusion Models Explained Visually – What the Diff?!</a></li>
-    <li><a href="https://keras.io/examples/generative/ddpm/" target="_blank" rel="noopener noreferrer">Keras DDPM Example</a></li>
+    <li></li>
   </ul>
 </details>
 
@@ -315,7 +311,7 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 <details>
   <summary><b>AI Engineering</b></summary>
   <ul>
-    <li><a href="https://www.amazon.com/AI-Engineering-Building-Applications-Foundation/dp/1098166302">(Book) AI Engineering: Building Applications with Foundation Models by Chip Huyen</a></li>
+    <li><a href="https://a.co/d/gr8eiN1">(Book) AI Engineering: Building Applications with Foundation Models by Chip Huyen</a></li>
   </ul>
 </details>
 
