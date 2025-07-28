@@ -37,17 +37,17 @@ typograms: true
 - [Table of Contents](#table-of-contents)
 - [What Makes an AI Technical Product Manager Different](#what-makes-an-ai-technical-product-manager-different)
 - [Skill Sets](#skill-sets)
-  - [Traditional Data Science](#traditional-data-science)
-  - [Gen AI & Foundation Models](#gen-ai--foundation-models)
-  - [Retrieval Augmented Generation](#retrieval-augmented-generation)
-  - [Agentic AI](#agentic-ai)
-  - [General Technical Skills](#general-technical-skills)
-  - [AI Product Skills](#ai-product-skills)
-  - [General Product Management](#general-product-management)
+    - [Traditional Data Science](#traditional-data-science)
+    - [Gen AI & Foundation Models](#gen-ai--foundation-models)
+    - [Retrieval Augmented Generation](#retrieval-augmented-generation)
+    - [Agentic AI](#agentic-ai)
+    - [General Technical Skills](#general-technical-skills)
+    - [AI Product Skills](#ai-product-skills)
+    - [General Product Management](#general-product-management)
 - [Newsletters, Podcasts, and People](#newsletters-podcasts-and-people)
-  - [Newsletters](#newsletters)
-  - [Podcasts](#podcasts)
-  - [People to Follow](#people-to-follow)
+    - [Newsletters](#newsletters)
+    - [Podcasts](#podcasts)
+    - [People to Follow](#people-to-follow)
 
 <!-- /TOC -->
 <br>
@@ -71,24 +71,34 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 ### Traditional Data Science
 
 <details>
-  <summary><b>ML Model Theory</b></summary>
+  <summary><b>Probability & Statistics</b></summary>
   <ul>
-    <li>Understand the difference between Random Forest, SVM, and K-means and when to use one over the other on a problem.</li>
-    <li>Understand the model architecture, hyperparameters, and issues with each model.</li>
+    <li><a href="https://www.oreilly.com/library/view/practical-statistics-for/9781492072935/">(Book) Practical Statistics for Data Scientists by Peter Bruce</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>Machine Learning Theory</b></summary>
+  <ul>
+    <li>Supervised vs. Unsupervised Learning</li>
+    <li>Regression, Classification, Clustering, Association, and Dimensionality Reduction</li>
+    <li>Understand the different models (Random Forest, SVM, K-means, etc.) and when to use one over the other</li>
+    <li>Hyperparameters and issues with each model.</li>
+    <li>Grid vs. Random Search (Gradient Descent)</li>
   </ul>
 </details>
 
 <details>
   <summary><b>Deep Learning Theory</b></summary>
-  <ul>
-    <li>Build a deep understanding of artificial neural networks (ANN) and Deep Learning (DNN, CNN, RNN, etc.).
-    <li>Model architectures and training</li>
-      <ul>  
-        <li>Activation functions</li>
-        <li>Loss functions/cost functions</li>
-        <li>Backpropagation</li>
-      </ul>
-  </ul>
+    <ul>
+      <li>Model architectures for Artificial Neural Networks (ANN) and deep learning models (DNN, CNN, RNN, etc.)</li>
+        <ul>
+          <li>Activation functions</li>
+          <li>Loss functions/cost functions</li>
+          <li>Backpropagation</li>
+          <li>Model weights and biases</li>
+        </ul>
+    </ul>
 </details>
 
 <details>
@@ -99,13 +109,21 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
   </ul>
 </details>
 
+
 <details>
-  <summary><b>ML & Deep Learning Frameworks (Scikit-Learn, PyTorch, TensorFlow)</b></summary>
+  <summary><b>ML & Deep Learning Frameworks</b></summary>
     <ul>
-      <li><a href="https://www.coursera.org/specializations/deep-learning">(Class) Deep Learning Specialisation by Andrew Ng</a></li>
-      <li><a href="https://www.deeplearningbook.org/">(Book) Deep Learning by Ian Goodfellow</a></li>
-      <li><a href="https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/">(Book) Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 3rd Edition by Aurélien Géron</a></li>
-      <li><a href="https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ">(Videos) Neural Networks: Zero to Hero by Andrej Karpathy</a></li>
+      <li>Scikit-Learn</li>
+      <li>PyTorch</li>
+      <li>TensorFlow</li>
+      <li>JAX</li>
+      <li>Resources</li>
+        <ul>
+          <li><a href="https://www.coursera.org/specializations/deep-learning">(Class) Deep Learning Specialisation by Andrew Ng</a></li>
+          <li><a href="https://www.deeplearningbook.org/">(Book) Deep Learning by Ian Goodfellow</a></li>
+          <li><a href="https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/">(Book) Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 3rd Edition by Aurélien Géron</a></li>
+          <li><a href="https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ">(Videos) Neural Networks: Zero to Hero by Andrej Karpathy</a></li>
+        </ul>
     </ul>
 </details>
 
