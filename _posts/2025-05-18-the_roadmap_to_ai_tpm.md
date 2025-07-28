@@ -81,8 +81,8 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
   <summary><b>Machine Learning Theory</b></summary>
   <ul>
     <li>Supervised vs. Unsupervised Learning</li>
-    <li>Regression, Classfication, Clustering, Association, and Dimensionality Reduction</li>
-    <li>Understand the difference models (Random Forest, SVM, K-means, etc.) and when to use one over the other</li>
+    <li>Regression, Classification, Clustering, Association, and Dimensionality Reduction</li>
+    <li>Understand the different models (Random Forest, SVM, K-means, etc.) and when to use one over the other</li>
     <li>Hyperparameters and issues with each model.</li>
     <li>Grid vs. Random Search (Gradient Descent)</li>
   </ul>
@@ -91,7 +91,7 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 <details>
   <summary><b>Deep Learning Theory</b></summary>
   <ul>
-    <li>Model architectures for Artificial Neural Networks (ANN) and deep learning models (DNN, CNN, RNN, etc.).
+    <li>Model architectures for Artificial Neural Networks (ANN) and deep learning models (DNN, CNN, RNN, etc.).</li>
       <ul>  
         <li>Activation functions</li>
         <li>Loss functions/cost functions</li>
