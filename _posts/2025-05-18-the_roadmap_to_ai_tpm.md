@@ -91,13 +91,15 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 <details>
   <summary><b>Deep Learning Theory</b></summary>
   <ul>
-    <li>Model architectures for Artificial Neural Networks (ANN) and deep learning models (DNN, CNN, RNN, etc.).</li>
-      <ul>  
+    <li>
+      Model architectures for Artificial Neural Networks (ANN) and deep learning models (DNN, CNN, RNN, etc.).
+      <ul>
         <li>Activation functions</li>
         <li>Loss functions/cost functions</li>
         <li>Backpropagation</li>
         <li>Model weights and biases</li>
       </ul>
+    </li>
   </ul>
 </details>
 
@@ -108,6 +110,7 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
     <li>Recognize areas of concern or blind spots for each metric.</li>
   </ul>
 </details>
+
 
 <details>
   <summary><b>ML & Deep Learning Frameworks</b></summary>
