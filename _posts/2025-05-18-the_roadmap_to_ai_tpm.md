@@ -46,6 +46,7 @@ typograms: true
     - [General Product Management](#general-product-management)
 - [Newsletters, Podcasts, and People](#newsletters-podcasts-and-people)
     - [Newsletters](#newsletters)
+        - [Tech News](#tech-news)
         - [Engineering Deep Dives](#engineering-deep-dives)
     - [Podcasts](#podcasts)
     - [People to Follow](#people-to-follow)
