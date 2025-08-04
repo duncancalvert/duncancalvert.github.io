@@ -45,9 +45,8 @@ typograms: true
     - [AI Product Skills](#ai-product-skills)
     - [General Product Management](#general-product-management)
 - [Newsletters, Podcasts, and People](#newsletters-podcasts-and-people)
-    - [Newsletters](#newsletters)
-        - [Tech News](#tech-news)
-        - [Engineering Deep Dives](#engineering-deep-dives)
+    - [Newsletters - Tech News](#newsletters---tech-news)
+    - [Newsletters - Engineering Deep Dives](#newsletters---engineering-deep-dives)
     - [Podcasts](#podcasts)
     - [People to Follow](#people-to-follow)
 
@@ -625,29 +624,30 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 
 ---
 
-### Newsletters
-
-#### Tech News
+### Newsletters - Tech News
 * [Data Points](https://www.deeplearning.ai/the-batch/tag/data-points/): a twice‑weekly series from DeepLearning.AI of the most important AI tools, model releases, research findings, and industry developments
 * [Daily Zaps](https://www.dailyzaps.com/): a daily high-level tech news roundup that trends more business than technical
 * [Google Developer Program](https://developers.google.com/newsletter): stay up to date with the latest GCP releases and features
 * [The Download from MIT Technology Review](https://www.technologyreview.com/topic/download-newsletter/): a daily high-level tech news roundup from MIT Tech Review
+* [Tech Brew](https://www.emergingtechbrew.com/): a punchy, daily roundup of general technology news from the editors of the popular Morning Brew newsletter.
 
-#### Engineering Deep Dives
+### Newsletters - Engineering Deep Dives
 
 * [The Sequence](https://thesequence.substack.com/): A weekly series that does technical deep dives on the latest AI/ML techniques
 * [The Batch @ DeepLearning.AI](https://www.deeplearning.ai/the-batch/): a weekly deep dive from Stanford Professor Andrew Ng
 * [The MLOps Newsletter](https://mlops.substack.com/): technical with a specific focus on MLOps
 * [The Variable](https://medium.com/towards-data-science/newsletter): a curated list of articles/tutorials from Towards Data Science, the data science channel in Medium
-* [Turing Post](https://www.turingpost.com/subscribe?ref=WAGU23hEVa)
+* [Turing Post](https://www.turingpost.com/subscribe?ref=WAGU23hEVa): a weekly newsletter by Ksenia Se that covers AI and ML curated summaries of hundreds of industry developments, research insights, and historical context
 * [SwirlAI](https://www.newsletter.swirlai.com/): MLOps and data engineering focused newsletter with great visualizations
 * [ByteByteGo](): a weekly newsletter by Alex Xu that delivers concise system‑design deep dives and foundational tech explainers on complex distributed systems topics like Kubernetes, databases, CI/CD, and API design
 
 ### Podcasts
 
-- [Practical AI by Changelog](https://podcasts.apple.com/us/podcast/practical-ai/id1406537385)
-- [Inference by Turing Post](https://www.youtube.com/playlist?list=PLRRoCwK1ZTNCAZXXOswpIYQqzMgT4swsI)
-- [Latent Space: The AI Engineer Podcast](https://www.latent.space/podcast)
+* [Practical AI by Changelog](https://podcasts.apple.com/us/podcast/practical-ai/id1406537385)
+* [Inference by Turing Post](https://www.youtube.com/playlist?list=PLRRoCwK1ZTNCAZXXOswpIYQqzMgT4swsI)
+* [Latent Space: The AI Engineer Podcast](https://www.latent.space/podcast)
+* [NVIDIA AI Podcast](https://ai-podcast.nvidia.com/)
+* 
 
 ### People to Follow
 
