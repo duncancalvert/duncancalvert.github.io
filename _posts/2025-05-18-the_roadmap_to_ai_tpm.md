@@ -647,7 +647,7 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 * [Inference by Turing Post](https://www.youtube.com/playlist?list=PLRRoCwK1ZTNCAZXXOswpIYQqzMgT4swsI)
 * [Latent Space: The AI Engineer Podcast](https://www.latent.space/podcast)
 * [NVIDIA AI Podcast](https://ai-podcast.nvidia.com/)
-* 
+* [Hard Fork](https://www.nytimes.com/column/hard-fork)
 
 ### People to Follow
 
