@@ -46,6 +46,8 @@ typograms: true
     - [General Product Management](#general-product-management)
 - [Newsletters, Podcasts, and People](#newsletters-podcasts-and-people)
     - [Newsletters](#newsletters)
+        - [Tech News](#tech-news)
+        - [Engineering Deep Dives](#engineering-deep-dives)
     - [Podcasts](#podcasts)
     - [People to Follow](#people-to-follow)
 
@@ -625,16 +627,21 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 
 ### Newsletters
 
-- [The Sequence](https://thesequence.substack.com/): A weekly series that does technical deep dives on the latest AI/ML techniques
-- [The Batch @ DeepLearning.AI](https://www.deeplearning.ai/the-batch/): a weekly deep dive from Stanford Professor Andrew Ng
-- [Data Points](https://www.deeplearning.ai/the-batch/tag/data-points/)
-- [Daily Zaps](https://www.dailyzaps.com/): high level tech news, not very technical
-- [The MLOps Newsletter](https://mlops.substack.com/): technical with a specific focus on MLOps
-- [Google Developer Program](https://developers.google.com/newsletter): stay up to date with the latest GCP releases
-- [The Variable](https://medium.com/towards-data-science/newsletter): a curated list of articles/tutorials from Towards Data Science, the data science channel in Medium
-- [The Download from MIT Technology Review](https://www.technologyreview.com/topic/download-newsletter/): a higher level tech news roundup
-- [Turing Post](https://www.turingpost.com/subscribe?ref=WAGU23hEVa)
-- [SwirlAI](https://www.newsletter.swirlai.com/): MLOps and data engineering focused newsletter with great visualizations
+#### Tech News
+* [Data Points](https://www.deeplearning.ai/the-batch/tag/data-points/): a twice‑weekly series from DeepLearning.AI of the most important AI tools, model releases, research findings, and industry developments
+* [Daily Zaps](https://www.dailyzaps.com/): a daily high-level tech news roundup that trends more business than technical
+* [Google Developer Program](https://developers.google.com/newsletter): stay up to date with the latest GCP releases and features
+* [The Download from MIT Technology Review](https://www.technologyreview.com/topic/download-newsletter/): a daily high-level tech news roundup from MIT Tech Review
+
+#### Engineering Deep Dives
+
+* [The Sequence](https://thesequence.substack.com/): A weekly series that does technical deep dives on the latest AI/ML techniques
+* [The Batch @ DeepLearning.AI](https://www.deeplearning.ai/the-batch/): a weekly deep dive from Stanford Professor Andrew Ng
+* [The MLOps Newsletter](https://mlops.substack.com/): technical with a specific focus on MLOps
+* [The Variable](https://medium.com/towards-data-science/newsletter): a curated list of articles/tutorials from Towards Data Science, the data science channel in Medium
+* [Turing Post](https://www.turingpost.com/subscribe?ref=WAGU23hEVa)
+* [SwirlAI](https://www.newsletter.swirlai.com/): MLOps and data engineering focused newsletter with great visualizations
+* [ByteByteGo](): a weekly newsletter by Alex Xu that delivers concise system‑design deep dives and foundational tech explainers on complex distributed systems topics like Kubernetes, databases, CI/CD, and API design
 
 ### Podcasts
 
