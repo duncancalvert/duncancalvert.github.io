@@ -51,6 +51,13 @@ typograms: true
     - [People to Follow](#people-to-follow)
 
 <!-- /TOC -->
+- [Newsletters, Podcasts, and People](#newsletters-podcasts-and-people)
+    - [Newsletters - Tech News](#newsletters---tech-news)
+    - [Newsletters - Engineering Deep Dives](#newsletters---engineering-deep-dives)
+    - [Podcasts](#podcasts)
+    - [People to Follow](#people-to-follow)
+
+<!-- /TOC -->
 <br>
 
 ## What Makes an AI Technical Product Manager Different
@@ -81,11 +88,15 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 <details>
   <summary><b>Machine Learning Theory</b></summary>
   <ul>
-    <li>Supervised vs. Unsupervised Learning</li>
-    <li>Regression, Classification, Clustering, Association, and Dimensionality Reduction</li>
+    <li>Supervised vs. unsupervised learning</li>
+    <li>Regression, classification, clustering, association, and dimensionality reduction</li>
     <li>Understand the different models (Random Forest, SVM, K-means, etc.) and when to use one over the other</li>
-    <li>Hyperparameters and issues with each model.</li>
-    <li>Grid vs. Random Search (Gradient Descent)</li>
+    <li>Model hyperparameters</li>
+    <li>Grid vs. random search (gradient descent)</li>
+    <li>Loss functions</li>
+    <li>Overfitting and underfitting</li>
+    <li>Bias and variance</li>
+    <li>Model evaluation techniques (train/test split, cross validation, metrics)</li>
   </ul>
 </details>
 
@@ -150,7 +161,7 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 <details>
   <summary><b>Python</b></summary>
   <ul>
-    <li>Learn Object-oriented programming (OOP) principles.</li>
+    <li>Learn object-oriented programming (OOP) principles.</li>
     <li>Proficiency in Pandas and NumPy for data manipulation.</li>
     <li>Use Jupyter notebooks for exploration and experimentation.</li>
   </ul>
@@ -199,17 +210,17 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 <details>
   <summary><b>Transformer Theory</b></summary>
   <ul>
-    <li>Architecture & Training</li>
+    <li>Architecture & modeling</li>
       <ul>
-        <li>Attention Mechanism</li>
-        <li>Positional Encoding</li>
-        <li>Tokenization & Embeddings</li>
-        <li>Decoder-Only, Encoder-Only, and Encoder-Decoder Models</li>
-        <li>Hyperparameter Tuning</li>
+        <li>Attention mechanism</li>
+        <li>Positional encoding</li>
+        <li>Tokenization & vector embeddings</li>
+        <li>Decoder-only, encoder-only, and encoder-decoder architectures</li>
+        <li>Hyperparameter tuning</li>
           <ul>
             <li>Temperature</li>
-            <li>top-K</li>
-            <li>top-P</li>
+            <li>Top-K</li>
+            <li>Top-P</li>
           </ul>
       </ul>
     <li>Resources:</li>
@@ -244,7 +255,7 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 <details>
   <summary><b>LLM Fine-Tuning</b></summary>
   <ul>
-    <li>Compute Efficiency Techniques</li>
+    <li>Compute efficiency techniques</li>
       <ul>
         <li>LoRA</li>
         <li>QLoRA</li>
@@ -264,26 +275,26 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 <details>
   <summary><b>LLM Evaluation</b></summary>
   <ul>
-    <li>LLM Eval Metrics</li>
+    <li>LLM evaluation metrics</li>
       <ul>
-        <li>Statistical Metrics</li>
+        <li>Statistical metrics</li>
           <ul>
             <li><a href="https://en.wikipedia.org/wiki/BLEU">BLEU</a></li>
             <li><a href="https://en.wikipedia.org/wiki/ROUGE_(metric)">ROUGE (Recall-Oriented Understudy for Gisting Evaluation)</a></li>
             <li><a href="https://en.wikipedia.org/wiki/METEOR">METEOR (Metric for Evaluation of Translation with Explicit Ordering)</a></li>
             <li><a href="https://en.wikipedia.org/wiki/Levenshtein_distance">Levenshtein Distance</a></li>
           </ul>
-        <li>LLM-as-Judge Metrics</li>
+        <li>LLM-as-judge metrics</li>
       </ul>
-    <li>LLM Eval Tools</li>
+    <li>LLM evaluation tools</li>
       <ul>
         <li><a href="https://docs.ragas.io">Ragas</a></li>
       </ul>
-    <li>LLM-as-Judge Techniques</li>
+    <li>LLM-as-a-judge techniques</li>
       <ul>
-        <li>Pairwise Comparison</li>
-        <li>Evaluation by Criteria (Reference Free)</li>
-        <li>Evaluation by Criteria (Reference-Based)</li>
+        <li>Pairwise comparison</li>
+        <li>Evaluation by criteria (reference free)</li>
+        <li>Evaluation by criteria (reference-based)</li>
       </ul>
   </ul>
 </details>
@@ -311,7 +322,7 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 <details>
   <summary><b>LLM Safety & Security</b></summary>
   <ul>
-    <li>Content Filtering</li>
+    <li>Content filtering</li>
       <ul>
         <li><a href="https://cloud.google.com/security-command-center/docs/model-armor-overview">GCP Model Armor</a>
         </li>
@@ -346,7 +357,7 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
     <li>Vector embeddings</li>
     <li>Chunking</li>
     <li>Hybrid retrieval</li>
-    <li>General Resources</li>
+    <li>General resources</li>
       <ul>
         <li>
           <a href="https://github.com/NirDiamant/RAG_Techniques">(GitHub) RAG Techniques by Nir Diamant</a>
@@ -358,7 +369,7 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 <details>
   <summary><b>RAG Evaluation</b></summary>
   <ul>
-    <li>RAG Eval Metrics</li>
+    <li>RAG evaluation metrics</li>
     <ul>
       <li>Context Precision</li>
       <li>Context Recall</li>
@@ -379,12 +390,12 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 <details>
   <summary><b>Vector Databases</b></summary>
   <ul>
-    <li>Vector Search Prototyping Libraries</li>
+    <li>Vector search prototyping libraries</li>
       <ul>
         <li><a href="https://faiss.ai/">FAISS</a></li>
         <li><a href="https://github.com/nmslib/hnswlib">HNSWlib</a></li>
       </ul>
-    <li>Production Databases</li>
+    <li>Production databases</li>
       <ul>
         <li>Pinecone</li>
         <li>Weaviate</li>
@@ -413,7 +424,7 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 </details>
 
 <details>
-  <summary><b>Agent Evals</b></summary>
+  <summary><b>Agent Evaluation</b></summary>
   <ul>
     <li><a href="https://arxiv.org/abs/2410.10934">(Paper) Agent-as-a-Judge: Evaluate Agents with Agents</a></li>
   </ul>
@@ -647,7 +658,8 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 * [Inference by Turing Post](https://www.youtube.com/playlist?list=PLRRoCwK1ZTNCAZXXOswpIYQqzMgT4swsI)
 * [Latent Space: The AI Engineer Podcast](https://www.latent.space/podcast)
 * [NVIDIA AI Podcast](https://ai-podcast.nvidia.com/)
-* [Hard Fork](https://www.nytimes.com/column/hard-fork)
+* [Hard Fork by the NYT](https://www.nytimes.com/column/hard-fork)
+* [The a16z Podcast by Andreessen Horowitz](https://a16z.com/podcasts/a16z-podcast/)
 
 ### People to Follow
 
