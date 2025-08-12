@@ -146,7 +146,7 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
     <li>Learn the principles and practices of maintaining and scaling ML workflows in production environments.</li>
     <li>General Resources</li>
       <ul>
-        <li><a href="https://a.co/d/eIRcpD7">(Book) Designing Machine Learning Systems by Chip Huyen</a></li>
+        <li><a href="https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/">(Book) Designing Machine Learning Systems by Chip Huyen</a></li>
         <li><a href="https://github.com/GokuMohandas/Made-With-ML">(Class) Made With ML</a></li>
       </ul>
   </ul>
@@ -220,8 +220,8 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
     <li>Resources:</li>
     <ul>
         <li><a href="https://www.manning.com/books/build-a-large-language-model-from-scratch">(Book) Build a Large Language Model (From Scratch) by Sebastian Raschka</a></li>
-        <li><a href="https://a.co/d/3POHRks">(Book) Hands-On Large Language Models by Jay Alammar</a></li>
-        <li><a href="https://a.co/d/fI0MdEB">(Book) Natural Language Processing with Transformers by Lewis Tunstall</a></li>
+        <li><a href="https://www.oreilly.com/library/view/hands-on-large-language/9781098150952/">(Book) Hands-On Large Language Models by Jay Alammar</a></li>
+        <li><a href="https://www.oreilly.com/library/view/natural-language-processing/9781098136789/">(Book) Natural Language Processing with Transformers by Lewis Tunstall</a></li>
         <li><a href="https://www.youtube.com/watch?v=7xTGNNLPyMI&ab_channel=AndrejKarpathy">(Video) Deep Dive into LLMs like ChatGPT by Andrej Karpathy</a></li>
         <li><a href="https://arxiv.org/abs/1706.03762">(Paper) Attention is All You Need</a></li>
         <li><a href="https://www.youtube.com/watch?v=9vM4p9NN0Ts&ab_channel=StanfordOnline">(Class) Stanford CS229 - Machine Learning - Building Large Language Models (LLMs)</a></li>
@@ -302,9 +302,15 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 </details>
 
 <details>
-  <summary><b>LLM Interpretability</b></summary>
+  <summary><b>AI Interpretability</b></summary>
   <ul>
-    <li>Anthropic's Interpretability Team</li>
+    <li>Interpretability Methods</li>
+      <ul>
+        <li>Post-hoc Explainability</li>
+        <li>Intrinsic Interpretability</li>
+        <li>Mechanistic Interpretability</li>
+      </ul>
+    <li>Anthropic's Interpretability Team Publications</li>
       <ul>
         <li><a href="https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html">Dictionary Learning</a></li>
         <li><a href="https://www.anthropic.com/research/towards-monosemanticity-decomposing-language-models-with-dictionary-learning">Monosemanticity</a></li>
@@ -338,7 +344,7 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 <details>
   <summary><b>AI Engineering</b></summary>
   <ul>
-    <li><a href="https://a.co/d/gr8eiN1">(Book) AI Engineering: Building Applications with Foundation Models by Chip Huyen</a></li>
+    <li><a href="https://www.oreilly.com/library/view/ai-engineering/9781098166298/">(Book) AI Engineering: Building Applications with Foundation Models by Chip Huyen</a></li>
   </ul>
 </details>
 
@@ -644,7 +650,7 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 * [TheSequence](https://thesequence.substack.com/): A weekly series that does technical deep dives on the latest AI/ML techniques
 * [The Batch @ DeepLearning.AI](https://www.deeplearning.ai/the-batch/): a weekly deep dive from Stanford Professor Andrew Ng
 * [The MLOps Newsletter](https://mlops.substack.com/): technical with a specific focus on MLOps
-* [The Variable](https://medium.com/towards-data-science/newsletter): a curated list of articles/tutorials from Towards Data Science, the data science channel in Medium
+* [The Variable](https://towardsdatascience.com/category/the-variable/): a curated list of articles/tutorials from Towards Data Science, the data science channel in Medium
 * [Turing Post](https://www.turingpost.com/subscribe?ref=WAGU23hEVa): a weekly newsletter by Ksenia Se that covers AI and ML curated summaries of hundreds of industry developments, research insights, and historical context
 * [SwirlAI](https://www.newsletter.swirlai.com/): MLOps and data engineering focused newsletter with great visualizations
 * [ByteByteGo](): a weekly newsletter by Alex Xu that delivers concise system‑design deep dives and foundational tech explainers on complex distributed systems topics like Kubernetes, databases, CI/CD, and API design
