@@ -51,13 +51,7 @@ typograms: true
     - [People to Follow](#people-to-follow)
 
 <!-- /TOC -->
-- [Newsletters, Podcasts, and People](#newsletters-podcasts-and-people)
-    - [Newsletters - Tech News](#newsletters---tech-news)
-    - [Newsletters - Engineering Deep Dives](#newsletters---engineering-deep-dives)
-    - [Podcasts](#podcasts)
-    - [People to Follow](#people-to-follow)
 
-<!-- /TOC -->
 <br>
 
 ## What Makes an AI Technical Product Manager Different
@@ -333,6 +327,9 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 <details>
   <summary><b>Prompt/Context Engineering</b></summary>
   <ul>
+    <li>Chain-of-Thought (CoT) Prompting</li>
+    <li>ReAct</li>
+    <li>Tree-of-Thoughts (ToT) Prompting</li>
     <li><a href="https://platform.openai.com/docs/guides/text?api-mode=responses">(Article) OpenAI Prompting Guide</a></li>
     <li><a href="https://www.promptingguide.ai/">(Website) Prompt Engineering Guide by DAIR.AI</a></li>
   </ul>
@@ -644,7 +641,7 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 
 ### Newsletters - Engineering Deep Dives
 
-* [The Sequence](https://thesequence.substack.com/): A weekly series that does technical deep dives on the latest AI/ML techniques
+* [TheSequence](https://thesequence.substack.com/): A weekly series that does technical deep dives on the latest AI/ML techniques
 * [The Batch @ DeepLearning.AI](https://www.deeplearning.ai/the-batch/): a weekly deep dive from Stanford Professor Andrew Ng
 * [The MLOps Newsletter](https://mlops.substack.com/): technical with a specific focus on MLOps
 * [The Variable](https://medium.com/towards-data-science/newsletter): a curated list of articles/tutorials from Towards Data Science, the data science channel in Medium
