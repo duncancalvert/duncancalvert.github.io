@@ -210,7 +210,7 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
         <li>Positional encoding</li>
         <li>Tokenization & vector embeddings</li>
         <li>Decoder-only, encoder-only, and encoder-decoder architectures</li>
-        <li>Hyperparameter tuning</li>
+        <li>Hyperparameters</li>
           <ul>
             <li>Temperature</li>
             <li>Top-K</li>
@@ -226,6 +226,16 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
         <li><a href="https://arxiv.org/abs/1706.03762">(Paper) Attention is All You Need</a></li>
         <li><a href="https://www.youtube.com/watch?v=9vM4p9NN0Ts&ab_channel=StanfordOnline">(Class) Stanford CS229 - Machine Learning - Building Large Language Models (LLMs)</a></li>
       </ul>
+  </ul>
+</details>
+
+<details>
+  <summary><b>Gen AI Scaling Laws</b></summary>
+  <ul>
+    <li>Pre-training Scaling (parameter, data, and training compute size)</li>
+    <li>Post-training Scaling (RLHF)</li>
+    <li>Test-time Scaling/Inference Scaling</li>
+    <li>Multi-Agent Scaling</li>
   </ul>
 </details>
 
@@ -448,6 +458,10 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
       </ul>
     </li>
     <li>OpenAI Agent SDK</li>
+    <li>Google Agent Development Kit (ADK)</li>
+      <ul>
+        <li><a href="https://codelabs.developers.google.com/onramp/instructions#0">(Code Lab) ADK Crash Course - From Beginner To Expert</a></li>
+      </ul>
     <li>Mastra</li>
   </ul>
 </details>
@@ -498,6 +512,13 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 </details>
 
 <details>
+  <summary><b>Cloud FinOps</b></summary>
+  <ul>
+    <li>Manage cloud financial operations to maximize efficiency and optimize cost.</li>
+  </ul>
+</details>
+
+<details>
   <summary><b>Data Pipelines</b></summary>
   <ul>
     <li>Apache Airflow</li>
@@ -519,6 +540,13 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
     <li>Implement REST and streaming endpoints for AI services</li>
     <li>Design authentication and rate-limiting systems</li>
     <li>Build WebSocket implementations for real-time AI interactions</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>Data Validation</b></summary>
+  <ul>
+    <li><a href="https://docs.pydantic.dev/latest/">Pydantic</a></li>
   </ul>
 </details>
 
@@ -594,13 +622,6 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
   <summary><b>Robust Documentation</b></summary>
   <ul>
     <li>Ensure product documentation is clear, current, and accessible to cross-functional teams.</li>
-  </ul>
-</details>
-
-<details>
-  <summary><b>FinOps</b></summary>
-  <ul>
-    <li>Manage cloud financial operations to maximize efficiency and optimize cost.</li>
   </ul>
 </details>
 
