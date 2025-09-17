@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Roadmap to AI Technical Product Manager
+title: The Roadmap to AI Product Manager
 date: 2025-05-18 16:04:10
 description: A guide to AI upskilling for Technical Product Managers
 tags: AI Machine_Learning Deep_Learning Research Neural_Networks Product_Management Agents
@@ -35,15 +35,15 @@ typograms: true
 <!-- TOC -->
 
 - [Table of Contents](#table-of-contents)
-- [What Makes an AI Technical Product Manager Different](#what-makes-an-ai-technical-product-manager-different)
+- [What Makes an AI Product Manager Different](#what-makes-an-ai-product-manager-different)
 - [Skill Sets](#skill-sets)
     - [Traditional Data Science](#traditional-data-science)
     - [Gen AI & Foundation Models](#gen-ai--foundation-models)
     - [Retrieval Augmented Generation](#retrieval-augmented-generation)
     - [Agentic AI](#agentic-ai)
     - [General Technical Skills](#general-technical-skills)
-    - [AI Product Skills](#ai-product-skills)
-    - [General Product Management](#general-product-management)
+    - [General Product Management Skills](#general-product-management-skills)
+    - [AI Specific Product Skills](#ai-specific-product-skills)
 - [Newsletters, Podcasts, and People](#newsletters-podcasts-and-people)
     - [Newsletters - Tech News](#newsletters---tech-news)
     - [Newsletters - Engineering Deep Dives](#newsletters---engineering-deep-dives)
@@ -54,9 +54,9 @@ typograms: true
 
 <br>
 
-## What Makes an AI Technical Product Manager Different
+## What Makes an AI Product Manager Different
 
-The rapid rise of AI and Agentic frameworks has redefined the landscape of product development and the role of a TPM. A traditional TPM focuses on building scalable systems, ensures alignment of engineering with product, and translates business needs into technical specs. They primarily build with tools that are time-tested, relatively stable, and well documented.
+The rapid rise of AI and Agentic frameworks has redefined the landscape of product development and the role of a PM. A traditional PM focuses on building scalable systems, ensures alignment of engineering with product, and translates business needs into technical specs. They primarily build with tools that are time-tested, relatively stable, and well documented.
 
 In contrast, AI TPMs live at the intersection of infrastructure, cutting edge research, and business outcomes. They guide the development of probabilistic, data-dependent products where performance varies widely across inputs, and success isn’t measured in "features shipped" but in hard to measure metrics like model quality, inference efficiency, and real-world generalization. Add to that the fact that tools are shifting under their feet with vendors and the open-source community launching new frameworks based on the latest cutting edge agentic and Gen AI research.
 
@@ -395,7 +395,7 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
     </ul>
   <li>RAG Eval Tools</li>
     <ul>
-      <li>Ragas</li>
+      <li><a href="https://docs.ragas.io/en/stable/">Ragas</a></li>
     </ul>
   </ul>
 </details>
@@ -410,13 +410,17 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
       </ul>
     <li>Production databases</li>
       <ul>
-        <li>Pinecone</li>
-        <li>Weaviate</li>
-        <li>Chroma</li>
-        <li>Elasticsearch</li>
-        <li>Milvus</li>
+        <li><a href="https://www.pinecone.io/">Pinecone</a></li>
+        <li><a href="https://weaviate.io/">Weaviate</a></li>
+        <li><a href="https://www.trychroma.com/">Chroma</a></li>
+        <li><a href="https://www.elastic.co/elasticsearch">Elasticsearch</a></li>
+        <li><a href="https://milvus.io/">Milvus</a></li>
       </ul>
   </ul>
+</details>
+
+<details>
+  <summary><b>Agentic RAG</b></summary>
 </details>
 
 ---
@@ -446,44 +450,41 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 <details>
   <summary><b>Agent Frameworks</b></summary>
   <ul>
-    <li>LangChain</li>
-    <li>LangGraph
+    <li><a href="https://www.langchain.com/">LangChain</a>: open-source framework for building agents</li>
+    <li><a href="https://www.langchain.com/">LangGraph</a>: a newer-graph-based library within the LangChain ecosystem designed for creating complex, stateful, and multi-agent workflows with explicit state management and the ability to handle loops and cycles.</li>
       <ul>
         <li><a href="https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/">(Class) AI Agents in LangGraph by DeepLearning.AI</a></li>
       </ul>
-    </li>
-    <li>LlamaIndex
+    <li><a href="https://www.llamaindex.ai/">LlamaIndex</a>: specializes in efficiently indexing and querying large datasets for Retrieval Augmented Generation (RAG) applications</li>
       <ul>
         <li><a href="https://www.deeplearning.ai/short-courses/building-agentic-rag-with-llamaindex/">(Class) Building Agentic RAG with LlamaIndex</a></li>
       </ul>
-    </li>
-    <li>OpenAI Agent SDK</li>
+    <li><a href="https://openai.github.io/openai-agents-python/">OpenAI Agent SDK</a>: OpenAI's framework for building agentic AI apps in a lightweight, easy-to-use package with few abstractions. It's a production-ready upgrade of their previous experimentatal framework (Swarm).</li>
     <li>Google Agent Development Kit (ADK)</li>
       <ul>
         <li><a href="https://codelabs.developers.google.com/onramp/instructions#0">(Code Lab) ADK Crash Course - From Beginner To Expert</a></li>
       </ul>
-    <li>Mastra</li>
   </ul>
 </details>
 
 <details>
   <summary><b>Agent Protocols</b></summary>
   <ul>
-    <li>Anthropic Model Context Protocol (MCP)
-      <ul>
-        <li><a href="https://blog.neosage.io/p/why-every-ai-builder-needs-to-understand">(Article) Why Every AI Builder Needs to Understand MCP</a></li>
-      </ul>
-    </li>
-    <li>Google Agent-2-Agent (A2A)</li>
+    <li><a href="https://modelcontextprotocol.io/docs/getting-started/intro">Anthropic's Model Context Protocol (MCP)</a></li>
+    <li><a href="https://a2a-protocol.org/latest/">Google's Agent-2-Agent (A2A)</a></li>
+    <li><a href="https://cloud.google.com/blog/products/ai-machine-learning/announcing-agents-to-payments-ap2-protocol">Google's Agent Payments Protocol (AP2)</a></li> 
   </ul>
 </details>
 
 <details>
   <summary><b>AI Integrated Development Environments (IDEs)</b></summary>
   <ul>
-    <li>Cursor</li>
-    <li>Windsurf</li>
-    <li>Replit</li>
+    <li><a href="https://cursor.com/agents">Cursor</a></li>
+    <li><a href="https://windsurf.com/">Windsurf</a></li>
+    <li><a href="https://replit.com/">Replit</a></li>
+    <li><a href="https://openai.com/codex/">OpenAI Codex</a></li>
+    <li><a href="https://claude.com/product/claude-code">Claude Code</a></li>
+    <li><a href="https://codeassist.google/">Gemini Code Assist</a></li>
   </ul>
 </details>
 
@@ -552,44 +553,10 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 
 ---
 
-<!------------------ Section --------------------->
-
-### AI Product Skills
-
-<details>
-  <summary><b>AI Product Sense</b></summary>
-  <ul>
-    <li>Understand what can, and importantly cannot, be solved by AI (i.e. AI is not a silver bullet, many processes and products are better served with non-AI solutions)</li>
-  </ul>
-</details>
-
-<details>
-  <summary><b>AI Experiment Design</b></summary>
-  <ul>
-    <li>Practice iterative hypothesis testing with quantitative evaluation. </li>
-    <li>Lead with A/B test, user interviews, and user feedback loops where possible</li>
-  </ul>
-</details>
-
-<details>
-  <summary><b>Market Insight</b></summary>
-  <ul>
-    <li>Build a deep understanding of the AI market, its competitive landscape, and emerging trends</li>
-  </ul>
-</details>
-
-<details>
-  <summary><b>User Journeys</b></summary>
-  <ul>
-    <li>Define clear user journeys aligned with a strategic AI product philosophy and a north star metric.</li>
-  </ul>
-</details>
-
----
 
 <!------------------ Section --------------------->
 
-### General Product Management
+### General Product Management Skills
 
 <details>
   <summary><b>Project Management Frameworks</b></summary>
@@ -615,6 +582,39 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
   <ul>
     <li>Bridge development and operations to ensure scalable, stable, and reliable systems.</li>
     <li>SRE focuses on uptime, latency, monitoring, and incident response with a software engineering mindset.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>Product Metrics</b></summary>
+  <ul>
+    <li>User Adoption & Engagement</li>
+      <ul>
+        <li><ins>Daily/Monthly Active Users (DAU/MAU)</ins>: the number of unique users who interact with the system daily/monthly</li>
+        <li><ins>DAU/MAU Stickiness</ins>: measures how frequently users return to the product (higher ratios = better)</li>
+        <li><ins>Feature Adoption Rate</ins>: percentage of users who use a specific feature within a given time period</li>
+      </ul>
+    <li>Customer Satisfaction</li>
+      <ul>
+        <li><ins>Net Prompter Score (NPS)</ins>: measures customer loyalty and satisfaction by asking users the likelihood of product recommendations</li>
+        <li><ins>Customer Satisfaction Score (CSAT)</ins>: measures customer happiness with a specific feature or interaction</li>
+        <li><ins>System Usability Scale (SUS)</ins>: measures the perceived usability of a product or system (range: 0-100 with higher scores indicating better usability). Importanlty, SUS doesn't measure the satisfaction with the product, so SUS + NPS is a good strategy.</li>
+        <li><ins>Support Ticket Ratio</ins>: number of support tickets per user. A high number can signal product friction, bugs, or adoption issues.</li>
+      </ul>
+    <li>Retention & Churn</li>
+      <ul>
+        <li><ins>Churn Rate</ins>: percentage of customers who stop using the product within a given timeframe</li>
+        <li><ins>Retention Rate</ins>: percentage of customers who continue to use the product over a specific period. Retention is important as it's generally more cost efficient than new customer acquisitions</li>
+      </ul>
+    <li>Financial Performance</li>
+      <ul>
+        <li><ins>Customer Acquisition Cost (CAC)</ins>: </li>
+        <li><ins>Customer Lifetime Value (CLTV)</ins>: </li>
+        <li><ins>Monthly Recurring Revenue (MRR)</ins>: </li>
+        <li><ins>Annual Recurring Revenue (ARR)</ins>: </li>
+        <li><ins>Average Revenue Per User (ARPU)</ins>: </li>
+      </ul>
+    <li>Product Performance & Delivery</li>
   </ul>
 </details>
 
@@ -653,6 +653,43 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
   </ul>
 </details>
 
+<details>
+  <summary><b>User Journeys</b></summary>
+  <ul>
+    <li>Define clear user journeys aligned with a strategic AI product philosophy and a north star metric.</li>
+  </ul>
+</details>
+
+---
+
+<!------------------ Section --------------------->
+
+### AI Specific Product Skills
+
+<details>
+  <summary><b>AI Product Sense</b></summary>
+  <ul>
+    <li>Understand what can, and importantly cannot, be solved by AI (i.e. AI is not a silver bullet, many processes and products are better served with non-AI solutions)</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>AI Experiment Design</b></summary>
+  <ul>
+    <li>Practice iterative hypothesis testing with quantitative evaluation. </li>
+    <li>Lead with A/B test, user interviews, and user feedback loops where possible</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>AI Market Insight</b></summary>
+  <ul>
+    <li>Build a deep understanding of the AI market, its competitive landscape, and emerging trends</li>
+  </ul>
+</details>
+
+---
+
 <br>
 
 ## Newsletters, Podcasts, and People
@@ -671,7 +708,7 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 * [TheSequence](https://thesequence.substack.com/): A weekly series that does technical deep dives on the latest AI/ML techniques
 * [The Batch @ DeepLearning.AI](https://www.deeplearning.ai/the-batch/): a weekly deep dive from Stanford Professor Andrew Ng
 * [The MLOps Newsletter](https://mlops.substack.com/): technical with a specific focus on MLOps
-* [The Variable](https://towardsdatascience.com/category/the-variable/): a curated list of articles/tutorials from Towards Data Science, the data science channel in Medium
+* [The Variable](https://towardsdatascience.com/category/the-variable/): a curated list of articles/tutorials from Towards Data Science
 * [Turing Post](https://www.turingpost.com/subscribe?ref=WAGU23hEVa): a weekly newsletter by Ksenia Se that covers AI and ML curated summaries of hundreds of industry developments, research insights, and historical context
 * [SwirlAI](https://www.newsletter.swirlai.com/): MLOps and data engineering focused newsletter with great visualizations
 * [ByteByteGo](): a weekly newsletter by Alex Xu that delivers concise system‑design deep dives and foundational tech explainers on complex distributed systems topics like Kubernetes, databases, CI/CD, and API design
