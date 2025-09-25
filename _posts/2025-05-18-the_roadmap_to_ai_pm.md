@@ -2,7 +2,7 @@
 layout: post
 title: The Roadmap to AI Product Manager
 date: 2025-05-18 16:04:10
-description: A guide to AI upskilling for Technical Product Managers
+description: A guide to the AI product management landscape
 tags: AI Machine_Learning Deep_Learning Research Neural_Networks Product_Management Agents
 categories: data-science
 typograms: true
@@ -56,7 +56,7 @@ typograms: true
 
 ## What Makes an AI Product Manager Different
 
-The rapid rise of AI and Agentic frameworks has redefined the landscape of product development and the role of a PM. A traditional PM focuses on building scalable systems, ensures alignment of engineering with product, and translates business needs into technical specs. They primarily build with tools that are time-tested, relatively stable, and well documented.
+The rapid advances in AI and Agentic technology has redefined the product development landscape and given rise to the new role of a AI product manager (PM). A traditional PM focuses on building scalable systems, ensures alignment of engineering with product, and translates business needs into technical specs. They primarily build with tools that are time-tested, relatively stable, and well documented.
 
 In contrast, AI TPMs live at the intersection of infrastructure, cutting edge research, and business outcomes. They guide the development of probabilistic, data-dependent products where performance varies widely across inputs, and success isn’t measured in "features shipped" but in hard to measure metrics like model quality, inference efficiency, and real-world generalization. Add to that the fact that tools are shifting under their feet with vendors and the open-source community launching new frameworks based on the latest cutting edge agentic and Gen AI research.
 
@@ -538,7 +538,7 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
   <summary><b>API and Backend Skills</b></summary>
   <ul>
     <li>Develop backends with FastAPI or Flask</li>
-    <li>Implement REST and streaming endpoints for AI services</li>
+    <li>Implement REST or GraphQL streaming endpoints for AI services</li>
     <li>Design authentication and rate-limiting systems</li>
     <li>Build WebSocket implementations for real-time AI interactions</li>
   </ul>
