@@ -46,6 +46,7 @@ typograms: true
     - [AI Specific Product Skills](#ai-specific-product-skills)
 - [Newsletters, Podcasts, and People](#newsletters-podcasts-and-people)
     - [Newsletters - Tech News](#newsletters---tech-news)
+    - [Newsletters - Cloud Developer Programs](#newsletters---cloud-developer-programs)
     - [Newsletters - Engineering Deep Dives](#newsletters---engineering-deep-dives)
     - [Podcasts](#podcasts)
     - [People to Follow](#people-to-follow)
@@ -56,7 +57,7 @@ typograms: true
 
 ## What Makes an AI Product Manager Different
 
-The rapid advances in AI and Agentic technology has redefined the product development landscape and given rise to the new role of a AI product manager (PM). A traditional PM focuses on building scalable systems, ensures alignment of engineering with product, and translates business needs into technical specs. They primarily build with tools that are time-tested, relatively stable, and well documented.
+The rapid advances in AI technology in the last few years have redefined the product development landscape and given rise to the new role of a AI Product Manager (PM). A traditional PM focuses on building scalable systems, ensures alignment of engineering with product, and translates business needs into technical specs. They primarily build with tools that are time-tested, relatively stable, and well documented.
 
 In contrast, AI TPMs live at the intersection of infrastructure, cutting edge research, and business outcomes. They guide the development of probabilistic, data-dependent products where performance varies widely across inputs, and success isn’t measured in "features shipped" but in hard to measure metrics like model quality, inference efficiency, and real-world generalization. Add to that the fact that tools are shifting under their feet with vendors and the open-source community launching new frameworks based on the latest cutting edge agentic and Gen AI research.
 
@@ -567,6 +568,7 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
         <li><ins>Scrum</ins>: structured roles, sprints, and ceremonies.</li>
         <li><ins>Kanban</ins>: visual flow-based system emphasizing WIP limits and continuous delivery.</li>
       </ul>
+    <li><ins>Lean</ins>: </li>
   </ul>
 </details>
 
@@ -699,9 +701,13 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 ### Newsletters - Tech News
 * [Data Points](https://www.deeplearning.ai/the-batch/tag/data-points/): a twice‑weekly series from DeepLearning.AI of the most important AI tools, model releases, research findings, and industry developments
 * [Daily Zaps](https://www.dailyzaps.com/): a daily high-level tech news roundup that trends more business than technical
-* [Google Developer Program](https://developers.google.com/newsletter): stay up to date with the latest GCP releases and features
 * [The Download from MIT Technology Review](https://www.technologyreview.com/topic/download-newsletter/): a daily high-level tech news roundup from MIT Tech Review
 * [Tech Brew](https://www.emergingtechbrew.com/): a punchy, daily roundup of general technology news from the editors of the popular Morning Brew newsletter.
+
+### Newsletters - Cloud Developer Programs
+* [Google Developer Program](https://developers.google.com/newsletter): stay up to date with the latest GCP releases and features
+* [Microsoft.Source newsletter](https://info.microsoft.com/ww-landing-sign-up-for-the-microsoft-source-newsletter.html): the curated monthly developer community newsletter provides the latest articles, documentation, and events.
+* [AWS Builder Center](https://builder.aws.com/): Connect with other builders, share solutions, influence AWS product development, and access useful content.
 
 ### Newsletters - Engineering Deep Dives
 
