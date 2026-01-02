@@ -195,7 +195,7 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 </details>
 
 <details>
-  <summary><b>Apache Spark / PySpark</b></summary>
+  <summary><b>Distributed Computing & Big Data Processing</b></summary>
   <ul>
     <li>Leverage distributed computing for large-scale data processing.</li>
     <li>Use PySpark for writing scalable, Python-based ETL and analysis pipelines.</li>
@@ -556,9 +556,14 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
         <li>Amazon Managed Workflows for Apache Airflow (MWAA)</li>
         <li>Azure Workflow Orchestration Manager</li>
       </ul>
-    <li>Dataflow</li>
     <li>Apache Beam</li>
+      <ul>
+        <li>GCP Dataflow</li>
+      </ul>
+    <li>AWS Glue</li>
     <li>Apache Kafka</li>
+    <li>Kubeflow Pipelines (KFP)</li>
+    <li>TensorFlow Extended (TFX)</li>
   </ul>
 </details>
 
