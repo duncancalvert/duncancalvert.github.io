@@ -179,6 +179,33 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 </details>
 
 <details>
+  <summary><b>ML Pipelines</b></summary>
+  <ul>
+    <li>Pipeline Phases</li>
+      <ul>
+        <li>Data Preparation</li>
+          <ul>
+            <li>Data Extraction</li>
+            <li>Data Analysis</li>
+            <li>Data Preparation</li>
+          </ul>
+        <li>Model Development</li>
+          <ul>
+            <li>Model Training</li>
+            <li>Model Evaluation</li>
+            <li>Model Validation</li>
+          </ul>
+        <li>Model Serving</li>
+          <ul>
+            <li>Model Registry</li>
+            <li>Model Prediction</li>
+            <li>Model Performance Monitoring</li>
+          </ul>
+      </ul>
+  </ul>
+</details>
+
+<details>
   <summary><b>Python</b></summary>
   <ul>
     <li>Learn object-oriented programming (OOP) principles.</li>
@@ -550,20 +577,23 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 <details>
   <summary><b>Data Pipelines</b></summary>
   <ul>
-    <li>Apache Airflow</li>
+    <li>Pipeline Technologies</li>
       <ul>
-        <li>GCP Composer</li>
-        <li>Amazon Managed Workflows for Apache Airflow (MWAA)</li>
-        <li>Azure Workflow Orchestration Manager</li>
+        <li>Apache Airflow</li>
+          <ul>
+            <li>GCP Composer</li>
+            <li>Amazon Managed Workflows for Apache Airflow (MWAA)</li>
+            <li>Azure Workflow Orchestration Manager</li>
+          </ul>
+        <li>Apache Beam</li>
+          <ul>
+            <li>GCP Dataflow</li>
+          </ul>
+        <li>AWS Glue</li>
+        <li>Apache Kafka</li>
+        <li>Kubeflow Pipelines (KFP)</li>
+        <li>TensorFlow Extended (TFX)</li>
       </ul>
-    <li>Apache Beam</li>
-      <ul>
-        <li>GCP Dataflow</li>
-      </ul>
-    <li>AWS Glue</li>
-    <li>Apache Kafka</li>
-    <li>Kubeflow Pipelines (KFP)</li>
-    <li>TensorFlow Extended (TFX)</li>
   </ul>
 </details>
 
@@ -762,8 +792,11 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 
 ### People to Follow
 
-- [Yann LeCun](https://www.linkedin.com/in/yann-lecun/): Chief AI Scientist at Meta and a pioneer in optical character recognition (OCR) and convolutional neural networks (CNN). A Turing Award winner and one of the three "Godfathers of AI".
-- [Andrej Karpathy](https://karpathy.ai/): Former director of Autopilot at Tesla, co-founder of OpenAI, and prolific AI educator.
-- [Fei-Fei Li](https://www.linkedin.com/in/fei-fei-li-4541247/): Stanford CS professor, co-director of the Stanford Institute for Human-Centered AI, inventor of ImageNet, and former Chief Scientist of AI/ML at GCP.
-- [Eugene Yan](https://eugeneyan.com/subscribe): ML, RecSys, LLMs, and engineering
-- [Andrew Ng](https://www.andrewng.org/): founder of Coursera, DeepLearning.AI, Stanford AI computer science professor, and neural network pioneer
+* The "Godfathers of AI"
+  * [Yann LeCun](https://www.linkedin.com/in/yann-lecun/): Chief AI Scientist at Meta and a pioneer in optical character recognition (OCR) and convolutional neural networks (CNN). A Turing Award winner and one of the three "Godfathers of AI".
+  * Geoffrey Hinton
+  * Yoshua Bengio
+* [Andrej Karpathy](https://karpathy.ai/): Former director of Autopilot at Tesla, co-founder of OpenAI, and prolific AI educator.
+* [Fei-Fei Li](https://www.linkedin.com/in/fei-fei-li-4541247/): Stanford CS professor, co-director of the Stanford Institute for Human-Centered AI, inventor of ImageNet, and former Chief Scientist of AI/ML at GCP.
+* [Eugene Yan](https://eugeneyan.com/subscribe): ML, RecSys, LLMs, and engineering
+* [Andrew Ng](https://www.andrewng.org/): founder of Coursera, DeepLearning.AI, Stanford AI computer science professor, and neural network pioneer
