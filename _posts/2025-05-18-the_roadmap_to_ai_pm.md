@@ -85,7 +85,17 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
   <ul>
     <li>Supervised vs. unsupervised learning</li>
     <li>Regression, classification, clustering, association, and dimensionality reduction</li>
-    <li>Understand the different models (Random Forest, SVM, K-means, etc.) and when to use one over the other</li>
+    <li>Familiarity with statistics and ML models and when to use one over the other</li>
+      <ul>
+          <li>Linear Regression</li>
+          <li>Logistic Regression</li>
+          <li>Random Forest</li>
+          <li>Support Vector Machines (SVM)</li>
+          <li>eXtreme Gradient Boosting (XGBoost)</li>
+          <li>K-means Clustering</li>
+          <li>Light Gradient Boosting Machine (LightGBM)</li>
+          <li>Categorical Boosting (CatBoost)</li>
+      </ul>
     <li>Model hyperparameters</li>
     <li>Grid vs. random search (gradient descent)</li>
     <li>Loss functions</li>
@@ -111,8 +121,23 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 <details>
   <summary><b>AI Evaluation Metrics</b></summary>
   <ul>
-    <li>Build an intuitive understanding of the right metrics for each model and use case.</li>
-    <li>Recognize areas of concern or blind spots for each metric.</li>
+    <li>Theory</li>
+      <ul>
+        <li>Build an intuitive understanding of the right metrics for each model and use case.</li>
+        <li>Recognize areas of concern or blind spots for each metric.</li>
+      </ul>
+    <li>Regression Eval Metrics & Techniques</li>
+      <ul>
+        <li>Root Mean Squared Error (RMSE)</li>
+      </ul>
+    <li>Classification Eval Metrics & Techniques</li>
+      <ul>
+        <li>Precision</li>
+        <li>Precision</li>
+        <li>Precision vs. Recall Curve</li>
+        <li>Area Under the Curve (AUC)</li>
+        <li>Receiver Operating Characteristic (ROC)</li>
+      </ul>
   </ul>
 </details>
 
@@ -170,7 +195,7 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 </details>
 
 <details>
-  <summary><b>Apache Spark / PySpark</b></summary>
+  <summary><b>Distributed Computing & Big Data Processing</b></summary>
   <ul>
     <li>Leverage distributed computing for large-scale data processing.</li>
     <li>Use PySpark for writing scalable, Python-based ETL and analysis pipelines.</li>
@@ -178,11 +203,13 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 </details>
 
 <details>
-  <summary><b>Data Warehouse / Data Lakehouse</b></summary>
+  <summary><b>Data Warehouses & Lakehouses</b></summary>
   <ul>
     <li><a href="https://www.databricks.com/" target="_blank" rel="noopener noreferrer">Databricks</a></li>
     <li><a href="https://www.snowflake.com/" target="_blank" rel="noopener noreferrer">Snowflake</a></li>
     <li><a href="https://cloud.google.com/bigquery" target="_blank" rel="noopener noreferrer">GCP BigQuery</a></li>
+    <li><a href="https://aws.amazon.com/redshift/" target="_blank" rel="noopener noreferrer">Amazon Redshift</a></li>
+    <li><a href="https://azure.microsoft.com/en-us/products/synapse-analytics" target="_blank" rel="noopener noreferrer">Azure Synapse Analytics</a></li>
   </ul>
 </details>
 
@@ -529,9 +556,14 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
         <li>Amazon Managed Workflows for Apache Airflow (MWAA)</li>
         <li>Azure Workflow Orchestration Manager</li>
       </ul>
-    <li>Dataflow</li>
     <li>Apache Beam</li>
+      <ul>
+        <li>GCP Dataflow</li>
+      </ul>
+    <li>AWS Glue</li>
     <li>Apache Kafka</li>
+    <li>Kubeflow Pipelines (KFP)</li>
+    <li>TensorFlow Extended (TFX)</li>
   </ul>
 </details>
 
