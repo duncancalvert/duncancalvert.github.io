@@ -169,3 +169,8 @@ d-appendix {
     }
   }
 }
+
+/* Force MathJax math to normal weight everywhere */
+.mjx-math {
+  font-weight: normal !important;
+}
