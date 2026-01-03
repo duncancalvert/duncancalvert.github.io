@@ -37,19 +37,19 @@ typograms: true
 - [Table of Contents](#table-of-contents)
 - [What Makes an AI Product Manager Different](#what-makes-an-ai-product-manager-different)
 - [Skill Sets](#skill-sets)
-  - [Traditional Data Science](#traditional-data-science)
-  - [Gen AI & Foundation Models](#gen-ai--foundation-models)
-  - [Retrieval Augmented Generation](#retrieval-augmented-generation)
-  - [Agentic AI](#agentic-ai)
-  - [General Technical Skills](#general-technical-skills)
-  - [General Product Management Skills](#general-product-management-skills)
-  - [AI Specific Product Skills](#ai-specific-product-skills)
+    - [Traditional Data Science](#traditional-data-science)
+    - [Gen AI & Foundation Models](#gen-ai--foundation-models)
+    - [Retrieval Augmented Generation](#retrieval-augmented-generation)
+    - [Agentic AI](#agentic-ai)
+    - [General Technical Skills](#general-technical-skills)
+    - [General Product Management Skills](#general-product-management-skills)
+    - [AI Specific Product Skills](#ai-specific-product-skills)
 - [Newsletters, Podcasts, and People](#newsletters-podcasts-and-people)
-  - [Newsletters - Tech News](#newsletters---tech-news)
-  - [Newsletters - Cloud Developer Programs](#newsletters---cloud-developer-programs)
-  - [Newsletters - Engineering Deep Dives](#newsletters---engineering-deep-dives)
-  - [Podcasts](#podcasts)
-  - [People to Follow](#people-to-follow)
+    - [Newsletters - Tech News](#newsletters---tech-news)
+    - [Newsletters - Cloud Developer Programs](#newsletters---cloud-developer-programs)
+    - [Newsletters - Engineering Deep Dives](#newsletters---engineering-deep-dives)
+    - [Podcasts](#podcasts)
+    - [People to Follow](#people-to-follow)
 
 <!-- /TOC -->
 
@@ -114,7 +114,7 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
           <li>Loss functions/cost functions</li>
           <li>Backpropagation</li>
           <li>Model weights and biases</li>
-          <li><ins>Embedding dimensionality</ins>: Lower dimensions can lead to less accuracy, more lossy compression. Higher can lead to overfitting and slow training time. A good starting point for the number of embedding dimensions is $\text{Dimensions} \approx \sqrt[4]{\text{Possible values}}$ </li>
+          <li><ins>Embedding dimensionality</ins>: Lower dimensions can lead to less accuracy, more lossy compression. Higher can lead to overfitting and slow training time. A good starting point for the number of embedding dimensions is \(\text{Dimensions} \approx \sqrt[4]{\text{Possible values}}\)</li>
         </ul>
     </ul>
 </details>
