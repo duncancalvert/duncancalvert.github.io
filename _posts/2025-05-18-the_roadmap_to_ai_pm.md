@@ -147,9 +147,9 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
               <li>Early Stopping</li>
               <li>Parameter Norm Penalties
                 <ul>
-                  <li>L1 regularization</li>
-                  <li>L2 regularization</li>
-                  <li>Max-norm regularization</li>
+                  <li>L1 Regularization</li>
+                  <li>L2 Regularization</li>
+                  <li>Max-norm Regularization</li>
                 </ul>
               </li>
               <li>Dataset Augmentation</li>
