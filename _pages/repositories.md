@@ -2,8 +2,8 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: Selected code samples and GitHub statistics. For more detailed information, visit my Github profile. # Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories
-nav: true
+description: Selected code samples and GitHub statistics. For more detailed information, visit my GitHub profile. # Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories
+nav: false
 nav_order: 4
 ---
 
