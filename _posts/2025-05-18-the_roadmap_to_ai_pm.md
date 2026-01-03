@@ -130,7 +130,7 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
             <ul>
               <li>Adadelta</li>
               <li>Adafactor</li>
-              <li>Adaptive Gradient Algorithm (AdaGrad)
+              <li>Adaptive Gradient Algorithm (AdaGrad)</li>
               <li>Adaptive Moment Estimation (Adam)</li>
               <li>Adam with Weight Decay (AdamW)</li>
               <li>Adamax</li>
