@@ -37,19 +37,19 @@ typograms: true
 - [Table of Contents](#table-of-contents)
 - [What Makes an AI Product Manager Different](#what-makes-an-ai-product-manager-different)
 - [Skill Sets](#skill-sets)
-  - [Traditional Data Science](#traditional-data-science)
-  - [Gen AI & Foundation Models](#gen-ai--foundation-models)
-  - [Retrieval Augmented Generation](#retrieval-augmented-generation)
-  - [Agentic AI](#agentic-ai)
-  - [General Technical Skills](#general-technical-skills)
-  - [General Product Management Skills](#general-product-management-skills)
-  - [AI Specific Product Skills](#ai-specific-product-skills)
+    - [Traditional Data Science](#traditional-data-science)
+    - [Gen AI & Foundation Models](#gen-ai--foundation-models)
+    - [Retrieval Augmented Generation](#retrieval-augmented-generation)
+    - [Agentic AI](#agentic-ai)
+    - [General Technical Skills](#general-technical-skills)
+    - [General Product Management Skills](#general-product-management-skills)
+    - [AI Specific Product Skills](#ai-specific-product-skills)
 - [Newsletters, Podcasts, and People](#newsletters-podcasts-and-people)
-  - [Newsletters - Tech News](#newsletters---tech-news)
-  - [Newsletters - Cloud Developer Programs](#newsletters---cloud-developer-programs)
-  - [Newsletters - Engineering Deep Dives](#newsletters---engineering-deep-dives)
-  - [Podcasts](#podcasts)
-  - [People to Follow](#people-to-follow)
+    - [Newsletters - Tech News](#newsletters---tech-news)
+    - [Newsletters - Cloud Developer Programs](#newsletters---cloud-developer-programs)
+    - [Newsletters - Engineering Deep Dives](#newsletters---engineering-deep-dives)
+    - [Podcasts](#podcasts)
+    - [People to Follow](#people-to-follow)
 
 <!-- /TOC -->
 
@@ -111,8 +111,51 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
       <li>Model architectures for Artificial Neural Networks (ANN) and deep learning models (DNN, CNN, RNN, etc.)</li>
         <ul>
           <li>Activation functions</li>
+            <ul>
+              <li>Rectified Linear Unit (ReLU)</li>
+                <ul>
+                  <li>Leaky ReLU</li>
+                  <li>Softplus/SmoothReLU</li>
+                  <li>Parametric ReLU (PReLU)</li>
+                  <li>Exponential Linear Unit (ELU)</li>
+                  <li>Gaussian Error Linear Unit (GELU)</li>
+                </ul>
+              <li>Sigmoid</li>
+            </ul>
           <li>Loss functions/cost functions</li>
+            <ul>
+              <li>SME</li>
+            </ul>
+          <li>Optimizers</li>
+            <ul>
+              <li>Adadelta</li>
+              <li>Adafactor</li>
+              <li>Adaptive Gradient Algorithm (AdaGrad)
+              <li>Adaptive Moment Estimation (Adam)</li>
+              <li>Adam with Weight Decay (AdamW)</li>
+              <li>Adamax</li>
+              <li>Follow-the-Regularized-Leader (Ftrl)</li>
+              <li>Lion</li>
+              <li>LossScaleOptimizer</li>
+              <li>Nesterov-accelerated Adaptive Moment Estimation (Nadam)</li>
+              <li>Root Mean Square Propagation (RMSprop)</li>
+              <li>Stochastic Gradient Descent (SGD)</li>
+            </ul>
           <li>Backpropagation</li>
+          <li>Regularization</li>
+            <ul>
+              <li>Early Stopping</li>
+              <li>Parameter Norm Penalties
+                <ul>
+                  <li>L1 regularization</li>
+                  <li>L2 regularization</li>
+                  <li>Max-norm regularization</li>
+                </ul>
+              </li>
+              <li>Dataset Augmentation</li>
+              <li>Noise Robustness</li>
+              <li>Sparse Representations</li>
+            </ul>
           <li>Model weights and biases</li>
           <li><ins>Embedding dimensionality</ins>: Lower dimensions can lead to less accuracy, more lossy compression. Higher can lead to overfitting and slow training time. A good starting point for the number of embedding dimensions is Dimensions \(\approx \sqrt[4]{\mathrm{Possible\ values}}\)</li>
         </ul>
@@ -806,7 +849,7 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 - The "Godfathers of AI"
   - [Yann LeCun](http://yann.lecun.com/): Chief AI Scientist at Meta and a pioneer in optical character recognition (OCR) and convolutional neural networks (CNN). A Turing Award winner and one of the three "Godfathers of AI".
   - [Geoffrey Hinton](https://en.wikipedia.org/wiki/Geoffrey_Hinton): He is the University Professor Emeritus at the University of Toronto and former Google Brain lead. Over his career he has been at the forefront of many AI advancements such as backpropagation, AlexNet, and deep learning. In 2024, he was awarded the Nobel Prize in Physics for machine learning with artificial neural networks. He's also known for fostering a rich graduate student pipeline with past students being Alex Krizhevsky, Ilya Sutskever, Yann LeCun, and many other luminaries. In May 2023, Hinton resigned from Google and started speaking out against the dangers of AI.
-  - [Yoshua Bengio](https://en.wikipedia.org/wiki/Yoshua_Bengio): co-Turing Award winne in 2018 with Yann LeCun and Geoffrey Hinton for his work on deep learning. Bengio is the most-cited computer scientist globally (by both total citations and by h-index), and the most-cited living scientist across all fields (by total citations).
+  - [Yoshua Bengio](https://yoshuabengio.org/): co-Turing Award winne in 2018 with Yann LeCun and Geoffrey Hinton for his work on deep learning. Bengio is the most-cited computer scientist globally (by both total citations and by h-index), and the most-cited living scientist across all fields (by total citations).
 - [Demis Hassabis](https://en.wikipedia.org/wiki/Demis_Hassabis): CEO and co-founder of Google DeepMind. He was jointly awarded the Nobel Prize in Chemistry in 2024 for his work on AlphaFold and protein structure prediction.
 - [Mustafa Suleyman](https://en.wikipedia.org/wiki/Mustafa_Suleyman): CEO of Microsoft AI and former head of applied AI at Google DeepMind
 - [Andrej Karpathy](https://karpathy.ai/): Former director of Autopilot at Tesla, co-founder of OpenAI, and prolific AI educator.
