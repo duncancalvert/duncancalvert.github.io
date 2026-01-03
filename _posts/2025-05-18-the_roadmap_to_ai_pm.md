@@ -114,7 +114,7 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
           <li>Loss functions/cost functions</li>
           <li>Backpropagation</li>
           <li>Model weights and biases</li>
-          <li><ins>Embedding dimensionality</ins>: Lower dimensions can lead to less accuracy, more lossy compression. Higher can lead to overfitting and slow training time. A good starting point for the number of embedding dimensions is \(\sqrt[4]{n}\)</li>
+          <li><ins>Embedding dimensionality</ins>: Lower dimensions can lead to less accuracy, more lossy compression. Higher can lead to overfitting and slow training time. A good starting point for the number of embedding dimensions is $\text{Dimensions} \approx \sqrt[4]{\text{Possible values}}$</li>
         </ul>
     </ul>
 </details>
@@ -490,18 +490,24 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 <details>
   <summary><b>Agent Fundamentals</b></summary>
   <ul>
-    <li><a href="https://www.kaggle.com/whitepaper-agents">(White Paper) Google Agents White Paper by Julia Wiesinger et al.</a></li>
-    <li><a href="https://www.kaggle.com/whitepaper-agent-companion">(White Paper) Google Agents Companion by Antonio Gulli et al.</a></li>
-    <li><a href="https://arxiv.org/abs/2505.10468">(Paper) AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenges</a></li>
-    <li><a href="https://arxiv.org/abs/2210.03629">(Paper) ReAct: Synergizing Reasoning and Acting in Language Models by Shunyu Yao et al.</a></li>
-    <li><a href="https://huggingface.co/learn/agents-course/en/unit0/introduction">(Course) HuggingFace AI Agents Course</a></li>
+    <li>Resources</li>
+      <ul>
+        <li><a href="https://www.kaggle.com/whitepaper-agents">(White Paper) Google Agents White Paper by Julia Wiesinger et al.</a></li>
+        <li><a href="https://www.kaggle.com/whitepaper-agent-companion">(White Paper) Google Agents Companion by Antonio Gulli et al.</a></li>
+        <li><a href="https://arxiv.org/abs/2505.10468">(Paper) AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenges</a></li>
+        <li><a href="https://arxiv.org/abs/2210.03629">(Paper) ReAct: Synergizing Reasoning and Acting in Language Models by Shunyu Yao et al.</a></li>
+        <li><a href="https://huggingface.co/learn/agents-course/en/unit0/introduction">(Course) HuggingFace AI Agents Course</a></li>
+      </ul>
   </ul>
 </details>
 
 <details>
   <summary><b>Agent Evaluation</b></summary>
   <ul>
-    <li><a href="https://arxiv.org/abs/2410.10934">(Paper) Agent-as-a-Judge: Evaluate Agents with Agents</a></li>
+    <li>Resources</li>
+      <ul>
+        <li><a href="https://arxiv.org/abs/2410.10934">(Paper) Agent-as-a-Judge: Evaluate Agents with Agents</a></li>
+      </ul>
   </ul>
 </details>
 
@@ -518,7 +524,7 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
         <li><a href="https://www.deeplearning.ai/short-courses/building-agentic-rag-with-llamaindex/">(Class) Building Agentic RAG with LlamaIndex</a></li>
       </ul>
     <li><a href="https://openai.github.io/openai-agents-python/">OpenAI Agent SDK</a>: OpenAI's framework for building agentic AI apps in a lightweight, easy-to-use package with few abstractions. It's a production-ready upgrade of their previous experimentatal framework (Swarm).</li>
-    <li>Google Agent Development Kit (ADK)</li>
+    <li><a href="https://google.github.io/adk-docs/">Google Agent Development Kit (ADK)</a></li>
       <ul>
         <li><a href="https://codelabs.developers.google.com/onramp/instructions#0">(Code Lab) ADK Crash Course - From Beginner To Expert</a></li>
       </ul>
@@ -638,9 +644,11 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 </details>
 
 <details>
-  <summary><b>Continuous Integration / Continuous Delivery (CI/CD)</b></summary>
+  <summary><b>Continuous Integration / Continuous Testing / Continuous Delivery (CI/CT/CD)</b></summary>
   <ul>
-    <li>Automate testing, building, and deployment to speed up release cycles and improve reliability.</li>
+    <li><ins>Continuous Integration (CI)</ins>: Devs frequently merge code changes into a central repo, triggering automated builds to find integration issues quickly.</li>
+    <li><ins>Continuous Testing (CT)</ins>: Automated tests (unit, integration, etc.) run continuously throughout the pipeline, verifying code quality and preventing bugs from reaching production.</li>
+    <li><ins>Continuous Delivery (CD)</ins>: automatically prepares code for release, ensuring it's always in a deployable state, ready to be pushed to production with a single click.</li>
   </ul>
 </details>
 
