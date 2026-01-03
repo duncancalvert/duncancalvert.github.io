@@ -114,7 +114,7 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
           <li>Loss functions/cost functions</li>
           <li>Backpropagation</li>
           <li>Model weights and biases</li>
-          <li><ins>Embedding dimensionality</ins>: Lower dimensions can lead to less accuracy, more lossy compression. Higher can lead to overfitting and slow training time. A good starting point for the number of embedding dimensions is \(\text{Dimensions} \approx \sqrt[4]{\text{Possible values}}\)</li>
+          <li><ins>Embedding dimensionality</ins>: Lower dimensions can lead to less accuracy, more lossy compression. Higher can lead to overfitting and slow training time. A good starting point for the number of embedding dimensions is \(\mathrm{Dimensions} \approx \sqrt[4]{\mathrm{Possible\ values}}\)</li>
         </ul>
     </ul>
 </details>
