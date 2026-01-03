@@ -144,7 +144,6 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
   </ul>
 </details>
 
-
 <details>
   <summary><b>ML & Deep Learning Frameworks</b></summary>
     <ul>
@@ -625,7 +624,6 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 
 ---
 
-
 <!------------------ Section --------------------->
 
 ### General Product Management Skills
@@ -772,44 +770,46 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 ---
 
 ### Newsletters - Tech News
-* [Data Points](https://www.deeplearning.ai/the-batch/tag/data-points/): a twice‑weekly series from DeepLearning.AI of the most important AI tools, model releases, research findings, and industry developments
-* [Daily Zaps](https://www.dailyzaps.com/): a daily high-level tech news roundup that trends more business than technical
-* [The Download from MIT Technology Review](https://www.technologyreview.com/topic/download-newsletter/): a daily high-level tech news roundup from MIT Tech Review
-* [Tech Brew](https://www.emergingtechbrew.com/): a punchy, daily roundup of general technology news from the editors of the popular Morning Brew newsletter.
+
+- [Data Points](https://www.deeplearning.ai/the-batch/tag/data-points/): a twice‑weekly series from DeepLearning.AI of the most important AI tools, model releases, research findings, and industry developments
+- [Daily Zaps](https://www.dailyzaps.com/): a daily high-level tech news roundup that trends more business than technical
+- [The Download from MIT Technology Review](https://www.technologyreview.com/topic/download-newsletter/): a daily high-level tech news roundup from MIT Tech Review
+- [Tech Brew](https://www.emergingtechbrew.com/): a punchy, daily roundup of general technology news from the editors of the popular Morning Brew newsletter.
 
 ### Newsletters - Cloud Developer Programs
-* [Google Developer Program](https://developers.google.com/newsletter): stay up to date with the latest GCP releases and features
-* [Microsoft.Source newsletter](https://info.microsoft.com/ww-landing-sign-up-for-the-microsoft-source-newsletter.html): the curated monthly developer community newsletter provides the latest articles, documentation, and events.
-* [AWS Builder Center](https://builder.aws.com/): Connect with other builders, share solutions, influence AWS product development, and access useful content.
+
+- [Google Developer Program](https://developers.google.com/newsletter): stay up to date with the latest GCP releases and features
+- [Microsoft.Source newsletter](https://info.microsoft.com/ww-landing-sign-up-for-the-microsoft-source-newsletter.html): the curated monthly developer community newsletter provides the latest articles, documentation, and events.
+- [AWS Builder Center](https://builder.aws.com/): Connect with other builders, share solutions, influence AWS product development, and access useful content.
 
 ### Newsletters - Engineering Deep Dives
 
-* [TheSequence](https://thesequence.substack.com/): A weekly series that does technical deep dives on the latest AI/ML techniques
-* [The Batch @ DeepLearning.AI](https://www.deeplearning.ai/the-batch/): a weekly deep dive from Stanford Professor Andrew Ng
-* [The MLOps Newsletter](https://mlops.substack.com/): technical with a specific focus on MLOps
-* [The Variable](https://towardsdatascience.com/category/the-variable/): a curated list of articles/tutorials from Towards Data Science
-* [Turing Post](https://www.turingpost.com/subscribe?ref=WAGU23hEVa): a weekly newsletter by Ksenia Se that covers AI and ML curated summaries of hundreds of industry developments, research insights, and historical context
-* [SwirlAI](https://www.newsletter.swirlai.com/): MLOps and data engineering focused newsletter with great visualizations
-* [ByteByteGo](): a weekly newsletter by Alex Xu that delivers concise system‑design deep dives and foundational tech explainers on complex distributed systems topics like Kubernetes, databases, CI/CD, and API design
+- [TheSequence](https://thesequence.substack.com/): A weekly series that does technical deep dives on the latest AI/ML techniques
+- [The Batch @ DeepLearning.AI](https://www.deeplearning.ai/the-batch/): a weekly deep dive from Stanford Professor Andrew Ng
+- [The MLOps Newsletter](https://mlops.substack.com/): technical with a specific focus on MLOps
+- [The Variable](https://towardsdatascience.com/category/the-variable/): a curated list of articles/tutorials from Towards Data Science
+- [Turing Post](https://www.turingpost.com/subscribe?ref=WAGU23hEVa): a weekly newsletter by Ksenia Se that covers AI and ML curated summaries of hundreds of industry developments, research insights, and historical context
+- [SwirlAI](https://www.newsletter.swirlai.com/): MLOps and data engineering focused newsletter with great visualizations
+- [ByteByteGo](): a weekly newsletter by Alex Xu that delivers concise system‑design deep dives and foundational tech explainers on complex distributed systems topics like Kubernetes, databases, CI/CD, and API design
 
 ### Podcasts
 
-* [Practical AI by Changelog](https://podcasts.apple.com/us/podcast/practical-ai/id1406537385)
-* [Inference by Turing Post](https://www.youtube.com/playlist?list=PLRRoCwK1ZTNCAZXXOswpIYQqzMgT4swsI)
-* [Latent Space: The AI Engineer Podcast](https://www.latent.space/podcast)
-* [NVIDIA AI Podcast](https://ai-podcast.nvidia.com/)
-* [Hard Fork by the NYT](https://www.nytimes.com/column/hard-fork)
-* [The a16z Podcast by Andreessen Horowitz](https://a16z.com/podcasts/a16z-podcast/)
+- [Practical AI by Changelog](https://podcasts.apple.com/us/podcast/practical-ai/id1406537385)
+- [Inference by Turing Post](https://www.youtube.com/playlist?list=PLRRoCwK1ZTNCAZXXOswpIYQqzMgT4swsI)
+- [Latent Space: The AI Engineer Podcast](https://www.latent.space/podcast)
+- [NVIDIA AI Podcast](https://ai-podcast.nvidia.com/)
+- [Hard Fork by the NYT](https://www.nytimes.com/column/hard-fork)
+- [The a16z Podcast by Andreessen Horowitz](https://a16z.com/podcasts/a16z-podcast/)
 
 ### People to Follow
 
-* The "Godfathers of AI"
-  * [Yann LeCun](https://www.linkedin.com/in/yann-lecun/): Chief AI Scientist at Meta and a pioneer in optical character recognition (OCR) and convolutional neural networks (CNN). A Turing Award winner and one of the three "Godfathers of AI".
-  * [Geoffrey Hinton](https://en.wikipedia.org/wiki/Geoffrey_Hinton): He is the University Professor Emeritus at the University of Toronto and former Google Brain lead. Over his career he has been at the forefront of many AI advancements such as backpropagation, AlexNet, and deep learning. In 2024, he was awarded the Nobel Prize in Physics for machine learning with artificial neural networks. He's also known for fostering a rich graduate student pipeline with past students being Alex Krizhevsky, Ilya Sutskever, Yann LeCun, and many other luminaries. In May 2023, Hinton resigned from Google and started speaking out against the dangers of AI.
-  * [Yoshua Bengio](https://en.wikipedia.org/wiki/Yoshua_Bengio): co-Turing Award winne in 2018 with Yann LeCun and Geoffrey Hinton for his work on deep learning. Bengio is the most-cited computer scientist globally (by both total citations and by h-index), and the most-cited living scientist across all fields (by total citations).
-* [Demis Hassabis](https://en.wikipedia.org/wiki/Demis_Hassabis): CEO and co-founder of Google DeepMind. He was jointly awarded the Nobel Prize in Chemistry in 2024 for his work on AlphaFold and protein structure prediction.
-* [Mustafa Suleyman](https://en.wikipedia.org/wiki/Mustafa_Suleyman): CEO of Microsoft AI and former head of applied AI at Google DeepMind
-* [Andrej Karpathy](https://karpathy.ai/): Former director of Autopilot at Tesla, co-founder of OpenAI, and prolific AI educator.
-* [Fei-Fei Li](https://www.linkedin.com/in/fei-fei-li-4541247/): Stanford CS professor, co-director of the Stanford Institute for Human-Centered AI, inventor of ImageNet, and former Chief Scientist of AI/ML at GCP.
-* [Eugene Yan](https://eugeneyan.com/subscribe): ML, RecSys, LLMs, and engineering
-* [Andrew Ng](https://www.andrewng.org/): founder of Coursera, DeepLearning.AI, Stanford AI computer science professor, and neural network pioneer
+- The "Godfathers of AI"
+  - [Yann LeCun](https://www.linkedin.com/in/yann-lecun/): Chief AI Scientist at Meta and a pioneer in optical character recognition (OCR) and convolutional neural networks (CNN). A Turing Award winner and one of the three "Godfathers of AI".
+  - [Geoffrey Hinton](https://en.wikipedia.org/wiki/Geoffrey_Hinton): He is the University Professor Emeritus at the University of Toronto and former Google Brain lead. Over his career he has been at the forefront of many AI advancements such as backpropagation, AlexNet, and deep learning. In 2024, he was awarded the Nobel Prize in Physics for machine learning with artificial neural networks. He's also known for fostering a rich graduate student pipeline with past students being Alex Krizhevsky, Ilya Sutskever, Yann LeCun, and many other luminaries. In May 2023, Hinton resigned from Google and started speaking out against the dangers of AI.
+  - [Yoshua Bengio](https://en.wikipedia.org/wiki/Yoshua_Bengio): co-Turing Award winne in 2018 with Yann LeCun and Geoffrey Hinton for his work on deep learning. Bengio is the most-cited computer scientist globally (by both total citations and by h-index), and the most-cited living scientist across all fields (by total citations).
+- [Demis Hassabis](https://en.wikipedia.org/wiki/Demis_Hassabis): CEO and co-founder of Google DeepMind. He was jointly awarded the Nobel Prize in Chemistry in 2024 for his work on AlphaFold and protein structure prediction.
+- [Mustafa Suleyman](https://en.wikipedia.org/wiki/Mustafa_Suleyman): CEO of Microsoft AI and former head of applied AI at Google DeepMind
+- [Andrej Karpathy](https://karpathy.ai/): Former director of Autopilot at Tesla, co-founder of OpenAI, and prolific AI educator.
+- [Fei-Fei Li](https://www.linkedin.com/in/fei-fei-li-4541247/): Stanford CS professor, co-director of the Stanford Institute for Human-Centered AI, inventor of ImageNet, and former Chief Scientist of AI/ML at GCP.
+- [Eugene Yan](https://eugeneyan.com/subscribe): ML, RecSys, LLMs, and engineering
+- [Andrew Ng](https://www.andrewng.org/): founder of Coursera, DeepLearning.AI, Stanford AI computer science professor, and neural network pioneer
