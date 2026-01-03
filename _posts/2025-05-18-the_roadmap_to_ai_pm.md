@@ -114,6 +114,7 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
           <li>Loss functions/cost functions</li>
           <li>Backpropagation</li>
           <li>Model weights and biases</li>
+          <li><ins>Embedding dimensionality</ins>: Lower dimensions can lead to less accuracy, more lossy compression. Higher can lead to overfitting and slow training time. A good starting point for the number of embedding dimensions is \(\sqrt[4]{n}\)</li>
         </ul>
     </ul>
 </details>
@@ -132,11 +133,13 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
       </ul>
     <li>Classification Eval Metrics & Techniques</li>
       <ul>
+        <li>Accuracy</li>
         <li>Precision</li>
         <li>Precision</li>
         <li>Precision vs. Recall Curve</li>
         <li>Area Under the Curve (AUC)</li>
         <li>Receiver Operating Characteristic (ROC)</li>
+        <li>Confusion Matrix</li>
       </ul>
   </ul>
 </details>
@@ -794,8 +797,10 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 
 * The "Godfathers of AI"
   * [Yann LeCun](https://www.linkedin.com/in/yann-lecun/): Chief AI Scientist at Meta and a pioneer in optical character recognition (OCR) and convolutional neural networks (CNN). A Turing Award winner and one of the three "Godfathers of AI".
-  * Geoffrey Hinton
-  * Yoshua Bengio
+  * [Geoffrey Hinton](https://en.wikipedia.org/wiki/Geoffrey_Hinton): He is the University Professor Emeritus at the University of Toronto and former Google Brain lead. Over his career he has been at the forefront of many AI advancements such as backpropagation, AlexNet, and deep learning. In 2024, he was awarded the Nobel Prize in Physics for machine learning with artificial neural networks. He's also known for fostering a rich graduate student pipeline with past students being Alex Krizhevsky, Ilya Sutskever, Yann LeCun, and many other luminaries. In May 2023, Hinton resigned from Google and started speaking out against the dangers of AI.
+  * [Yoshua Bengio](https://en.wikipedia.org/wiki/Yoshua_Bengio): co-Turing Award winne in 2018 with Yann LeCun and Geoffrey Hinton for his work on deep learning. Bengio is the most-cited computer scientist globally (by both total citations and by h-index), and the most-cited living scientist across all fields (by total citations).
+* [Demis Hassabis](https://en.wikipedia.org/wiki/Demis_Hassabis): CEO and co-founder of Google DeepMind. He was jointly awarded the Nobel Prize in Chemistry in 2024 for his work on AlphaFold and protein structure prediction.
+* [Mustafa Suleyman](https://en.wikipedia.org/wiki/Mustafa_Suleyman): CEO of Microsoft AI and former head of applied AI at Google DeepMind
 * [Andrej Karpathy](https://karpathy.ai/): Former director of Autopilot at Tesla, co-founder of OpenAI, and prolific AI educator.
 * [Fei-Fei Li](https://www.linkedin.com/in/fei-fei-li-4541247/): Stanford CS professor, co-director of the Stanford Institute for Human-Centered AI, inventor of ImageNet, and former Chief Scientist of AI/ML at GCP.
 * [Eugene Yan](https://eugeneyan.com/subscribe): ML, RecSys, LLMs, and engineering
