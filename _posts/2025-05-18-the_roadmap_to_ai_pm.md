@@ -822,7 +822,7 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 
 <br>
 
-## Newsletters, Podcasts, and People
+## Newsletters
 
 ---
 
@@ -849,7 +849,13 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 - [SwirlAI](https://www.newsletter.swirlai.com/): MLOps and data engineering focused newsletter with great visualizations
 - [ByteByteGo](): a weekly newsletter by Alex Xu that delivers concise system‑design deep dives and foundational tech explainers on complex distributed systems topics like Kubernetes, databases, CI/CD, and API design
 
-### Podcasts
+---
+
+<br>
+
+## Podcasts
+
+---
 
 - [Practical AI by Changelog](https://podcasts.apple.com/us/podcast/practical-ai/id1406537385)
 - [Inference by Turing Post](https://www.youtube.com/playlist?list=PLRRoCwK1ZTNCAZXXOswpIYQqzMgT4swsI)
@@ -858,7 +864,13 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 - [Hard Fork by the NYT](https://www.nytimes.com/column/hard-fork)
 - [The a16z Podcast by Andreessen Horowitz](https://a16z.com/podcasts/a16z-podcast/)
 
-### People to Follow
+---
+
+<br>
+
+## People
+
+---
 
 - The "Godfathers of AI"
   - [Yann LeCun](http://yann.lecun.com/): Chief AI Scientist at Meta and a pioneer in optical character recognition (OCR) and convolutional neural networks (CNN). A Turing Award winner and one of the three "Godfathers of AI".
@@ -879,23 +891,24 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 
 ---
 
-### Pop Tech
-
+### Pop Tech - General
 Narrative and investigative books about major tech companies, case studies, and industry shifts. These works build intuition about how technology intersects with power, markets, and society; helping PMs think strategically beyond the model and anticipate real-world consequences.
-
 * [Apple in China: The Capture of the World's Greatest Company](https://www.simonandschuster.com/books/Apple-in-China/Patrick-McGee/9781668053379) by Patrick McGee
 * [Chip War: The Fight for the World's Most Critical Technology](https://www.simonandschuster.com/books/Chip-War/Chris-Miller/9781982172015) by Chris Miller
-* [The Nvidia Way: Jensen Huang and the Making of a Tech Giant](https://wwnorton.com/books/the-nvidia-way) by Tae Kim
 * [AI Valley: Microsoft, Google, and the Trillion-Dollar Race to Cash In on Artificial Intelligence – A Definitive Insider Chronicle of the Breakthroughs Redefining Our World](https://bookriot.com/books/ai-valley-microsoft-google-and-the-trillion-dollar-race-to-cash-in-on-artificial-intelligence/) by Gary Rivlin
 
+
+### Pop Tech - Biographies & Memoirs
+First-person and biographical accounts of influential technology leaders and builders. These books reveal how individual decisions, incentives, and leadership styles shape products and companies, helping AI Product Managers understand how human judgment, culture, and power influence technological outcomes.
+* [The Nvidia Way: Jensen Huang and the Making of a Tech Giant](https://wwnorton.com/books/the-nvidia-way) by Tae Kim
+* [Source Code: My Beginnings](https://en.wikipedia.org/wiki/Source_Code_(memoir)) by Bill Gates
+
+
 ### Product Management
-
 Foundational texts on building and scaling software products. They focus on execution, tradeoffs, and organizational dynamics, grounding AI product work in timeless principles for managing complexity and uncertainty.
-
 * [The Mythical Man-Month: Essays on Software Engineering](https://en.wikipedia.org/wiki/The_Mythical_Man-Month) by Frederick Brooks, Jr.
 
+
 ### Data Science Textbooks
-
 Technical books covering statistics, data analysis, and machine learning fundamentals. They give AI Product Managers the literacy needed to collaborate effectively with technical teams and make informed decisions about model capabilities and limitations.
-
 * [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch) by Sebastian Raschka
