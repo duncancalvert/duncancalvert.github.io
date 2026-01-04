@@ -142,6 +142,9 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
               <li>Stochastic Gradient Descent (SGD)</li>
             </ul>
           <li>Backpropagation</li>
+          <li>Epochs</li>
+          <li>Learning Rate</li>
+          <li>Batch Size</li>
           <li>Regularization</li>
             <ul>
               <li>Early Stopping</li>
@@ -776,6 +779,17 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
   </ul>
 </details>
 
+<details>
+  <summary><b>Time Management and Productivity</b></summary>
+  <ul>
+    <li><ins>Eisenhower Matrix</ins>: organizing tasks into four quadrants, divided up by “urgency” on one axis and “importance” on the other</li>
+    <li><ins>Covey Matrix</ins>: uses the same grid as the Eisenhower Matrix, but focuses on long-term planning instead of on daily tasks.</li>
+    <li><ins>Pomodoro Technique</ins>: Pomodoro means “tomato” in Italian, and this method is named for the tomato-shaped timers originally used for it. The technique is simple to follow, set a timer for 25 minutes, work, and then set it for a five-minute break. Repeat the process four times.</li>
+    <li><ins>Flowtime Technique</ins>: Sometimes called the “Flomodoro,” this method tries to help workers break through to a flow state. Users set a plan for the day and divide up their goals into small, manageable tasks. From there, they work without timers, taking breaks as needed. It’s essentially a deconstructed version of the Pomodoro Technique</li>
+    <li><ins>Eat the Frog</ins>: Mark Twain said if you have to eat a frog, do it first thing in the morning. This approach to work is straightforward: Always do the most difficult and dreaded task first. Avoid multitasking and home in on the single task early. Then, the rest of the day will seem breezy by comparison.</li>
+  </ul>
+</details>
+
 ---
 
 <!------------------ Section --------------------->
@@ -856,3 +870,32 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 - [Fei-Fei Li](https://en.wikipedia.org/wiki/Fei-Fei_Li): Stanford CS professor, co-director of the Stanford Institute for Human-Centered AI, inventor of ImageNet, and former Chief Scientist of AI/ML at GCP.
 - [Eugene Yan](https://eugeneyan.com/subscribe): ML, RecSys, LLMs, and engineering
 - [Andrew Ng](https://www.andrewng.org/): founder of Coursera, DeepLearning.AI, Stanford AI computer science professor, and neural network pioneer
+
+---
+
+<br>
+
+## Books
+
+---
+
+### Pop Tech
+
+Narrative and investigative books about major tech companies, case studies, and industry shifts. These works build intuition about how technology intersects with power, markets, and society; helping PMs think strategically beyond the model and anticipate real-world consequences.
+
+* [Apple in China: The Capture of the World's Greatest Company](https://www.simonandschuster.com/books/Apple-in-China/Patrick-McGee/9781668053379) by Patrick McGee
+* [Chip War: The Fight for the World's Most Critical Technology](https://www.simonandschuster.com/books/Chip-War/Chris-Miller/9781982172015) by Chris Miller
+* [The Nvidia Way: Jensen Huang and the Making of a Tech Giant](https://wwnorton.com/books/the-nvidia-way) by Tae Kim
+* [AI Valley: Microsoft, Google, and the Trillion-Dollar Race to Cash In on Artificial Intelligence – A Definitive Insider Chronicle of the Breakthroughs Redefining Our World](https://bookriot.com/books/ai-valley-microsoft-google-and-the-trillion-dollar-race-to-cash-in-on-artificial-intelligence/) by Gary Rivlin
+
+### Product Management
+
+Foundational texts on building and scaling software products. They focus on execution, tradeoffs, and organizational dynamics, grounding AI product work in timeless principles for managing complexity and uncertainty.
+
+* [The Mythical Man-Month: Essays on Software Engineering](https://en.wikipedia.org/wiki/The_Mythical_Man-Month) by Frederick Brooks, Jr.
+
+### Data Science Textbooks
+
+Technical books covering statistics, data analysis, and machine learning fundamentals. They give AI Product Managers the literacy needed to collaborate effectively with technical teams and make informed decisions about model capabilities and limitations.
+
+* [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch) by Sebastian Raschka
