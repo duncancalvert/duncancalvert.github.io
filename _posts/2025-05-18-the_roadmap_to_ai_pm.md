@@ -5,7 +5,6 @@ date: 2025-05-18 16:04:10
 description: A guide to the AI product management landscape
 tags: AI Machine_Learning Deep_Learning Research Neural_Networks Product_Management Agents
 categories: data-science
-typograms: true
 ---
 
 <br>
@@ -883,7 +882,8 @@ Narrative and investigative books about major tech companies, case studies, and 
 
 ### Product Management
 Foundational texts on building and scaling software products. They focus on execution, tradeoffs, and organizational dynamics, grounding AI product work in timeless principles for managing complexity and uncertainty.
-* [The Mythical Man-Month: Essays on Software Engineering](https://en.wikipedia.org/wiki/The_Mythical_Man-Month) by Frederick Brooks, Jr.
+
+* [The Mythical Man-Month: Essays on Software Engineering](https://en.wikipedia.org/wiki/The_Mythical_Man-Month) by Frederick Brooks
 
 ---
 
@@ -895,9 +895,12 @@ Technical books covering statistics, data analysis, and machine learning fundame
 
 #### Math
 
+* [Mathematics for Machine Learning](https://mml-book.github.io/book/mml-book.pdf) by Deisenroth, Faisal, and Ong
 
 #### Programming
 
-#### Generative AI & AI Engineering
+* [Python for Data Analysis, Data Wrangling with pandas, NumPy, & Jupyter](https://wesmckinney.com/book/) by Wes McKinney
+
+#### Gen AI & AI Engineering
 * [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch) by Sebastian Raschka
 * [AI Engineering: Building Applications with Foundation Models](https://www.oreilly.com/library/view/ai-engineering/9781098166298/) by Chip Huyen
