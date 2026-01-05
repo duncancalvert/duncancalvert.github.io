@@ -30,7 +30,9 @@ typograms: true
 <br>
 
 ## Table of Contents
+<div id="table-of-contents">
 {:toc}
+</div>
 
 
 ## What Makes an AI Product Manager Different
