@@ -53,7 +53,7 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 <details>
   <summary><b>Probability & Statistics</b></summary>
   <ul>
-    <li><a href="https://www.oreilly.com/library/view/practical-statistics-for/9781492072935/">(Book) Practical Statistics for Data Scientists by Peter Bruce</a></li>
+    <li></li>
   </ul>
 </details>
 
@@ -299,7 +299,6 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
       </ul>
     <li>Resources:</li>
     <ul>
-        <li><a href="https://www.manning.com/books/build-a-large-language-model-from-scratch">(Book) Build a Large Language Model (From Scratch) by Sebastian Raschka</a></li>
         <li><a href="https://www.oreilly.com/library/view/hands-on-large-language/9781098150952/">(Book) Hands-On Large Language Models by Jay Alammar</a></li>
         <li><a href="https://www.oreilly.com/library/view/natural-language-processing/9781098136789/">(Book) Natural Language Processing with Transformers by Lewis Tunstall</a></li>
         <li><a href="https://www.youtube.com/watch?v=7xTGNNLPyMI&ab_channel=AndrejKarpathy">(Video) Deep Dive into LLMs like ChatGPT by Andrej Karpathy</a></li>
@@ -431,12 +430,6 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
   </ul>
 </details>
 
-<details>
-  <summary><b>AI Engineering</b></summary>
-  <ul>
-    <li><a href="https://www.oreilly.com/library/view/ai-engineering/9781098166298/">(Book) AI Engineering: Building Applications with Foundation Models by Chip Huyen</a></li>
-  </ul>
-</details>
 
 ---
 
@@ -864,7 +857,7 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 
 ---
 
-### Pop Tech - General
+### Pop Tech
 Narrative and investigative books about major tech companies, case studies, and industry shifts. These works build intuition about how technology intersects with power, markets, and society; helping PMs think strategically beyond the model and anticipate real-world consequences.
 
 
@@ -880,17 +873,29 @@ Narrative and investigative books about major tech companies, case studies, and 
 * [Superagency: What Could Possibly Go Right with Our AI Future](https://www.superagency.ai/) by Reid Hoffman and Greg Beato
 
 
-### Pop Tech - Biographies & Memoirs
-First-person and biographical accounts of influential technology leaders and builders. These books reveal how individual decisions, incentives, and leadership styles shape products and companies, helping AI Product Managers understand how human judgment, culture, and power influence technological outcomes.
+#### Biographies & Memoirs
 * [The Nvidia Way: Jensen Huang and the Making of a Tech Giant](https://wwnorton.com/books/the-nvidia-way) by Tae Kim
 * [Source Code: My Beginnings](https://en.wikipedia.org/wiki/Source_Code_(memoir)) by Bill Gates
 
+---
 
 ### Product Management
 Foundational texts on building and scaling software products. They focus on execution, tradeoffs, and organizational dynamics, grounding AI product work in timeless principles for managing complexity and uncertainty.
 * [The Mythical Man-Month: Essays on Software Engineering](https://en.wikipedia.org/wiki/The_Mythical_Man-Month) by Frederick Brooks, Jr.
 
+---
 
-### Data Science Textbooks
+### Technical & Textbooks
 Technical books covering statistics, data analysis, and machine learning fundamentals. They give AI Product Managers the literacy needed to collaborate effectively with technical teams and make informed decisions about model capabilities and limitations.
+
+#### Probability & Statistics
+* [Practical Statistics for Data Scientists](https://www.oreilly.com/library/view/practical-statistics-for/9781492072935/) by Peter Bruce
+
+#### Math
+
+
+#### Programming
+
+#### Generative AI & AI Engineering
 * [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch) by Sebastian Raschka
+* [AI Engineering: Building Applications with Foundation Models](https://www.oreilly.com/library/view/ai-engineering/9781098166298/) by Chip Huyen
