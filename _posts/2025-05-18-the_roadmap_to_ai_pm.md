@@ -794,20 +794,20 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 
 ---
 
-### Newsletters - Tech News
+### Tech News
 
 - [Data Points](https://www.deeplearning.ai/the-batch/tag/data-points/): a twice‑weekly series from DeepLearning.AI of the most important AI tools, model releases, research findings, and industry developments
 - [Daily Zaps](https://www.dailyzaps.com/): a daily high-level tech news roundup that trends more business than technical
 - [The Download from MIT Technology Review](https://www.technologyreview.com/topic/download-newsletter/): a daily high-level tech news roundup from MIT Tech Review
 - [Tech Brew](https://www.emergingtechbrew.com/): a punchy, daily roundup of general technology news from the editors of the popular Morning Brew newsletter.
 
-### Newsletters - Cloud Developer Programs
+### Cloud Developer Programs
 
 - [Google Developer Program](https://developers.google.com/newsletter): stay up to date with the latest GCP releases and features
 - [Microsoft.Source newsletter](https://info.microsoft.com/ww-landing-sign-up-for-the-microsoft-source-newsletter.html): the curated monthly developer community newsletter provides the latest articles, documentation, and events.
 - [AWS Builder Center](https://builder.aws.com/): Connect with other builders, share solutions, influence AWS product development, and access useful content.
 
-### Newsletters - Engineering Deep Dives
+### Engineering Deep Dives
 
 - [TheSequence](https://thesequence.substack.com/): A weekly series that does technical deep dives on the latest AI/ML techniques
 - [The Batch @ DeepLearning.AI](https://www.deeplearning.ai/the-batch/): a weekly deep dive from Stanford Professor Andrew Ng
