@@ -62,9 +62,14 @@ layout: default
   </header>
 
   <article class="post-content">
+    {% if page.toc and page.toc.beginning %}
+      <div id="table-of-contents">
+        {% toc %}
+      </div>
+      <hr>
+    {% endif %}
     <div id="markdown-content">
-      {{ content | replace: '<div id="toc-marker"></div>',
-        '<div id="table-of-contents">{% toc %}</div>' }}
+      {{ content }}
     </div>
   </article>
 
