@@ -901,6 +901,9 @@ Technical books covering statistics, data analysis, and machine learning fundame
 
 * [Python for Data Analysis, Data Wrangling with pandas, NumPy, & Jupyter](https://wesmckinney.com/book/) by Wes McKinney
 
+#### Cloud Engineering
+* [Official Google Cloud Certified Professional Machine Learning Engineer Study Guide](https://www.oreilly.com/library/view/official-google-cloud/9781119944461/) by Mona Mona, Pratap Ramamurthy
+
 #### Gen AI & AI Engineering
 * [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch) by Sebastian Raschka
 * [AI Engineering: Building Applications with Foundation Models](https://www.oreilly.com/library/view/ai-engineering/9781098166298/) by Chip Huyen
