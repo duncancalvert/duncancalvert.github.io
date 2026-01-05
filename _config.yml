@@ -200,7 +200,9 @@ latest_posts:
 markdown: kramdown
 highlighter: rouge
 kramdown:
-  input: GFM
+  input: kramdown
+  toc_levels: 2..4
+  auto_ids: true
   syntax_highlighter_opts:
     css_class: "highlight"
     span:
@@ -208,6 +210,7 @@ kramdown:
     block:
       line_numbers: false
       start_line: 1
+  
 
 # Includes & excludes
 include: ["_pages"]

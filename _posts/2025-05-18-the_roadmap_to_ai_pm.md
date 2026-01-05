@@ -25,6 +25,7 @@ typograms: true
 <div class="caption">
     Source: Photo by Denise Jans on Unsplash
 </div>
+
 <br>
 <br>
 
@@ -40,7 +41,6 @@ In contrast, AI TPMs live at the intersection of infrastructure, cutting edge re
 
 Instead of the generally linear Software Development Lifecycle (SDLC) used to build traditional products, building AI systems require a highly iterative Model Development Lifecycle (MDLC). This involves continuously tweaking model training pipelines, feature stores, real-time inference latency, versioning of data/models, and monitoring for drift and degradation. This must be done in alignment with a motely crew of data scientists, ML engineers, infra teams, data SMEs, end users, and model governance stakeholders.
 
-(blank line)
 
 ## Skill Sets
 
@@ -795,7 +795,6 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
   </ul>
 </details>
 
----
 
 <br>
 
@@ -826,7 +825,6 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 - [SwirlAI](https://www.newsletter.swirlai.com/): MLOps and data engineering focused newsletter with great visualizations
 - [ByteByteGo](): a weekly newsletter by Alex Xu that delivers concise system‑design deep dives and foundational tech explainers on complex distributed systems topics like Kubernetes, databases, CI/CD, and API design
 
----
 
 <br>
 
@@ -841,7 +839,6 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 - [Hard Fork by the NYT](https://www.nytimes.com/column/hard-fork)
 - [The a16z Podcast by Andreessen Horowitz](https://a16z.com/podcasts/a16z-podcast/)
 
----
 
 <br>
 
@@ -860,7 +857,6 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 - [Eugene Yan](https://eugeneyan.com/subscribe): ML, RecSys, LLMs, and engineering
 - [Andrew Ng](https://www.andrewng.org/): founder of Coursera, DeepLearning.AI, Stanford AI computer science professor, and neural network pioneer
 
----
 
 <br>
 
@@ -871,10 +867,12 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 ### Pop Tech - General
 Narrative and investigative books about major tech companies, case studies, and industry shifts. These works build intuition about how technology intersects with power, markets, and society; helping PMs think strategically beyond the model and anticipate real-world consequences.
 
+
 #### Geopolitics
 * [Apple in China: The Capture of the World's Greatest Company](https://www.simonandschuster.com/books/Apple-in-China/Patrick-McGee/9781668053379) by Patrick McGee
 * [Chip War: The Fight for the World's Most Critical Technology](https://www.simonandschuster.com/books/Chip-War/Chris-Miller/9781982172015) by Chris Miller
 * [AI Valley: Microsoft, Google, and the Trillion-Dollar Race to Cash In on Artificial Intelligence – A Definitive Insider Chronicle of the Breakthroughs Redefining Our World](https://bookriot.com/books/ai-valley-microsoft-google-and-the-trillion-dollar-race-to-cash-in-on-artificial-intelligence/) by Gary Rivlin
+
 
 #### Artificial General Intelligence (AGI)
 * [The Path to AGI: Artificial General Intelligence](https://technicspub.com/path-to-agi/) by John K. Thompson
