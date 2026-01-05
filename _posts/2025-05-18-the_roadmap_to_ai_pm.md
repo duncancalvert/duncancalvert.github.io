@@ -5,6 +5,8 @@ date: 2025-05-18 16:04:10
 description: A guide to the AI product management landscape
 tags: AI Machine_Learning Deep_Learning Research Neural_Networks Product_Management Agents
 categories: data-science
+toc:
+  beginning: true
 ---
 
 <br>
@@ -29,9 +31,6 @@ categories: data-science
 <br>
 
 ## Table of Contents
-<div id="table-of-contents">
-{:toc}
-</div>
 
 
 ## What Makes an AI Product Manager Different
@@ -198,7 +197,6 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
     <li>Learn the principles and practices of maintaining and scaling ML workflows in production environments.</li>
     <li>General Resources</li>
       <ul>
-        <li><a href="https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/">(Book) Designing Machine Learning Systems by Chip Huyen</a></li>
         <li><a href="https://github.com/GokuMohandas/Made-With-ML">(Class) Made With ML</a></li>
       </ul>
   </ul>
@@ -842,7 +840,7 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 
 - The "Godfathers of AI"
   - [Yann LeCun](http://yann.lecun.com/): Chief AI Scientist at Meta and a pioneer in optical character recognition (OCR) and convolutional neural networks (CNN). A Turing Award winner and one of the three "Godfathers of AI".
-  - [Geoffrey Hinton](https://en.wikipedia.org/wiki/Geoffrey_Hinton): He is the University Professor Emeritus at the University of Toronto and former Google Brain lead. Over his career he has been at the forefront of many AI advancements such as backpropagation, AlexNet, and deep learning. In 2024, he was awarded the Nobel Prize in Physics for machine learning with artificial neural networks. He's also known for fostering a rich graduate student pipeline with past students being Alex Krizhevsky, Ilya Sutskever, Yann LeCun, and many other luminaries. In May 2023, Hinton resigned from Google and started speaking out against the dangers of AI.
+  - [Geoffrey Hinton](https://en.wikipedia.org/wiki/Geoffrey_Hinton): University Professor Emeritus at the University of Toronto and former Google Brain lead. Popularizer of backpropagation, AlexNet, and deep learning. 2024 Nobel Prize winner in Physics for machine learning with artificial neural networks. Also well known as a mentor with his former graduate students being Alex Krizhevsky, Ilya Sutskever, Yann LeCun, and many other luminaries. In May 2023, Hinton resigned from Google and started speaking out against the dangers of AI.
   - [Yoshua Bengio](https://yoshuabengio.org/): co-Turing Award winne in 2018 with Yann LeCun and Geoffrey Hinton for his work on deep learning. Bengio is the most-cited computer scientist globally (by both total citations and by h-index), and the most-cited living scientist across all fields (by total citations).
 - [Demis Hassabis](https://en.wikipedia.org/wiki/Demis_Hassabis): CEO and co-founder of Google DeepMind. He was jointly awarded the Nobel Prize in Chemistry in 2024 for his work on AlphaFold and protein structure prediction.
 - [Mustafa Suleyman](https://en.wikipedia.org/wiki/Mustafa_Suleyman): CEO of Microsoft AI and former head of applied AI at Google DeepMind
@@ -887,23 +885,26 @@ Foundational texts on building and scaling software products. They focus on exec
 
 ---
 
-### Technical & Textbooks
+### Textbooks & Technical Writing
 Technical books covering statistics, data analysis, and machine learning fundamentals. They give AI Product Managers the literacy needed to collaborate effectively with technical teams and make informed decisions about model capabilities and limitations.
 
 #### Probability & Statistics
 * [Practical Statistics for Data Scientists](https://www.oreilly.com/library/view/practical-statistics-for/9781492072935/) by Peter Bruce
 
 #### Math
-
 * [Mathematics for Machine Learning](https://mml-book.github.io/book/mml-book.pdf) by Deisenroth, Faisal, and Ong
 
 #### Programming
-
 * [Python for Data Analysis, Data Wrangling with pandas, NumPy, & Jupyter](https://wesmckinney.com/book/) by Wes McKinney
 
 #### Cloud Engineering
-* [Official Google Cloud Certified Professional Machine Learning Engineer Study Guide](https://www.oreilly.com/library/view/official-google-cloud/9781119944461/) by Mona Mona, Pratap Ramamurthy
+* Google Cloud Platform (GCP)
+  * [Official Google Cloud Certified Associate Cloud Engineer Study Guide](https://www.google.com/books/edition/Official_Google_Cloud_Certified_Associat/eNuMDwAAQBAJ?hl=en&gbpv=0) by Dan Sullivan
+  * [Official Google Cloud Certified Professional Machine Learning Engineer Study Guide](https://www.oreilly.com/library/view/official-google-cloud/9781119944461/) by Mona Mona, Pratap Ramamurthy
 
-#### Gen AI & AI Engineering
+#### Gen AI
 * [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch) by Sebastian Raschka
+
+#### AI Engineering
 * [AI Engineering: Building Applications with Foundation Models](https://www.oreilly.com/library/view/ai-engineering/9781098166298/) by Chip Huyen
+* [Designing Machine Learning Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/) by Chip Huyen
