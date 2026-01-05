@@ -31,7 +31,7 @@ toc:
 <br>
 
 ## Table of Contents
-
+<div id="toc-marker"></div>
 
 ## What Makes an AI Product Manager Different
 
