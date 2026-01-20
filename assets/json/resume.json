@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Duncan Calvert",
-    "label": "Technical Product Manager | ML Engineer",
+    "label": "AI Product Manager | ML Engineer",
     "image": "",
     "email": "",
     "phone": "",
     "url": "https://www.linkedin.com/in/duncan-calvert/",
-    "summary": "I am a technical product manager and machine learning engineer with 7+ years of experience leveraging cutting-edge technologies to build great products. I am passionate about solving complex problems, contributing to open-source software, continuous learning, and fostering meaningful professional relationships.",
+    "summary": "AI-focused product manager and data scientist specialized in natural language processing (NLP) and machine learning (ML) systems. Skilled in driving cross-functional automation initiatives, full product lifecycles, and leading teams to align AI innovation with their business goals.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -36,11 +36,22 @@
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Architect, technical product manager, and vendor manager on an enterprise-wide internal application supporting 30,000 users with an ROI of $22M per year",
-        "Built a suite of intent-driven and LLM-based RAG chatbots that automate 40% of total user support tickets",
-        "Managing 100+ RPA automations to ensure risk and operations are handled systematically, eliminating 300 payroll hours a week",
-        "Architecting a recommendation engine-powered news feed for internal employees",
-        "Designing and developing dynamic application user interfaces that span mobile, tablet, and browser using Microsoft Power Apps, JavaScript, HTML, and CSS"
+        "Built an enterprise-wide internal support application used by 40k users that drives efficiency savings of $6.3M/year",
+        "Implemented a suite of AI agents leveraging MLLMs, RAG, Ragas, and vector databases that automates 30% of total user support issues and saves 4k hours/year of SME time",
+        "Managing 80+ RPA automations to systematically handle risk and operations, eliminating 15k toil hours/year",
+        "Authored an AI product management framework adopted by leadership to standardize AI product development across all PMs in our group"
+      ]
+    },
+    {
+      "name": "University of Chicago, Data Science Institute",
+      "position": "Instructional Assistant",
+      "url": "https://datascience.uchicago.edu/",
+      "startDate": "2025-01-01",
+      "endDate": "Present",
+      "summary": "Provided technical guidance in ML, computer vision (CV), control systems, embedded systems, CAD, simulation environments, and GCP cloud engineering",
+      "highlights": [
+        "5x ADSP 32018 Next-Gen Natural Language Processing: Transformers, LLMs and Agentic AI",
+        "4x ADSP 34003 Data Science for Robotics (Research Capstone) time"
       ]
     },
     {
@@ -51,9 +62,9 @@
       "endDate": "2024-01-01",
       "summary": "",
       "highlights": [
-        "Enterprise-wide platform lead for AutoML (DataRobot, Driverless AI) and big data processing on-premise platforms supporting 51 deployed models with an ROI of $108MM",
-        "Trained data scientists in modeling and big data processing frameworks (PySpark, Hadoop, PyTorch, etc.)",
-        "Founded The Paper Collective, a biweekly academic paper discussion and research group with 40+ monthly active users"
+        "Enterprise product lead for AutoML (DataRobot, Driverless AI) and big data processing platforms supporting 51 deployed models that generated a ROI of $108M/year",
+        "Created a modeling and big data processing training framework for data scientists that decreased average ramp time by 2 weeks",
+        "Founded The Paper Collective, a monthly academic paper discussion and research group with 50+ monthly participants"
       ]
     },
     {
@@ -63,7 +74,9 @@
       "startDate": "2020-04",
       "endDate": "2021-12",
       "summary": "",
-      "highlights": ["Technical product manager for the end-to-end model development life cycle supporting 26 models with a ROI of $71MM"]
+      "highlights": [
+        "Product manager for the end-to-end model development lifecycle supporting 26 models that generated a ROI of $71MM"
+      ]
     },
     {
       "name": "Wells Fargo",
@@ -87,6 +100,64 @@
       "highlights": [
         "Developed geospatial datasets using Python and SQL that powered the backend of Apple Maps and Apple Location Services",
         "Collaborated with data scientists to curate high-quality machine learning training data"
+      ]
+    },
+    {
+      "name": "Lewis Brisbois Bisgaard & Smith, LLP",
+      "position": "Case Manager, Data Analytics Specialist",
+      "url": "",
+      "startDate": "2016-06",
+      "endDate": "2017-09",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "UCSB Department of Religious Studies",
+      "position": "Undergraduate Research Assistant",
+      "url": "",
+      "startDate": "2016-01",
+      "endDate": "2016-06",
+      "summary": "",
+      "highlights": [
+        "Ran NLP queries on historical newspaper databases to synthesize novel datasets",
+        "Performed statistical analysis in Excel and SPSS",
+        "Modeled regressions to determine relationships between various factors"
+      ]
+    },
+    {
+      "name": "Associated Students of UCSB",
+      "position": "Student Director of Public Safety",
+      "url": "",
+      "startDate": "2014-12",
+      "endDate": "2016-06",
+      "summary": "",
+      "highlights": [
+        "Mediated between the UC Police Department, County Sheriff Department, student body, and long-term resident populations",
+        "Founded the community outreach programs 'Pizza with Police' and 'Coffee with a Cop' in which top police staff discussed law enforcement policy and fielded Q&A in an effort to foster a culture of community policing",
+        "Assisted project leaders with the successful passage of Assembly Bill AB3 Ch. 548, which legally transitioned Isla Vista from an unincorporated territory to a Community Service District (approved by Governor Jerry Brown Oct. 7th, 2015)",
+        "Fostered a system of community policing within the UCSB Police Department and Santa Barbara County Sheriff's Dept. that worked to change policies and enforcement to better address community needs",
+        "Founded and secured funding for the grass-roots UCIV volunteer program, the core policy solution during the unsanctioned festival weekends of Deltopia and Halloween"
+      ]
+    },
+    {
+      "name": "United States Postal Service",
+      "position": "Mail Clerk",
+      "url": "",
+      "startDate": "2014-01",
+      "endDate": "2014-10",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "University of California, Berkeley",
+      "position": "Mechanical Engineering Intern",
+      "url": "",
+      "startDate": "2010-06",
+      "endDate": "2011-08",
+      "summary": "Worked for two consecutive summer internships at the Laboratory for Manufacturing and Sustainability",
+      "highlights": [
+        "Assisted doctoral and post-graduate students in the research of diamond tool manufacturing and Cap'n'Trade policy legislation",
+        "Created an inventory of all laboratory tools and production flow designs for efficient factory planning"
       ]
     }
   ],
@@ -114,7 +185,9 @@
       "startDate": "2018",
       "endDate": "2020",
       "score": "",
-      "courses": ["Python Programming, Cybersecurity, Database Management, Javascript and jQuery, Data Science, SQL"]
+      "courses": [
+        "Python Programming, Cybersecurity, Database Management, Javascript and jQuery, Data Science, SQL"
+      ]
     },
     {
       "institution": "University of California, Santa Barbara",
@@ -256,7 +329,7 @@
       "position": "Volunteer",
       "url": "",
       "startDate": "2023",
-      "endDate": "",
+      "endDate": "2024",
       "summary": "",
       "highlights": ""
     }

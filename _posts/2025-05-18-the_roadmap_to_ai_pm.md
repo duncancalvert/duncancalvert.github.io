@@ -11,10 +11,12 @@ toc:
 
 <br>
 <br>
+
 <p style="text-align: center;">
     <em>"Be stubborn on vision but flexible on details."</em><br>
     — Jeff Bezos 
 </p>
+
 <br>
 <br>
 
@@ -637,6 +639,24 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
   </ul>
 </details>
 
+<details>
+  <summary><b>Architecture Concepts</b></summary>
+  <ul>
+    <li><ins>Load Balancing</ins>: distributes incoming traffic across multiple servers to improve reliability and performance.</li>
+    <li><ins>Caching</ins>: stores frequently accessed data in memory to reduce latency and database load.</li>
+    <li><ins>Content Delivery Networks</ins>: store static assets across edge servers to reduce latency for users.</li>
+    <li><ins>Message Queue</ins>: decouples components by allowing producers to enqueue messages that consumers process asynchronously.</li>
+    <li><ins>Publish-Subscribe</ins>: enables multiple consumers to receive messages from a shared topic.</li>
+    <li><ins>API Gateway</ins>: acts as a single entry point for client requests and handles routing to backend services.</li>
+    <li><ins>Circuit Breaker</ins>: monitors downstream service calls and stops attempts when failures exceed a defined threshold.</li>
+    <li><ins>Service Discovery</ins>: automatically tracks available service instances so consumers can locate providers.</li>
+    <li><ins>Sharding</ins>: splits large datasets across multiple nodes based on a shard key.</li>
+    <li><ins>Rate Limiting</ins>: controls the number of requests a client can make within a given time window.</li>
+    <li><ins>Consistent Hashing</ins>: distributes data across nodes while minimizing reorganization when nodes are added or removed.</li>
+    <li><ins>Auto Scaling</ins>: automatically adds or removes compute resources based on system metrics.</li>
+  </ul>
+</details>
+
 ---
 
 <!------------------ Section --------------------->
@@ -657,11 +677,22 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 </details>
 
 <details>
-  <summary><b>Continuous Integration / Continuous Testing / Continuous Delivery (CI/CT/CD)</b></summary>
+  <summary><b>Continuous Integration, Testing, and Delivery (CI/CT/CD)</b></summary>
   <ul>
-    <li><ins>Continuous Integration (CI)</ins>: Devs frequently merge code changes into a central repo, triggering automated builds to find integration issues quickly.</li>
-    <li><ins>Continuous Testing (CT)</ins>: Automated tests (unit, integration, etc.) run continuously throughout the pipeline, verifying code quality and preventing bugs from reaching production.</li>
-    <li><ins>Continuous Delivery (CD)</ins>: automatically prepares code for release, ensuring it's always in a deployable state, ready to be pushed to production with a single click.</li>
+    <li>Concepts</li>
+      <ul>
+        <li><ins>Continuous Integration (CI)</ins>: Devs frequently merge code changes into a central repo, triggering automated builds to find integration issues quickly.</li>
+        <li><ins>Continuous Testing (CT)</ins>: Automated tests (unit, integration, etc.) run continuously throughout the pipeline, verifying code quality and preventing bugs from reaching production.</li>
+        <li><ins>Continuous Delivery (CD)</ins>: automatically prepares code for release, ensuring it's always in a deployable state, ready to be pushed to production with a single click.</li>
+      </ul>
+    <li>Tools</li>
+      <ul>
+        <li>Jenkins</li>
+        <li>GitHub Actions</li>
+        <li>AWS Code Pipeline</li>
+        <li>GCP Cloud Build/Cloud Deploy</li>
+        <li>Azure Pipelines</li>
+      </ul>
   </ul>
 </details>
 
@@ -756,6 +787,18 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
     <li><ins>Pomodoro Technique</ins>: Pomodoro means “tomato” in Italian, and this method is named for the tomato-shaped timers originally used for it. The technique is simple to follow, set a timer for 25 minutes, work, and then set it for a five-minute break. Repeat the process four times.</li>
     <li><ins>Flowtime Technique</ins>: Sometimes called the “Flomodoro,” this method tries to help workers break through to a flow state. Users set a plan for the day and divide up their goals into small, manageable tasks. From there, they work without timers, taking breaks as needed. It’s essentially a deconstructed version of the Pomodoro Technique</li>
     <li><ins>Eat the Frog</ins>: Mark Twain said if you have to eat a frog, do it first thing in the morning. This approach to work is straightforward: Always do the most difficult and dreaded task first. Avoid multitasking and home in on the single task early. Then, the rest of the day will seem breezy by comparison.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>Laws & Axioms</b></summary>
+  <ul>
+    <li><ins>Goodhart's Law</ins>: when a measure becomes a target, it ceases to be a good measure</li>
+    <li>The Mythical Man Month</li>
+      <ul>
+        <li><ins>Brooks's Law</ins>: The central thesis that adding more people to a late project increases the delay due to the exponential growth in communication paths and ramp-up time</li>
+        <li><ins>Man-Month Myth</ins>: The idea that a "man-month" is a standard unit of work is deceptive; men and months are not interchangeable because tasks aren't always perfectly divisible</li>
+      </ul>
   </ul>
 </details>
 
