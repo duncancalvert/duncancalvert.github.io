@@ -509,6 +509,12 @@ footer.sticky-bottom {
     color: var(--global-theme-color);
     font-size: 4rem;
   }
+
+  // Blog description font size
+  h2,
+  h3 {
+    font-size: 1.5rem;
+  }
 }
 
 .tag-category-list {
