@@ -6,7 +6,7 @@ description: A guide to the AI product management landscape
 tags: AI Machine_Learning Deep_Learning Research Neural_Networks Product_Management Agents
 categories: data-science
 toc:
-  beginning: true
+  beginning: false
 ---
 
 <br>
@@ -30,9 +30,9 @@ toc:
 <br>
 
 
-## What Makes an AI Product Manager Different
-
-I frequently get asked by product managers, students, and engineers I work with, "how can I upskill on AI and especially AI product management". The AI landscape is moving at breakneck speed with new models, frameworks, and capabilities emerging weekly, making it challenging to know where to start or what to prioritize. This guide provides a structured learning path through the essential skills needed to excel as an AI PM, organized by domain and prioritized for practical application.
+## What Makes an AI Product Manager
+---
+I frequently get asked by product managers, students, and engineers I work with, "how can I upskill on AI and especially AI product management". The AI landscape is moving at breakneck speed with new models, frameworks, and capabilities emerging weekly, making it challenging to know where to start or what to prioritize. This guide provides a structured  path through the essential skills needed to excel as an AI PM, organized by domain and prioritized for practical application.
 
 So how does an AI Product Manager differ from a traditional PM? While traditional PMs focus on building scalable systems with time-tested, stable tools, AI PMs operate in a fundamentally different environment. They work at the intersection of infrastructure, cutting-edge research, and business outcomes, guiding the development of probabilistic, data-dependent products where performance varies across inputs. Success isn't measured in "features shipped" but in nuanced metrics like model quality, inference efficiency, and real-world generalization. The tools themselves are constantly shifting, with vendors and the open-source community launching new frameworks based on the latest agentic and Gen AI research.
 
@@ -42,20 +42,56 @@ The development process also differs dramatically. Instead of the generally line
 
 ## Skill Sets
 
----
 
 <!------------------ Section --------------------->
 
 <br>
 
 ### Traditional Data Science
-
+---
 A strong foundation in traditional data science is essential for AI PMs because it provides the fundamental language and concepts needed to communicate effectively with data scientists and ML engineers. Understanding probability, statistics, machine learning theory, and evaluation metrics enables PMs to make informed decisions about model selection, set realistic performance expectations, and translate technical capabilities into business value. Without this knowledge, PMs risk making promises that can't be delivered, misinterpreting model performance, or failing to identify when simpler statistical or deterministic methods might be more appropriate than complex ML or Gen AI solutions.
 
 <details>
   <summary><b>Probability & Statistics</b></summary>
   <ul>
-    <li></li>
+    <li>Fundamental Concepts</li>
+      <ul>
+        <li>Probability distributions (normal, binomial, Poisson, exponential)</li>
+        <li>Conditional probability and Bayes' theorem</li>
+        <li>Expected value, variance, and standard deviation</li>
+        <li>Central Limit Theorem</li>
+        <li>Law of Large Numbers</li>
+      </ul>
+    <li>Statistical Inference</li>
+      <ul>
+        <li>Hypothesis testing (null hypothesis, p-values, significance levels)</li>
+        <li>Confidence intervals</li>
+        <li>Type I and Type II errors</li>
+        <li>Statistical power</li>
+        <li>Bayesian vs. frequentist approaches</li>
+      </ul>
+    <li>Descriptive Statistics</li>
+      <ul>
+        <li>Measures of central tendency (mean, median, mode)</li>
+        <li>Measures of dispersion (range, variance, standard deviation, IQR)</li>
+        <li>Skewness and kurtosis</li>
+        <li>Percentiles and quartiles</li>
+      </ul>
+    <li>Correlation and Causation</li>
+      <ul>
+        <li>Understanding correlation coefficients (Pearson, Spearman)</li>
+        <li>Distinguishing correlation from causation</li>
+        <li>Confounding variables</li>
+        <li>Spurious correlations</li>
+      </ul>
+    <li>Sampling Methods</li>
+      <ul>
+        <li>Random sampling</li>
+        <li>Stratified sampling</li>
+        <li>Cluster sampling</li>
+        <li>Bias in sampling</li>
+        <li>Sample size determination</li>
+      </ul>
   </ul>
 </details>
 
@@ -149,22 +185,77 @@ A strong foundation in traditional data science is essential for AI PMs because 
   <ul>
     <li>Theory</li>
       <ul>
-        <li>Build an intuitive understanding of the right metrics for each model and use case.</li>
+        <li>Build an intuitive understanding of the right metrics for each model and use case, especially trade-offs.</li>
         <li>Recognize areas of concern or blind spots for each metric.</li>
+        <li>Consider business context when selecting evaluation metrics (e.g., cost of false positives vs. false negatives).</li>
       </ul>
     <li>Regression Eval Metrics & Techniques</li>
       <ul>
+        <li>Mean Absolute Error (MAE)</li>
+        <li>Mean Squared Error (MSE)</li>
         <li>Root Mean Squared Error (RMSE)</li>
+        <li>Mean Absolute Percentage Error (MAPE)</li>
+        <li>R-squared (R²) / Coefficient of Determination</li>
+        <li>Adjusted R-squared</li>
+        <li>Mean Bias Error (MBE)</li>
       </ul>
     <li>Classification Eval Metrics & Techniques</li>
       <ul>
         <li>Accuracy</li>
         <li>Precision</li>
-        <li>Precision</li>
-        <li>Precision vs. Recall Curve</li>
-        <li>Area Under the Curve (AUC)</li>
-        <li>Receiver Operating Characteristic (ROC)</li>
+        <li>Recall (Sensitivity)</li>
+        <li>F1-Score (harmonic mean of precision and recall)</li>
+        <li>F-beta Score (weighted F1 for precision/recall trade-offs)</li>
+        <li>Specificity (True Negative Rate)</li>
         <li>Confusion Matrix</li>
+        <li>Precision-Recall Curve</li>
+        <li>Receiver Operating Characteristic (ROC) Curve</li>
+        <li>Area Under the ROC Curve (AUC-ROC)</li>
+        <li>Area Under the Precision-Recall Curve (AUC-PR)</li>
+        <li>Log Loss (Logarithmic Loss)</li>
+        <li>Matthews Correlation Coefficient (MCC)</li>
+      </ul>
+    <li>Multi-class Classification Metrics</li>
+      <ul>
+        <li>Macro-averaged metrics (precision, recall, F1)</li>
+        <li>Micro-averaged metrics</li>
+        <li>Weighted-averaged metrics</li>
+        <li>Per-class metrics</li>
+      </ul>
+    <li>Imbalanced Dataset Metrics</li>
+      <ul>
+        <li>When to use precision vs. recall vs. F1-score</li>
+        <li>Precision-Recall AUC (often better than ROC-AUC for imbalanced data)</li>
+        <li>Balanced Accuracy</li>
+        <li>Cohen's Kappa</li>
+      </ul>
+    <li>Clustering Metrics</li>
+      <ul>
+        <li>Silhouette Score</li>
+        <li>Davies-Bouldin Index</li>
+        <li>Calinski-Harabasz Index</li>
+        <li>Inertia (within-cluster sum of squares)</li>
+        <li>Adjusted Rand Index (ARI) - for labeled data</li>
+        <li>Normalized Mutual Information (NMI) - for labeled data</li>
+      </ul>
+    <li>Evaluation Techniques</li>
+      <ul>
+        <li>Train/Test Split</li>
+        <li>K-Fold Cross-Validation</li>
+        <li>Stratified K-Fold Cross-Validation</li>
+        <li>Time Series Cross-Validation (for temporal data)</li>
+        <li>Bootstrap Sampling</li>
+        <li>Leave-One-Out Cross-Validation (LOOCV)</li>
+        <li>Holdout Validation</li>
+      </ul>
+    <li>Model Performance Beyond Metrics</li>
+      <ul>
+        <li>Inference latency and throughput</li>
+        <li>Model size and memory requirements</li>
+        <li>Training time and computational cost</li>
+        <li>Robustness to adversarial examples</li>
+        <li>Fairness and bias metrics</li>
+        <li>Explainability and interpretability scores</li>
       </ul>
   </ul>
 </details>
@@ -179,8 +270,6 @@ A strong foundation in traditional data science is essential for AI PMs because 
       <li>Resources</li>
         <ul>
           <li><a href="https://www.coursera.org/specializations/deep-learning">(Class) Deep Learning Specialisation by Andrew Ng</a></li>
-          <li><a href="https://www.deeplearningbook.org/">(Book) Deep Learning by Ian Goodfellow</a></li>
-          <li><a href="https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/">(Book) Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 3rd Edition by Aurélien Géron</a></li>
           <li><a href="https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ">(Videos) Neural Networks: Zero to Hero by Andrej Karpathy</a></li>
         </ul>
     </ul>
@@ -266,14 +355,13 @@ A strong foundation in traditional data science is essential for AI PMs because 
   </ul>
 </details>
 
----
 
 <!------------------ Section --------------------->
 
 <br>
 
 ### Gen AI & Foundation Models
-
+---
 As generative AI and foundation models become central to modern AI products, PMs must understand their capabilities, limitations, costs, and operational requirements. Knowledge of transformer architectures, scaling laws, and fine-tuning techniques allows PMs to make strategic decisions about when to use pre-trained models versus building custom solutions, estimate compute costs and infrastructure needs, and set appropriate expectations for solution performance with executives. This expertise is crucial for navigating the rapidly evolving landscape of foundation models and ensuring products leverage the latest advances while maintaining cost efficiency and reliability.
 
 <details>
@@ -444,14 +532,12 @@ As generative AI and foundation models become central to modern AI products, PMs
 </details>
 
 
----
-
 <!------------------ Section --------------------->
 
 <br>
 
 ### Retrieval Augmented Generation (RAG)
-
+---
 RAG has become the dominant pattern for building production LLM applications that need access to private or up-to-date information. PMs with RAG expertise can design systems that effectively combine retrieval and generation, choose appropriate vector databases and embedding strategies, and establish evaluation frameworks that measure both retrieval quality and response relevance. Understanding RAG is essential for building or evaluating AI products that go beyond simple chatbot interfaces to create intelligent systems that can reason over large knowledge bases and provide accurate, contextualized responses.
 
 <details>
@@ -513,14 +599,13 @@ RAG has become the dominant pattern for building production LLM applications tha
   <summary><b>Agentic RAG</b></summary>
 </details>
 
----
 
 <!------------------ Section --------------------->
 
 <br>
 
 ### Agentic AI
-
+---
 Agentic AI represents the next evolution of AI systems, moving from single-turn interactions to autonomous agents that can plan, reason, and take actions across multiple steps. PMs need to understand agent frameworks, design patterns, and evaluation methods to build products that can handle complex, multi-step workflows. This knowledge is critical for designing agent architectures that balance autonomy with control, ensuring agents can operate safely and effectively in production environments while delivering on ambitious product visions that require sophisticated reasoning and tool use.
 
 <details>
@@ -597,14 +682,13 @@ Agentic AI represents the next evolution of AI systems, moving from single-turn 
   </ul>
 </details>
 
----
 
 <!------------------ Section --------------------->
 
 <br>
 
 ### General Technical Skills
-
+---
 While AI PMs don't need to be expert engineers, technical literacy across cloud infrastructure, data pipelines, APIs, and system architecture is essential for making informed product decisions and effectively collaborating with engineering teams. Understanding these technical domains enables PMs to estimate development effort accurately, identify technical risks early, design scalable product architectures, and make trade-off decisions between different technical approaches. This foundation ensures PMs can translate between business requirements and technical implementation, bridging the gap between stakeholders and engineering teams.
 
 <details>
@@ -681,14 +765,13 @@ While AI PMs don't need to be expert engineers, technical literacy across cloud 
   </ul>
 </details>
 
----
 
 <!------------------ Section --------------------->
 
 <br>
 
 ### General Product Management Skills
-
+---
 Core product management skills remain fundamental for AI PMs, but they take on new dimensions when applied to AI products. Project management frameworks help structure the iterative, experimental nature of AI development. Metrics and analytics become more complex when dealing with probabilistic systems where success isn't binary. Stakeholder management requires explaining uncertain outcomes and managing expectations around model performance. These foundational PM skills are essential for delivering AI products that not only work technically but also create genuine user value and business impact.
 
 <details>
@@ -830,14 +913,13 @@ Core product management skills remain fundamental for AI PMs, but they take on n
   </ul>
 </details>
 
----
 
 <!------------------ Section --------------------->
 
 <br>
 
 ### AI Specific Product Skills
-
+---
 AI-specific product skills distinguish exceptional AI PMs from traditional PMs. AI product sense involves understanding when AI is the right solution versus when simpler approaches would be more effective. Experiment design for AI products requires knowledge of A/B testing with probabilistic systems, evaluation metrics that capture model quality, and iterative development cycles that account for model training and refinement. Market insight in the AI space is crucial given the rapid pace of innovation, where new models and capabilities emerge weekly and can fundamentally change what's possible. These skills enable PMs to navigate the unique challenges of building and launching AI products successfully.
 
 <details>
@@ -872,7 +954,7 @@ AI-specific product skills distinguish exceptional AI PMs from traditional PMs. 
 <br>
 
 ### Tech News
-
+---
 - [Data Points](https://www.deeplearning.ai/the-batch/tag/data-points/): a twice‑weekly series from DeepLearning.AI of the most important AI tools, model releases, research findings, and industry developments
 - [Daily Zaps](https://www.dailyzaps.com/): a daily high-level tech news roundup that trends more business than technical
 - [The Download from MIT Technology Review](https://www.technologyreview.com/topic/download-newsletter/): a daily high-level tech news roundup from MIT Tech Review
@@ -881,7 +963,7 @@ AI-specific product skills distinguish exceptional AI PMs from traditional PMs. 
 <br>
 
 ### Cloud Developer Programs
-
+---
 - [Google Developer Program](https://developers.google.com/newsletter): stay up to date with the latest GCP releases and features
 - [Microsoft.Source newsletter](https://info.microsoft.com/ww-landing-sign-up-for-the-microsoft-source-newsletter.html): the curated monthly developer community newsletter provides the latest articles, documentation, and events.
 - [AWS Builder Center](https://builder.aws.com/): Connect with other builders, share solutions, influence AWS product development, and access useful content.
@@ -889,7 +971,7 @@ AI-specific product skills distinguish exceptional AI PMs from traditional PMs. 
 <br>
 
 ### Engineering Deep Dives
-
+---
 - [TheSequence](https://thesequence.substack.com/): A weekly series that does technical deep dives on the latest AI/ML techniques
 - [The Batch @ DeepLearning.AI](https://www.deeplearning.ai/the-batch/): a weekly deep dive from Stanford Professor Andrew Ng
 - [The MLOps Newsletter](https://mlops.substack.com/): technical with a specific focus on MLOps
@@ -901,10 +983,9 @@ AI-specific product skills distinguish exceptional AI PMs from traditional PMs. 
 
 <br>
 
+
 ## Podcasts
-
 ---
-
 - [Practical AI by Changelog](https://podcasts.apple.com/us/podcast/practical-ai/id1406537385)
 - [Inference by Turing Post](https://www.youtube.com/playlist?list=PLRRoCwK1ZTNCAZXXOswpIYQqzMgT4swsI)
 - [Latent Space: The AI Engineer Podcast](https://www.latent.space/podcast)
@@ -915,10 +996,9 @@ AI-specific product skills distinguish exceptional AI PMs from traditional PMs. 
 
 <br>
 
+
 ## People
-
 ---
-
 - The "Godfathers of AI"
   - [Yann LeCun](http://yann.lecun.com/): Chief AI Scientist at Meta and a pioneer in optical character recognition (OCR) and convolutional neural networks (CNN). A Turing Award winner and one of the three "Godfathers of AI".
   - [Geoffrey Hinton](https://en.wikipedia.org/wiki/Geoffrey_Hinton): University Professor Emeritus at the University of Toronto and former Google Brain lead. Popularizer of backpropagation, AlexNet, and deep learning. 2024 Nobel Prize winner in Physics for machine learning with artificial neural networks. Also well known as a mentor with his former graduate students being Alex Krizhevsky, Ilya Sutskever, Yann LeCun, and many other luminaries. In May 2023, Hinton resigned from Google and started speaking out against the dangers of AI.
@@ -934,12 +1014,12 @@ AI-specific product skills distinguish exceptional AI PMs from traditional PMs. 
 <br>
 
 ## Books
-
 ---
 
 <br>
 
 ### Pop Tech
+---
 Narrative and investigative books about major tech companies, case studies, and industry shifts. These works build intuition about how technology intersects with power, markets, and society; helping PMs think strategically beyond the model and anticipate real-world consequences.
 
 
@@ -959,20 +1039,19 @@ Narrative and investigative books about major tech companies, case studies, and 
 * [The Nvidia Way: Jensen Huang and the Making of a Tech Giant](https://wwnorton.com/books/the-nvidia-way) by Tae Kim
 * [Source Code: My Beginnings](https://en.wikipedia.org/wiki/Source_Code_(memoir)) by Bill Gates
 
----
 
 <br>
 
 ### Product Management
+---
 Foundational texts on building and scaling software products. They focus on execution, tradeoffs, and organizational dynamics, grounding AI product work in timeless principles for managing complexity and uncertainty.
-
 * [The Mythical Man-Month: Essays on Software Engineering](https://en.wikipedia.org/wiki/The_Mythical_Man-Month) by Frederick Brooks
 
----
 
 <br>
 
 ### Textbooks & Technical Writing
+---
 Technical books covering statistics, data analysis, and machine learning fundamentals. They give AI Product Managers the literacy needed to collaborate effectively with technical teams and make informed decisions about model capabilities and limitations.
 
 #### Probability & Statistics
@@ -988,6 +1067,12 @@ Technical books covering statistics, data analysis, and machine learning fundame
 * Google Cloud Platform (GCP)
   * [Official Google Cloud Certified Associate Cloud Engineer Study Guide](https://www.google.com/books/edition/Official_Google_Cloud_Certified_Associat/eNuMDwAAQBAJ?hl=en&gbpv=0) by Dan Sullivan
   * [Official Google Cloud Certified Professional Machine Learning Engineer Study Guide](https://www.oreilly.com/library/view/official-google-cloud/9781119944461/) by Mona Mona, Pratap Ramamurthy
+* Amazon Web Services (AWS)
+* Microsoft Azure
+
+#### ML & Deep Learning
+* [Deep Learning](https://www.deeplearningbook.org) by Ian Goodfellow
+* [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 3rd Edition](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/) by Aurélien Géron
 
 #### Gen AI
 * [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch) by Sebastian Raschka
