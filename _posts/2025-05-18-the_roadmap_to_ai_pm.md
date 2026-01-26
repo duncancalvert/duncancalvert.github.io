@@ -46,6 +46,8 @@ The development process also differs dramatically. Instead of the generally line
 
 <!------------------ Section --------------------->
 
+<br>
+
 ### Traditional Data Science
 
 A strong foundation in traditional data science is essential for AI PMs because it provides the fundamental language and concepts needed to communicate effectively with data scientists and ML engineers. Understanding probability, statistics, machine learning theory, and evaluation metrics enables PMs to make informed decisions about model selection, set realistic performance expectations, and translate technical capabilities into business value. Without this knowledge, PMs risk making promises that can't be delivered, misinterpreting model performance, or failing to identify when simpler statistical or deterministic methods might be more appropriate than complex ML or Gen AI solutions.
@@ -268,6 +270,8 @@ A strong foundation in traditional data science is essential for AI PMs because 
 
 <!------------------ Section --------------------->
 
+<br>
+
 ### Gen AI & Foundation Models
 
 As generative AI and foundation models become central to modern AI products, PMs must understand their capabilities, limitations, costs, and operational requirements. Knowledge of transformer architectures, scaling laws, and fine-tuning techniques allows PMs to make strategic decisions about when to use pre-trained models versus building custom solutions, estimate compute costs and infrastructure needs, and set appropriate expectations for solution performance with executives. This expertise is crucial for navigating the rapidly evolving landscape of foundation models and ensuring products leverage the latest advances while maintaining cost efficiency and reliability.
@@ -444,6 +448,8 @@ As generative AI and foundation models become central to modern AI products, PMs
 
 <!------------------ Section --------------------->
 
+<br>
+
 ### Retrieval Augmented Generation (RAG)
 
 RAG has become the dominant pattern for building production LLM applications that need access to private or up-to-date information. PMs with RAG expertise can design systems that effectively combine retrieval and generation, choose appropriate vector databases and embedding strategies, and establish evaluation frameworks that measure both retrieval quality and response relevance. Understanding RAG is essential for building or evaluating AI products that go beyond simple chatbot interfaces to create intelligent systems that can reason over large knowledge bases and provide accurate, contextualized responses.
@@ -510,6 +516,8 @@ RAG has become the dominant pattern for building production LLM applications tha
 ---
 
 <!------------------ Section --------------------->
+
+<br>
 
 ### Agentic AI
 
@@ -593,6 +601,8 @@ Agentic AI represents the next evolution of AI systems, moving from single-turn 
 
 <!------------------ Section --------------------->
 
+<br>
+
 ### General Technical Skills
 
 While AI PMs don't need to be expert engineers, technical literacy across cloud infrastructure, data pipelines, APIs, and system architecture is essential for making informed product decisions and effectively collaborating with engineering teams. Understanding these technical domains enables PMs to estimate development effort accurately, identify technical risks early, design scalable product architectures, and make trade-off decisions between different technical approaches. This foundation ensures PMs can translate between business requirements and technical implementation, bridging the gap between stakeholders and engineering teams.
@@ -674,6 +684,8 @@ While AI PMs don't need to be expert engineers, technical literacy across cloud 
 ---
 
 <!------------------ Section --------------------->
+
+<br>
 
 ### General Product Management Skills
 
@@ -822,6 +834,8 @@ Core product management skills remain fundamental for AI PMs, but they take on n
 
 <!------------------ Section --------------------->
 
+<br>
+
 ### AI Specific Product Skills
 
 AI-specific product skills distinguish exceptional AI PMs from traditional PMs. AI product sense involves understanding when AI is the right solution versus when simpler approaches would be more effective. Experiment design for AI products requires knowledge of A/B testing with probabilistic systems, evaluation metrics that capture model quality, and iterative development cycles that account for model training and refinement. Market insight in the AI space is crucial given the rapid pace of innovation, where new models and capabilities emerge weekly and can fundamentally change what's possible. These skills enable PMs to navigate the unique challenges of building and launching AI products successfully.
@@ -855,6 +869,8 @@ AI-specific product skills distinguish exceptional AI PMs from traditional PMs. 
 
 ---
 
+<br>
+
 ### Tech News
 
 - [Data Points](https://www.deeplearning.ai/the-batch/tag/data-points/): a twice‑weekly series from DeepLearning.AI of the most important AI tools, model releases, research findings, and industry developments
@@ -862,11 +878,15 @@ AI-specific product skills distinguish exceptional AI PMs from traditional PMs. 
 - [The Download from MIT Technology Review](https://www.technologyreview.com/topic/download-newsletter/): a daily high-level tech news roundup from MIT Tech Review
 - [Tech Brew](https://www.emergingtechbrew.com/): a punchy, daily roundup of general technology news from the editors of the popular Morning Brew newsletter.
 
+<br>
+
 ### Cloud Developer Programs
 
 - [Google Developer Program](https://developers.google.com/newsletter): stay up to date with the latest GCP releases and features
 - [Microsoft.Source newsletter](https://info.microsoft.com/ww-landing-sign-up-for-the-microsoft-source-newsletter.html): the curated monthly developer community newsletter provides the latest articles, documentation, and events.
 - [AWS Builder Center](https://builder.aws.com/): Connect with other builders, share solutions, influence AWS product development, and access useful content.
+
+<br>
 
 ### Engineering Deep Dives
 
