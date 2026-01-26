@@ -17,7 +17,6 @@ toc:
 </p>
 
 <br>
-<br>
 
 <div class="row mt-3">
   <div class="col-sm mt-3 mt-md-0">
@@ -918,6 +917,8 @@ AI-specific product skills distinguish exceptional AI PMs from traditional PMs. 
 
 ---
 
+<br>
+
 ### Pop Tech
 Narrative and investigative books about major tech companies, case studies, and industry shifts. These works build intuition about how technology intersects with power, markets, and society; helping PMs think strategically beyond the model and anticipate real-world consequences.
 
@@ -940,12 +941,16 @@ Narrative and investigative books about major tech companies, case studies, and 
 
 ---
 
+<br>
+
 ### Product Management
 Foundational texts on building and scaling software products. They focus on execution, tradeoffs, and organizational dynamics, grounding AI product work in timeless principles for managing complexity and uncertainty.
 
 * [The Mythical Man-Month: Essays on Software Engineering](https://en.wikipedia.org/wiki/The_Mythical_Man-Month) by Frederick Brooks
 
 ---
+
+<br>
 
 ### Textbooks & Technical Writing
 Technical books covering statistics, data analysis, and machine learning fundamentals. They give AI Product Managers the literacy needed to collaborate effectively with technical teams and make informed decisions about model capabilities and limitations.
