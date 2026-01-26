@@ -30,7 +30,6 @@ toc:
 </div>
 
 <br>
-<br>
 
 ## Table of Contents
 <div id="toc-marker"></div>
