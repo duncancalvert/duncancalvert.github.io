@@ -6,7 +6,7 @@ description: A guide to the AI product management landscape
 tags: AI Machine_Learning Deep_Learning Research Neural_Networks Product_Management Agents
 categories: data-science
 toc:
-  beginning: true
+  beginning: false
 ---
 
 <br>
@@ -36,6 +36,7 @@ toc:
 <div id="toc-marker"></div>
 
 ## What Makes an AI Product Manager Different
+
 
 The rapid advances in AI technology in the last few years have redefined the product development landscape and given rise to the new role of a AI Product Manager (PM). A traditional PM focuses on building scalable systems, ensures alignment of engineering with product, and translates business needs into technical specs. They primarily build with tools that are time-tested, relatively stable, and well documented.
 
@@ -370,9 +371,16 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
           </ul>
         <li>LLM-as-judge metrics</li>
       </ul>
+    <li>Evaluation datasets</li>
+      <ul>
+        <li>Golden dataset</li>
+        <li>Adversarial dataset</li>
+        <li>Regression dataset</li>
+      </ul>
     <li>LLM evaluation tools</li>
       <ul>
         <li><a href="https://docs.ragas.io">Ragas</a></li>
+        <li>OpenAI Evals</li>
       </ul>
     <li>LLM-as-a-judge techniques</li>
       <ul>
@@ -410,11 +418,12 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 </details>
 
 <details>
-  <summary><b>LLM Safety & Security</b></summary>
+  <summary><b>LLM Safety, Security, & Guardrails</b></summary>
   <ul>
     <li>Content filtering</li>
       <ul>
         <li><a href="https://cloud.google.com/security-command-center/docs/model-armor-overview">GCP Model Armor</a>
+        <li>Prompt injection</li>
         </li>
       </ul>
   </ul>
