@@ -37,12 +37,11 @@ toc:
 
 ## What Makes an AI Product Manager Different
 
+I frequently get asked by product managers, students, and engineers I work with, "how can I upskill on AI and especially AI product management". The AI landscape is moving at breakneck speed with new models, frameworks, and capabilities emerging weekly, making it challenging to know where to start or what to prioritize. This guide provides a structured learning path through the essential skills needed to excel as an AI PM, organized by domain and prioritized for practical application.
 
-The rapid advances in AI technology in the last few years have redefined the product development landscape and given rise to the new role of a AI Product Manager (PM). A traditional PM focuses on building scalable systems, ensures alignment of engineering with product, and translates business needs into technical specs. They primarily build with tools that are time-tested, relatively stable, and well documented.
+So how does an AI Product Manager differ from a traditional PM? While traditional PMs focus on building scalable systems with time-tested, stable tools, AI PMs operate in a fundamentally different environment. They work at the intersection of infrastructure, cutting-edge research, and business outcomes, guiding the development of probabilistic, data-dependent products where performance varies across inputs. Success isn't measured in "features shipped" but in nuanced metrics like model quality, inference efficiency, and real-world generalization. The tools themselves are constantly shifting, with vendors and the open-source community launching new frameworks based on the latest agentic and Gen AI research.
 
-In contrast, AI TPMs live at the intersection of infrastructure, cutting edge research, and business outcomes. They guide the development of probabilistic, data-dependent products where performance varies widely across inputs, and success isn’t measured in "features shipped" but in hard to measure metrics like model quality, inference efficiency, and real-world generalization. Add to that the fact that tools are shifting under their feet with vendors and the open-source community launching new frameworks based on the latest cutting edge agentic and Gen AI research.
-
-Instead of the generally linear Software Development Lifecycle (SDLC) used to build traditional products, building AI systems require a highly iterative Model Development Lifecycle (MDLC). This involves continuously tweaking model training pipelines, feature stores, real-time inference latency, versioning of data/models, and monitoring for drift and degradation. This must be done in alignment with a motely crew of data scientists, ML engineers, infra teams, data SMEs, end users, and model governance stakeholders.
+The development process also differs dramatically. Instead of the generally linear Software Development Lifecycle (SDLC), AI systems require a a blend of linear SDLC and highly iterative Model Development Lifecycle (MDLC). This involves continuously tweaking model training pipelines, feature stores, real-time inference latency, versioning of data and models, and monitoring for drift and degradation—all while coordinating with a diverse team of data scientists, ML engineers, infrastructure teams, data SMEs, end users, and model governance stakeholders. This guide maps out the skills you'll need to navigate this complex, fast-moving landscape successfully.
 
 
 ## Skill Sets
@@ -52,6 +51,8 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 <!------------------ Section --------------------->
 
 ### Traditional Data Science
+
+A strong foundation in traditional data science is essential for AI PMs because it provides the fundamental language and concepts needed to communicate effectively with data scientists and ML engineers. Understanding probability, statistics, machine learning theory, and evaluation metrics enables PMs to make informed decisions about model selection, set realistic performance expectations, and translate technical capabilities into business value. Without this knowledge, PMs risk making promises that can't be delivered, misinterpreting model performance, or failing to identify when simpler statistical or deterministic methods might be more appropriate than complex ML or Gen AI solutions.
 
 <details>
   <summary><b>Probability & Statistics</b></summary>
@@ -273,6 +274,8 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 
 ### Gen AI & Foundation Models
 
+As generative AI and foundation models become central to modern AI products, PMs must understand their capabilities, limitations, costs, and operational requirements. Knowledge of transformer architectures, scaling laws, and fine-tuning techniques allows PMs to make strategic decisions about when to use pre-trained models versus building custom solutions, estimate compute costs and infrastructure needs, and set appropriate expectations for solution performance with executives. This expertise is crucial for navigating the rapidly evolving landscape of foundation models and ensuring products leverage the latest advances while maintaining cost efficiency and reliability.
+
 <details>
   <summary><b>Cloud Model APIs</b></summary>
   <ul>
@@ -445,7 +448,9 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 
 <!------------------ Section --------------------->
 
-### Retrieval Augmented Generation
+### Retrieval Augmented Generation (RAG)
+
+RAG has become the dominant pattern for building production LLM applications that need access to private or up-to-date information. PMs with RAG expertise can design systems that effectively combine retrieval and generation, choose appropriate vector databases and embedding strategies, and establish evaluation frameworks that measure both retrieval quality and response relevance. Understanding RAG is essential for building or evaluating AI products that go beyond simple chatbot interfaces to create intelligent systems that can reason over large knowledge bases and provide accurate, contextualized responses.
 
 <details>
   <summary><b>RAG Fundamentals</b></summary>
@@ -511,6 +516,8 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 <!------------------ Section --------------------->
 
 ### Agentic AI
+
+Agentic AI represents the next evolution of AI systems, moving from single-turn interactions to autonomous agents that can plan, reason, and take actions across multiple steps. PMs need to understand agent frameworks, design patterns, and evaluation methods to build products that can handle complex, multi-step workflows. This knowledge is critical for designing agent architectures that balance autonomy with control, ensuring agents can operate safely and effectively in production environments while delivering on ambitious product visions that require sophisticated reasoning and tool use.
 
 <details>
   <summary><b>Agent Fundamentals</b></summary>
@@ -592,6 +599,8 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 
 ### General Technical Skills
 
+While AI PMs don't need to be expert engineers, technical literacy across cloud infrastructure, data pipelines, APIs, and system architecture is essential for making informed product decisions and effectively collaborating with engineering teams. Understanding these technical domains enables PMs to estimate development effort accurately, identify technical risks early, design scalable product architectures, and make trade-off decisions between different technical approaches. This foundation ensures PMs can translate between business requirements and technical implementation, bridging the gap between stakeholders and engineering teams.
+
 <details>
   <summary><b>Public Cloud Infrastructure</b></summary>
   <ul>
@@ -671,6 +680,8 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 <!------------------ Section --------------------->
 
 ### General Product Management Skills
+
+Core product management skills remain fundamental for AI PMs, but they take on new dimensions when applied to AI products. Project management frameworks help structure the iterative, experimental nature of AI development. Metrics and analytics become more complex when dealing with probabilistic systems where success isn't binary. Stakeholder management requires explaining uncertain outcomes and managing expectations around model performance. These foundational PM skills are essential for delivering AI products that not only work technically but also create genuine user value and business impact.
 
 <details>
   <summary><b>Project Management Frameworks</b></summary>
@@ -816,6 +827,8 @@ Instead of the generally linear Software Development Lifecycle (SDLC) used to bu
 <!------------------ Section --------------------->
 
 ### AI Specific Product Skills
+
+AI-specific product skills distinguish exceptional AI PMs from traditional PMs. AI product sense involves understanding when AI is the right solution versus when simpler approaches would be more effective. Experiment design for AI products requires knowledge of A/B testing with probabilistic systems, evaluation metrics that capture model quality, and iterative development cycles that account for model training and refinement. Market insight in the AI space is crucial given the rapid pace of innovation, where new models and capabilities emerge weekly and can fundamentally change what's possible. These skills enable PMs to navigate the unique challenges of building and launching AI products successfully.
 
 <details>
   <summary><b>AI Product Sense</b></summary>
