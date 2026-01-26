@@ -6,10 +6,9 @@ description: A guide to the AI product management landscape
 tags: AI Machine_Learning Deep_Learning Research Neural_Networks Product_Management Agents
 categories: data-science
 toc:
-  beginning: false
+  beginning: true
 ---
 
-<br>
 <br>
 
 <p style="text-align: center;">
@@ -31,8 +30,6 @@ toc:
 
 <br>
 
-## Table of Contents
-<div id="toc-marker"></div>
 
 ## What Makes an AI Product Manager Different
 
@@ -42,6 +39,7 @@ So how does an AI Product Manager differ from a traditional PM? While traditiona
 
 The development process also differs dramatically. Instead of the generally linear Software Development Lifecycle (SDLC), AI systems require a a blend of linear SDLC and highly iterative Model Development Lifecycle (MDLC). This involves continuously tweaking model training pipelines, feature stores, real-time inference latency, versioning of data and models, and monitoring for drift and degradation—all while coordinating with a diverse team of data scientists, ML engineers, infrastructure teams, data SMEs, end users, and model governance stakeholders. This guide maps out the skills you'll need to navigate this complex, fast-moving landscape successfully.
 
+<br>
 
 ## Skill Sets
 
