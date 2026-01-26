@@ -42,10 +42,7 @@ The development process also differs dramatically. Instead of the generally line
 
 ## Skill Sets
 
-
 <!------------------ Section --------------------->
-
-<br>
 
 ### Traditional Data Science
 ---
@@ -414,17 +411,98 @@ As generative AI and foundation models become central to modern AI products, PMs
 <details>
   <summary><b>Diffusion Models</b></summary>
   <ul>
-    <li></li>
+    <li>Fundamentals</li>
+      <ul>
+        <li>Forward diffusion process (adding noise to data)</li>
+        <li>Reverse diffusion process (denoising to generate samples)</li>
+        <li>Noise schedule and timesteps</li>
+        <li>Score-based generative models</li>
+      </ul>
+    <li>Architecture & Techniques</li>
+      <ul>
+        <li>Denoising Diffusion Probabilistic Models (DDPM)</li>
+        <li>Denoising Diffusion Implicit Models (DDIM)</li>
+        <li>Latent Diffusion Models (LDM)</li>
+        <li>Stable Diffusion architecture</li>
+        <li>Classifier-free guidance</li>
+        <li>Conditional generation (text-to-image, image-to-image)</li>
+      </ul>
+    <li>Applications</li>
+      <ul>
+        <li>Image generation</li>
+        <li>Text-to-image synthesis</li>
+        <li>Image inpainting and editing</li>
+        <li>Super-resolution</li>
+        <li>Audio generation</li>
+        <li>Video generation</li>
+      </ul>
+    <li>Training & Optimization</li>
+      <ul>
+        <li>Training objectives (variational lower bound, score matching)</li>
+        <li>Sampling strategies (DDPM, DDIM, DPM-Solver)</li>
+        <li>Inference speed optimization</li>
+        <li>Distillation techniques</li>
+      </ul>
+    <li>Resources</li>
+      <ul>
+        <li><a href="https://lilianweng.github.io/posts/2021-07-11-diffusion-models/">(Blog) What are Diffusion Models? by Lilian Weng</a></li>
+        <li><a href="https://www.youtube.com/watch?v=HoKDTa5jHvg">(Video) How Diffusion Models Work by AI Jason</a></li>
+      </ul>
   </ul>
 </details>
 
 <details>
   <summary><b>Generative Adversarial Networks (GAN)</b></summary>
   <ul>
-    <li><a href="https://www.deeplearning.ai/courses/generative-adversarial-networks-gans-specialization/" target="_blank" rel="noopener noreferrer">(Course) DeepLearning.AI - GAN Specialization</a></li>
-    <li><a href="https://arxiv.org/abs/1406.2661" target="_blank" rel="noopener noreferrer">(Paper) Original GAN Paper (Goodfellow et al.)</a></li>
-    <li><a href="https://www.tensorflow.org/tutorials/generative/dcgan" target="_blank" rel="noopener noreferrer">(Tutorial) TensorFlow Deep Convolutional GAN Tutorial</a></li>
-    <li><a href="https://www.youtube.com/watch?v=8L11aMN5KY8" target="_blank" rel="noopener noreferrer">(Video) A Friendly Introduction to GANs by Serrano Academy</a></li>
+    <li>Fundamentals</li>
+      <ul>
+        <li>Generator and discriminator networks</li>
+        <li>Adversarial training process</li>
+        <li>Minimax game formulation</li>
+        <li>Nash equilibrium in GAN training</li>
+        <li>Loss functions (adversarial loss, feature matching)</li>
+      </ul>
+    <li>Architecture Variants</li>
+      <ul>
+        <li>Deep Convolutional GAN (DCGAN)</li>
+        <li>Progressive GAN (ProGAN)</li>
+        <li>StyleGAN and StyleGAN2</li>
+        <li>Conditional GAN (cGAN)</li>
+        <li>Wasserstein GAN (WGAN)</li>
+        <li>Least Squares GAN (LSGAN)</li>
+        <li>CycleGAN (for image-to-image translation)</li>
+        <li>Pix2Pix</li>
+      </ul>
+    <li>Training Challenges & Solutions</li>
+      <ul>
+        <li>Mode collapse</li>
+        <li>Training instability</li>
+        <li>Vanishing gradients</li>
+        <li>Non-convergence issues</li>
+        <li>Techniques for stable training (spectral normalization, gradient penalty)</li>
+      </ul>
+    <li>Applications</li>
+      <ul>
+        <li>Image generation</li>
+        <li>Image-to-image translation</li>
+        <li>Data augmentation</li>
+        <li>Super-resolution</li>
+      </ul>
+    <li>Evaluation Metrics</li>
+      <ul>
+        <li>Inception Score (IS)</li>
+        <li>Fréchet Inception Distance (FID)</li>
+        <li>Kernel Inception Distance (KID)</li>
+        <li>Precision and Recall for distributions</li>
+      </ul>
+    <li>Resources</li>
+      <ul>
+        <li><a href="https://www.deeplearning.ai/courses/generative-adversarial-networks-gans-specialization/" target="_blank" rel="noopener noreferrer">(Course) DeepLearning.AI - GAN Specialization</a></li>
+        <li><a href="https://arxiv.org/abs/1406.2661" target="_blank" rel="noopener noreferrer">(Paper) Original GAN Paper (Goodfellow et al.)</a></li>
+        <li><a href="https://arxiv.org/abs/1701.07875">(Paper) Wasserstein GAN by Arjovsky et al.</a></li>
+        <li><a href="https://www.tensorflow.org/tutorials/generative/dcgan" target="_blank" rel="noopener noreferrer">(Tutorial) TensorFlow Deep Convolutional GAN Tutorial</a></li>
+        <li><a href="https://www.youtube.com/watch?v=8L11aMN5KY8" target="_blank" rel="noopener noreferrer">(Video) A Friendly Introduction to GANs by Serrano Academy</a></li>
+      </ul>
   </ul>
 </details>
 
