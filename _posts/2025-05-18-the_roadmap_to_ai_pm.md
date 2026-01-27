@@ -1141,7 +1141,11 @@ Technical books covering statistics, data analysis, and machine learning fundame
 * [Mathematics for Machine Learning](https://mml-book.github.io/book/mml-book.pdf) by Deisenroth, Faisal, and Ong
 
 #### Programming
-* [Python for Data Analysis, Data Wrangling with pandas, NumPy, & Jupyter](https://wesmckinney.com/book/) by Wes McKinney
+* Python
+  * [Python 3 Object Oriented Programming](https://a.co/d/fvAmkN1) by Steven F. Lott and Dusty Phillips
+  * [Python for Data Analysis, Data Wrangling with pandas, NumPy, & Jupyter](https://wesmckinney.com/book/) by Wes McKinney
+* Rust
+  * [The Rust Programming Language](https://doc.rust-lang.org/book/#the-rust-programming-language) by Steve Klabnik, Carol Nichols, and Chris Krycho
 
 #### Cloud Engineering
 * Google Cloud Platform (GCP)
