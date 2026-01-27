@@ -1124,6 +1124,7 @@ Narrative and investigative books about major tech companies, case studies, and 
 ### Product Management
 ---
 Foundational texts on building and scaling software products. They focus on execution, tradeoffs, and organizational dynamics, grounding AI product work in timeless principles for managing complexity and uncertainty.
+
 * [The Mythical Man-Month: Essays on Software Engineering](https://en.wikipedia.org/wiki/The_Mythical_Man-Month) by Frederick Brooks
 
 
