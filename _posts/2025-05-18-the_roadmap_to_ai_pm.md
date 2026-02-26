@@ -380,17 +380,18 @@ As generative AI and foundation models become central to modern AI products, PMs
         <li>Positional encoding</li>
         <li>Tokenization & vector embeddings</li>
         <li>Decoder-only, encoder-only, and encoder-decoder architectures</li>
+        <li>Key-Value (KV) Cache</li>
         <li>Hyperparameters</li>
           <ul>
             <li>Temperature</li>
             <li>Top-K</li>
             <li>Top-P</li>
           </ul>
+        <li>Multi-head Latent Attention (MLA)</li>
+        <li>Mixture-of-Experts (MoE)</li>
       </ul>
     <li>Resources:</li>
     <ul>
-        <li><a href="https://www.oreilly.com/library/view/hands-on-large-language/9781098150952/">(Book) Hands-On Large Language Models by Jay Alammar</a></li>
-        <li><a href="https://www.oreilly.com/library/view/natural-language-processing/9781098136789/">(Book) Natural Language Processing with Transformers by Lewis Tunstall</a></li>
         <li><a href="https://www.youtube.com/watch?v=7xTGNNLPyMI&ab_channel=AndrejKarpathy">(Video) Deep Dive into LLMs like ChatGPT by Andrej Karpathy</a></li>
         <li><a href="https://arxiv.org/abs/1706.03762">(Paper) Attention is All You Need</a></li>
         <li><a href="https://www.youtube.com/watch?v=9vM4p9NN0Ts&ab_channel=StanfordOnline">(Class) Stanford CS229 - Machine Learning - Building Large Language Models (LLMs)</a></li>
@@ -509,11 +510,46 @@ As generative AI and foundation models become central to modern AI products, PMs
 <details>
   <summary><b>LLM Fine-Tuning</b></summary>
   <ul>
-    <li>Compute efficiency techniques</li>
+    <li>Parameter-Efficient Fine-Tuning (PEFT)</li>
       <ul>
-        <li>LoRA</li>
-        <li>QLoRA</li>
-        <li>PEFT</li>
+        <li>Low-Rank Adaptation (LoRA)</li>
+        <li>QLoRA (Quantized LoRA)</li>
+        <li>Adapter modules (Houlsby, Pfeiffer)</li>
+        <li>Prefix tuning</li>
+        <li>Prompt tuning</li>
+        <li>P-tuning / P-tuning v2</li>
+        <li>IA³ (Infused Adapter by Inhibiting and Amplifying)</li>
+      </ul>
+    <li>Quantization</li>
+      <ul>
+        <li>Quantized Low-Rank Adaptation (QLoRA)</li>
+        <li>Post-training quantization (PTQ)</li>
+        <li>Quantization-aware training (QAT)</li>
+        <li>INT8 / INT4 / binary quantization</li>
+        <li>GPTQ (GPT Quantization)</li>
+        <li>AWQ (Activation-aware Weight Quantization)</li>
+        <li>SmoothQuant</li>
+        <li>BitsAndBytes</li>
+      </ul>
+    <li>Pruning</li>
+      <ul>
+        <li>Structured vs. unstructured pruning</li>
+        <li>Magnitude-based pruning</li>
+        <li>Movement pruning</li>
+        <li>Wanda (Weight and Activation pruning)</li>
+        <li>LLM-Pruner and similar methods</li>
+      </ul>
+    <li>Knowledge Distillation</li>
+      <ul>
+        <li>Teacher–student distillation</li>
+        <li>Response distillation</li>
+        <li>Feature / representation distillation</li>
+      </ul>
+    <li>Resources</li>
+      <ul>
+        <li><a href="https://arxiv.org/abs/2106.09685">(Paper) LoRA: Low-Rank Adaptation of Large Language Models by Hu et al.</a></li>
+        <li><a href="https://arxiv.org/abs/2305.14314">(Paper) QLoRA: Efficient Finetuning of Quantized LLMs by Dettmers et al.</a></li>
+        <li><a href="https://github.com/huggingface/peft">(Library) Hugging Face PEFT</a></li>
       </ul>
   </ul>
 </details>
@@ -521,8 +557,72 @@ As generative AI and foundation models become central to modern AI products, PMs
 <details>
   <summary><b>LLM Benchmarks</b></summary>
   <ul>
-    <li><a href="https://www.latent.space/p/benchmarks-101">(Podcast) AI Fundamentals: Benchmarks 101</a></li>
-    <li><a href="https://www.latent.space/p/benchmarks-201">(Podcast) Benchmarks 201: Why Leaderboards > Arenas >> LLM-as-Judge</a></li>
+    <li>Fundamentals</li>
+      <ul>
+        <li>What benchmarks measure (knowledge, reasoning, safety, coding, etc.)</li>
+        <li>Leaderboards vs. arenas vs. LLM-as-judge</li>
+        <li>Limitations of benchmarks (data contamination, narrow tasks, overfitting)</li>
+        <li>When to trust benchmarks vs. real-world evaluation</li>
+      </ul>
+    <li>General Model Knowledge & Capability</li>
+      <ul>
+        <li>MMLU (Massive Multitask Language Understanding)</li>
+        <li>HellaSwag</li>
+        <li>TruthfulQA</li>
+        <li>ARC (AI2 Reasoning Challenge)</li>
+        <li>OpenBookQA</li>
+        <li>Winogrande</li>
+        <li>PIQA (Physical IQ)</li>
+      </ul>
+    <li>Reasoning Benchmarks</li>
+      <ul>
+        <li>GSM8K (math word problems)</li>
+        <li>MATH</li>
+        <li>HumanEval (code)</li>
+        <li>Big-Bench (BIG-Bench Hard)</li>
+        <li>DROP (discrete reasoning)</li>
+        <li>CommonsenseQA</li>
+        <li>StrategyQA</li>
+      </ul>
+    <li>Coding Benchmarks</li>
+      <ul>
+        <li>HumanEval</li>
+        <li>MBPP (Mostly Basic Python Programming)</li>
+        <li>DS-1000</li>
+        <li>SWE-bench</li>
+        <li>CodeContests</li>
+        <li>MultiPL-E</li>
+      </ul>
+    <li>Safety & Alignment</li>
+      <ul>
+        <li>TruthfulQA (truthfulness)</li>
+        <li>RealToxicityPrompts</li>
+        <li>BBH (BIG-Bench Hard) safety subsets</li>
+        <li>Red-teaming and adversarial benchmarks</li>
+      </ul>
+    <li>Multimodal & Long-Context</li>
+      <ul>
+        <li>MMMU, MMMU-Pro</li>
+        <li>ChartQA, DocVQA</li>
+        <li>Long-context benchmarks (Needle in a Haystack, etc.)</li>
+      </ul>
+    <li>Aggregate Suites & Leaderboards</li>
+      <ul>
+        <li>Open LLM Leaderboard (Hugging Face)</li>
+        <li>LMSys Chatbot Arena</li>
+        <li>MT-Bench</li>
+        <li>AlpacaEval</li>
+        <li>HELM (Holistic Evaluation of Language Models)</li>
+      </ul>
+    <li>Resources</li>
+      <ul>
+        <li><a href="https://www.latent.space/p/benchmarks-101">(Podcast) AI Fundamentals: Benchmarks 101</a></li>
+        <li><a href="https://www.latent.space/p/benchmarks-201">(Podcast) Benchmarks 201: Why Leaderboards > Arenas >> LLM-as-Judge</a></li>
+        <li><a href="https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard">(Leaderboard) Open LLM Leaderboard</a></li>
+        <li><a href="https://chat.lmsys.org/">(Arena) LMSys Chatbot Arena</a></li>
+        <li><a href="https://arxiv.org/abs/2211.09110">(Paper) Holistic Evaluation of Language Models (HELM)</a></li>
+        <li><a href="https://github.com/open-compass/opencompass">(Suite) OpenCompass Evaluation</a></li>
+      </ul>
   </ul>
 </details>
 
@@ -989,6 +1089,8 @@ Core product management skills remain fundamental for AI PMs, but they take on n
         <li><ins>Brooks's Law</ins>: The central thesis that adding more people to a late project increases the delay due to the exponential growth in communication paths and ramp-up time</li>
         <li><ins>Man-Month Myth</ins>: The idea that a "man-month" is a standard unit of work is deceptive; men and months are not interchangeable because tasks aren't always perfectly divisible</li>
       </ul>
+    <li><ins>The Lindy Effect</ins>: a technology principle that suggests that the future life expectancy of a non-perishable technology, system, or idea is proportional to its current age. Coined by Nassim Taleb, this principle argues that the longer a technology has already survived, the higher the probability it will continue to endure, as it has proven its resilience and robustness over time</li>
+    <li><ins>Hersey-Blanchard Model</ins>:</li> 
   </ul>
 </details>
 
@@ -1160,6 +1262,10 @@ Technical books covering statistics, data analysis, and machine learning fundame
 
 #### Gen AI
 * [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch) by Sebastian Raschka
+* [Hands-On Large Language Models](https://www.oreilly.com/library/view/hands-on-large-language/9781098150952) by Jay Alammar
+
+#### Natural Language Processing
+* [Natural Language Processing with Transformers](https://www.oreilly.com/library/view/natural-language-processing/9781098136789) by Lewis Tunstall
 
 #### AI Engineering
 * [AI Engineering: Building Applications with Foundation Models](https://www.oreilly.com/library/view/ai-engineering/9781098166298/) by Chip Huyen
