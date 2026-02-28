@@ -1034,6 +1034,16 @@ Core product management skills remain fundamental for AI PMs, but they take on n
 </details>
 
 <details>
+  <summary><b>User Experience (UX) Testing</b></summary>
+  <ul>
+    <li>Test Methods</li>
+      <ul>
+        <li><a href="https://en.wikipedia.org/wiki/Wizard_of_Oz_experiment">Wizard of Oz (WOZ) Test</a>: a UX research method where participants interact with a system they believe is autonomous but is actually being operated by a human. It enables testing complex, expensive, or non-existent technology before investing in development</li>
+      </ul>
+  </ul>
+</details>
+
+<details>
   <summary><b>Stakeholder Management</b></summary>
   <ul>
     <li>Adept at influencing executives and building consensus in a constantly changing and fast-paced environment.</li>
