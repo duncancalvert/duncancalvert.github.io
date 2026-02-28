@@ -275,7 +275,7 @@ A strong foundation in traditional data science is essential for AI PMs because 
 <details>
   <summary><b>Model Development Lifecycle (MDLC)</b></summary>
   <ul>
-    <li>Understand the end-to-end process of building, testing, deploying, and monitoring machine learning models.</li>
+    <li>Understand the end-to-end MDLC process of building, testing, deploying, monitoring, and decommissioning machine learning models.</li>
   </ul>
 </details>
 
@@ -283,10 +283,6 @@ A strong foundation in traditional data science is essential for AI PMs because 
   <summary><b>Machine Learning Operations (MLOps)</b></summary>
   <ul>
     <li>Learn the principles and practices of maintaining and scaling ML workflows in production environments.</li>
-    <li>General Resources</li>
-      <ul>
-        <li><a href="https://github.com/GokuMohandas/Made-With-ML">(Class) Made With ML</a></li>
-      </ul>
   </ul>
 </details>
 
@@ -320,9 +316,11 @@ A strong foundation in traditional data science is essential for AI PMs because 
 <details>
   <summary><b>Python</b></summary>
   <ul>
-    <li>Learn object-oriented programming (OOP) principles.</li>
-    <li>Proficiency in Pandas and NumPy for data manipulation.</li>
-    <li>Use Jupyter notebooks for exploration and experimentation.</li>
+    <li><ins>Programming paradigms</ins>: Functional and Object-oriented programming (OOP)</li>
+    <li><ins>Data manipulation</ins>: Pandas, NumPy, PySpark, Koalas</li>
+    <li><ins>Package management</ins>: uv, pyproject.toml</li>
+    <li><ins>Documentation</ins>: README.md, Agents.md</li>
+    <li><ins>Testing & Linting</ins>: pytest, ruff</li>
   </ul>
 </details>
 
@@ -750,6 +748,7 @@ RAG has become the dominant pattern for building production LLM applications tha
   <li>RAG Eval Tools</li>
     <ul>
       <li><a href="https://docs.ragas.io/en/stable/">Ragas</a></li>
+      <li><a href="https://deepeval.com/">DeepEval</a></li>
     </ul>
   </ul>
 </details>
@@ -887,6 +886,34 @@ While AI PMs don't need to be expert engineers, technical literacy across cloud 
 </details>
 
 <details>
+  <summary><b>Continuous Integration, Testing, and Delivery (CI/CT/CD)</b></summary>
+  <ul>
+    <li>Concepts</li>
+      <ul>
+        <li><ins>Continuous Integration (CI)</ins>: Devs frequently merge code changes into a central repo, triggering automated builds to find integration issues quickly.</li>
+        <li><ins>Continuous Testing (CT)</ins>: Automated tests (unit, integration, etc.) run continuously throughout the pipeline, verifying code quality and preventing bugs from reaching production.</li>
+        <li><ins>Continuous Delivery (CD)</ins>: automatically prepares code for release, ensuring it's always in a deployable state, ready to be pushed to production with a single click.</li>
+      </ul>
+    <li>Tools</li>
+      <ul>
+        <li>Jenkins</li>
+        <li>GitHub Actions</li>
+        <li>AWS Code Pipeline</li>
+        <li>GCP Cloud Build/Cloud Deploy</li>
+        <li>Azure Pipelines</li>
+      </ul>
+  </ul>
+</details>
+
+<details>
+  <summary><b>DevOps and Site Reliability Engineering (SRE)</b></summary>
+  <ul>
+    <li>Bridge development and operations to ensure scalable, stable, and reliable systems.</li>
+    <li>SRE focuses on uptime, latency, monitoring, and incident response with a software engineering mindset.</li>
+  </ul>
+</details>
+
+<details>
   <summary><b>Data Pipelines</b></summary>
   <ul>
     <li>Pipeline Technologies</li>
@@ -963,34 +990,6 @@ Core product management skills remain fundamental for AI PMs, but they take on n
         <li><ins>Kanban</ins>: visual flow-based system emphasizing WIP limits and continuous delivery.</li>
       </ul>
     <li><ins>Lean</ins>: </li>
-  </ul>
-</details>
-
-<details>
-  <summary><b>Continuous Integration, Testing, and Delivery (CI/CT/CD)</b></summary>
-  <ul>
-    <li>Concepts</li>
-      <ul>
-        <li><ins>Continuous Integration (CI)</ins>: Devs frequently merge code changes into a central repo, triggering automated builds to find integration issues quickly.</li>
-        <li><ins>Continuous Testing (CT)</ins>: Automated tests (unit, integration, etc.) run continuously throughout the pipeline, verifying code quality and preventing bugs from reaching production.</li>
-        <li><ins>Continuous Delivery (CD)</ins>: automatically prepares code for release, ensuring it's always in a deployable state, ready to be pushed to production with a single click.</li>
-      </ul>
-    <li>Tools</li>
-      <ul>
-        <li>Jenkins</li>
-        <li>GitHub Actions</li>
-        <li>AWS Code Pipeline</li>
-        <li>GCP Cloud Build/Cloud Deploy</li>
-        <li>Azure Pipelines</li>
-      </ul>
-  </ul>
-</details>
-
-<details>
-  <summary><b>DevOps and Site Reliability Engineering (SRE)</b></summary>
-  <ul>
-    <li>Bridge development and operations to ensure scalable, stable, and reliable systems.</li>
-    <li>SRE focuses on uptime, latency, monitoring, and incident response with a software engineering mindset.</li>
   </ul>
 </details>
 
