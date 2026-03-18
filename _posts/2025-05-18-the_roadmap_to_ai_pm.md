@@ -360,12 +360,19 @@ A strong foundation in traditional data science is essential for AI PMs because 
 As generative AI and foundation models become central to modern AI products, PMs must understand their capabilities, limitations, costs, and operational requirements. Knowledge of transformer architectures, scaling laws, and fine-tuning techniques allows PMs to make strategic decisions about when to use pre-trained models versus building custom solutions, estimate compute costs and infrastructure needs, and set appropriate expectations for solution performance with executives. This expertise is crucial for navigating the rapidly evolving landscape of foundation models and ensuring products leverage the latest advances while maintaining cost efficiency and reliability.
 
 <details>
-  <summary><b>Cloud Model APIs</b></summary>
+  <summary><b>LLM Serving</b></summary>
   <ul>
-    <li><a href="https://azure.microsoft.com/en-us/products/ai-model-catalog">Azure - AI Foundry</a></li>
-    <li><a href="https://cloud.google.com/model-garden">GCP - Vertex AI Model Garden</a></li>
-    <li><a href="https://aws.amazon.com/bedrock/">AWS - Amazon Bedrock</a></li>
-    <li><a href="https://openai.com/api/">OpenAI</a></li>
+    <li>Cloud Model APIs</li>
+      <ul>
+        <li><a href="https://azure.microsoft.com/en-us/products/ai-model-catalog">Azure - AI Foundry</a></li>
+        <li><a href="https://cloud.google.com/model-garden">GCP - Vertex AI Model Garden</a></li>
+        <li><a href="https://aws.amazon.com/bedrock/">AWS - Amazon Bedrock</a></li>
+        <li><a href="https://openai.com/api/">OpenAI</a></li>
+      </ul>
+    <li>Local Serving</li>
+      <ul>
+        <li><a href="https://ollama.com/">Ollama</a></li></li>
+      </ul>
   </ul>
 </details>
 
