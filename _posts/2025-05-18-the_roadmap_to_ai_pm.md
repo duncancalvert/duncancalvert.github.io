@@ -32,9 +32,9 @@ toc:
 
 ## What Makes an AI Product Manager
 ---
-I frequently get asked by product managers, students, and engineers I work with, "how can I upskill on AI and especially AI product management". The AI landscape is moving at breakneck speed with new models, frameworks, and capabilities emerging weekly, making it challenging to know where to start or what to prioritize. This guide provides a structured  path through the essential skills needed to excel as an AI PM, organized by domain and prioritized for practical application.
+I frequently get asked by product managers, students, and engineers I work with, "how can I upskill on AI and learn AI product management". The AI landscape is moving at breakneck speed with new models, frameworks, and capabilities emerging weekly, making it challenging to know where to start or what to prioritize. This guide provides a structured  survey of the essential skills needed to excel as an AI PM, organized by domain and prioritized for practical application.
 
-So how does an AI Product Manager differ from a traditional PM? While traditional PMs focus on building scalable systems with time-tested, stable tools, AI PMs operate in a fundamentally different environment. They work at the intersection of infrastructure, cutting-edge research, and business outcomes, guiding the development of probabilistic, data-dependent products where performance varies across inputs. Success isn't measured in "features shipped" but in nuanced metrics like model quality, inference efficiency, and real-world generalization. The tools themselves are constantly shifting, with vendors and the open-source community launching new frameworks based on the latest agentic and Gen AI research.
+So how does an AI Product Manager differ from a traditional PM? In general, traditional PMs build scalable systems with stable, time-tested tools in a largely deterministic environment. AI product management, on the other hand, often feels like riding a tiger, with the landscape shifting faster than you can map it. Your tools are often weeks old, cutting-edge research is part of the day job, and the products you're guiding are probabilistic by nature, behaving differently depending on the data they see and often exhibiting jagged edges of performance. Success isn't measured in features shipped, but in nuanced metrics like model quality, inference efficiency, and real-world generalization. And just when you think you've found your footing, a new framework, model, or chip drops, because the open-source community and AI research labs are working 996's and never stop shipping.
 
 The development process also differs dramatically. Instead of the generally linear Software Development Lifecycle (SDLC), AI systems require a a blend of linear SDLC and highly iterative Model Development Lifecycle (MDLC). This involves continuously tweaking model training pipelines, feature stores, real-time inference latency, versioning of data and models, and monitoring for drift and degradation—all while coordinating with a diverse team of data scientists, ML engineers, infrastructure teams, data SMEs, end users, and model governance stakeholders. This guide maps out the skills you'll need to navigate this complex, fast-moving landscape successfully.
 
@@ -1001,6 +1001,17 @@ Core product management skills remain fundamental for AI PMs, but they take on n
 </details>
 
 <details>
+  <summary><b>Builder Personality Traits</b></summary>
+  <ul>
+    <li><ins>Agency</ins>: acts without waiting to be asked. Sees a gap, forms a point of view, and moves. Has a track record of starting things and owning their successful completion.</li>
+    <li><ins>Relentlessness</ins>: the real world rewards the person who gets it wrong nine times and gets the tenth right. AI is making the first 90% of everything trivially easy. The last 10%, the hard, unglamorous, want-to-quit part, is where everything that matters gets built.</li>
+    <li><ins>Curiosity</ins>: not surface-level curiosity where you "wonder why” and move on. The deep kind. The kind where you can’t let something go until you actually understand how it works and could reinvent it from scratch. Where one question leads to another and another and you lose track of time because you need to know.</li>
+    <li><ins>"Kind Human" Policy</ins>: prioritizes kindness, respect, empathy, and professional courtesy at all times, treating these as mandatory, non-negotiable behaviors rather than optional perks. Ensures that performance pressures, high-stakes deadlines, or stressful situations do not result in toxic or disrespectful treatment of others.</li>
+    <li><ins>Expert Storyteller & Writer</ins>: can explain the what, how, why, and when of their product at the drop of a hat. Can explain this equally well to the CEO, the new intern, the lead engineer, or an external client.</li>
+  </ul>
+</details>
+
+<details>
   <summary><b>Product Metrics</b></summary>
   <ul>
     <li>User Adoption & Engagement</li>
@@ -1058,23 +1069,9 @@ Core product management skills remain fundamental for AI PMs, but they take on n
 </details>
 
 <details>
-  <summary><b>Expert Storytelling</b></summary>
-  <ul>
-    <li>Craft compelling product messaging and present effectively to diverse audiences.</li>
-  </ul>
-</details>
-
-<details>
   <summary><b>Product Launch Experience</b></summary>
   <ul>
     <li>Know what to do at each product launch stage and how to execute effectively to get things over the finish line</li>
-  </ul>
-</details>
-
-<details>
-  <summary><b>Growth and Expansive Mindset</b></summary>
-  <ul>
-    <li>Foster a curiosity to learn, a growth mindset, a positive attitude, and a "kind human" policy.</li>
   </ul>
 </details>
 
@@ -1097,7 +1094,7 @@ Core product management skills remain fundamental for AI PMs, but they take on n
 </details>
 
 <details>
-  <summary><b>Laws & Axioms</b></summary>
+  <summary><b>Common Product Laws & Axioms</b></summary>
   <ul>
     <li><ins>Goodhart's Law</ins>: when a measure becomes a target, it ceases to be a good measure</li>
     <li>The Mythical Man Month</li>
@@ -1106,7 +1103,7 @@ Core product management skills remain fundamental for AI PMs, but they take on n
         <li><ins>Man-Month Myth</ins>: The idea that a "man-month" is a standard unit of work is deceptive; men and months are not interchangeable because tasks aren't always perfectly divisible</li>
       </ul>
     <li><ins>The Lindy Effect</ins>: a technology principle that suggests that the future life expectancy of a non-perishable technology, system, or idea is proportional to its current age. Coined by Nassim Taleb, this principle argues that the longer a technology has already survived, the higher the probability it will continue to endure, as it has proven its resilience and robustness over time</li>
-    <li><ins>Hersey-Blanchard Model</ins>:</li> 
+    <li><ins>Hersey-Blanchard Situational Leadership Model</ins>: leaders must adapt their style—ranging from directing to delegating—based on the "readiness" or maturity level of their followers (competence and commitment). Effective leadership requires matching one of four leadership styles (S1-S4) to the follower's development level (R1-R4)</li> 
   </ul>
 </details>
 
