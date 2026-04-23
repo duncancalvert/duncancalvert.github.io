@@ -620,7 +620,7 @@ As generative AI and foundation models become central to modern AI products, PMs
     <li>Cloud Model APIs</li>
       <ul>
         <li><a href="https://azure.microsoft.com/en-us/products/ai-model-catalog">Azure - AI Foundry</a></li>
-        <li><a href="https://cloud.google.com/model-garden">GCP - Vertex AI Model Garden</a></li>
+        <li><a href="https://cloud.google.com/model-garden">GCP -  Model Garden</a></li>
         <li><a href="https://aws.amazon.com/bedrock/">AWS - Amazon Bedrock</a></li>
         <li><a href="https://openai.com/api/">OpenAI</a></li>
       </ul>
@@ -847,7 +847,7 @@ Agentic AI represents the next evolution of AI systems, moving from single-turn 
 </details>
 
 <details>
-  <summary><b>AI Integrated Development Environments (IDEs)</b></summary>
+  <summary><b>AI Coding Agents, CLIs, & IDEs</b></summary>
   <ul>
     <li><a href="https://cursor.com/agents">Cursor</a></li>
     <li><a href="https://windsurf.com/">Windsurf</a></li>
@@ -855,6 +855,21 @@ Agentic AI represents the next evolution of AI systems, moving from single-turn 
     <li><a href="https://openai.com/codex/">OpenAI Codex</a></li>
     <li><a href="https://claude.com/product/claude-code">Claude Code</a></li>
     <li><a href="https://codeassist.google/">Gemini Code Assist</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>AI Coding Axioms and Practices</b></summary>
+  <ul>
+    <li>AI Coding Context Engineering</li>
+      <ul>
+        <li><a href="https://agents.md/">AGENTS.md</a>: the standard open-source markdown format for guiding coding agents. AGENTS.md is a README for agents, a dedicated, predictable place to provide the context and instructions to help AI coding agents work on your project.</li>
+      </ul>
+    <li>Agentic Coding Axioms and Ideas</li>
+      <ul>
+        <li><ins>The Dumb Zone</ins>: the term was coined by Dex Horthy to describe a critical failure point in AI-assisted software development, where AI agents become unreliable as their context windows fill up. Based on his analysis of 100,000 developer sessions, this zone occurs in the middle 40–60% of a large context window, where model recall degrades and reasoning falters</li>
+        <li><ins>Tokenmaxxing</ins>: a slang term emerging in tech, referring to the practice of maximizing the consumption of AI tokens in a deliberate effort to maximize AI automation and, by extension, productivity. It is increasingly being used by software engineers and companies as a benchmark to measure employee engagement with AI tools and employee productivity</li>
+      </ul>
   </ul>
 </details>
 
