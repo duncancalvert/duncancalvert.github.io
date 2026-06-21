@@ -1,11 +1,20 @@
 ---
 layout: post
-title: The Paris of the East, Travels in Budapest
+title: On The Banks of the Danube, Travels in Budapest
 date: 2026-03-01 18:04:10
 description: A traveler's guide to Budapest — where Ottoman thermal baths, ruin pubs, grand imperial boulevards, and the restless energy of a city reborn converge on the banks of the Danube.
 tags: budapest hungary travel europe
 categories: travel
 ---
+
+<div class="row mt-3">
+  <div class="col-sm mt-3 mt-md-0">
+      {% include figure.liquid loading="eager" path="assets/img/posts_traveler_in_budapest/budapest_full_city_skyline.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+  </div>
+</div>
+<div class="caption">
+    The Buda skyline at dusk — Castle Hill, Fisherman's Bastion, and Matthias Church rising above the Danube.
+</div>
 
 <br>
 <br>
@@ -15,20 +24,11 @@ categories: travel
 <br>
 <br>
 
-There's a moment — usually at dusk, usually from the Buda side of the river — when Budapest reveals itself all at once. The Neo-Gothic spires of Parliament catch the last amber light and throw it across the Danube. The Chain Bridge arches between its famous stone lions. The cafés of Pest spill out onto the embankment. And you understand, suddenly, exactly why they call this place the Paris of the East.
+There's a moment, usually at dusk and usually from the Buda side of the river, when Budapest reveals itself all at once. The Neo-Gothic spires of Parliament catch the last amber rays of light that sparkle across the Danube. The Chain Bridge arches between its famous stolid stone lions, the elegant and eclectic cafes of Pest spill out onto the embankment, and you understand why they call this city the *"Paris of the East"*.
 
-But Budapest earns that name on its own terms. Where Paris has its Seine, Budapest has the Danube dividing two cities that feel genuinely different from each other: Buda, medieval and hilly, climbing toward a castle that has watched empires come and go; and Pest, flat and electric, its grand Austro-Hungarian boulevards giving way to ruin pubs, literary cafés, and a nightlife that runs until dawn. Together they form one of Europe's most layered and surprising capitals — a city shaped by Celts, Romans, Ottomans, Habsburgs, Soviet planners, and, finally, its own resilient reinvention.
+But Budapest refuses to be a simple fascimile. Where Paris has its Seine, Budapest has the Danube dividing two cities that feel genuinely different from each other: Buda, medieval and hilly, climbing toward a castle that has watched empires come and go; and Pest, flat and electric, its grand Austro-Hungarian boulevards giving way to ruin pubs, literary cafés, and a nightlife that runs until dawn. Together they form one of Europe's most layered and surprising capitals — a city shaped by Celts, Romans, Ottomans, Habsburgs, Soviet planners, and, finally, its own resilient reinvention.
 
 Come here to soak in baths that have been warm since the Romans. Come to drink in a converted ruin. Come to stand before a parliament building so beautiful it seems to belong in a dream. But mostly, come to be surprised by a city that has survived everything and somehow come out more itself.
-
-<div class="row mt-3">
-  <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid loading="eager" path="assets/img/posts_traveler_in_budapest/budapest_buda_skyline.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-  </div>
-</div>
-<div class="caption">
-    The Buda skyline at dusk — Castle Hill, Fisherman's Bastion, and Matthias Church rising above the Danube.
-</div>
 
 ---
 
