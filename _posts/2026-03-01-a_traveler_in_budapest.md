@@ -1,8 +1,8 @@
 ---
 layout: post
-title: On The Banks of the Danube, Travels in Budapest
+title: Budapest, the City That History Keeps Rewriting
 date: 2026-03-01 18:04:10
-description: A traveler's guide to Budapest — where Ottoman thermal baths, ruin pubs, grand imperial boulevards, and the restless energy of a city reborn converge on the banks of the Danube.
+description: A traveler's guide to Budapest, where Ottoman thermal baths, ruin pubs, grand imperial boulevards, and the restless energy of a city reborn converge on the banks of the Danube.
 tags: budapest hungary travel europe
 categories: travel
 ---
@@ -13,7 +13,7 @@ categories: travel
   </div>
 </div>
 <div class="caption">
-    The Buda skyline at dusk — Castle Hill, Fisherman's Bastion, and Matthias Church rising above the Danube.
+    The Budapest skyline at sunset from Gellert Hill, Buda on the left, Pest on the right.
 </div>
 
 <br>
