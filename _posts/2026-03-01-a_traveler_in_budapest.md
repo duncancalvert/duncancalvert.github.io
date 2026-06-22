@@ -13,22 +13,18 @@ categories: travel
   </div>
 </div>
 <div class="caption">
-    The Budapest skyline at sunset from Gellert Hill, Buda on the left, Pest on the right.
+    The Budapest skyline at sunset from Gellert Hill - Buda on the left, Pest on the right.
 </div>
 
-<br>
-<br>
-<p style="text-align: center;">
-    <em>"Budapest is not so much a city as a state of mind."</em>
-</p>
-<br>
 <br>
 
 There's a moment, usually at dusk and usually from the Buda side of the river, when Budapest reveals itself all at once. The Neo-Gothic spires of Parliament catch the last amber rays of light that sparkle across the Danube. The Chain Bridge arches between its famous stolid stone lions, the elegant and eclectic cafes of Pest spill out onto the embankment, and you understand why they call this city the *"Paris of the East"*.
 
-But Budapest refuses to be a simple fascimile. Where Paris has its Seine, Budapest has the Danube dividing two cities that feel genuinely different from each other: Buda, medieval and hilly, climbing toward a castle that has watched empires come and go; and Pest, flat and electric, its grand Austro-Hungarian boulevards giving way to ruin pubs, literary cafés, and a nightlife that runs until dawn. Together they form one of Europe's most layered and surprising capitals — a city shaped by Celts, Romans, Ottomans, Habsburgs, Soviet planners, and, finally, its own resilient reinvention.
+But Budapest refuses to be a simple fascimile of its western cousin. Where Paris' Seine divides similar neighborhoods, the Danube divides two cities that feel genuinely distinct. Buda, medieval and hilly, climbing toward a castle that has watched empires rise and fall myriad times; and Pest, flat, urban, and dynamic, its grand Austro-Hungarian boulevards bisected by a warren of ruin pubs, literary cafés, and a nightlife that runs until dawn. Together they form one of Europe's most layered and surprising capitals — a city shaped by Celts, Romans, Huns, Magyar tribesman, Ottomans, Habsburgs, Nazis, Soviets, and its modern Hungarian residents.
 
-Come here to soak in baths that have been warm since the Romans. Come to drink in a converted ruin. Come to stand before a parliament building so beautiful it seems to belong in a dream. But mostly, come to be surprised by a city that has survived everything and somehow come out more itself.
+Come here to soak in tiled bathhouses that have been warm since the Romans, to drink in a converted war ruins, to stand before a parliament building so beautiful it seems to belong in a dream, and to be surprised by a city that has survived everything and somehow come out more itself.
+
+<br>
 
 ---
 
@@ -48,7 +44,7 @@ Come here to soak in baths that have been warm since the Romans. Come to drink i
 
 ---
 
-## A City Born from Three
+## A Short History of Budapest
 
 Budapest's history is the history of this part of Europe in miniature: ancient, violent, beautiful, and deeply human.
 
