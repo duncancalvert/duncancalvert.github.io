@@ -216,11 +216,11 @@ The Hungarian State Opera House on Andrássy Avenue was built to rival Vienna's 
 
 <div class="row mt-3">
   <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid loading="eager" path="assets/img/posts_traveler_in_budapest/opera_house_interior.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+      {% include figure.liquid loading="eager" path="assets/img/posts_traveler_in_budapest/Hungarian-Royal-State-Opera-House.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
   </div>
 </div>
 <div class="caption">
-    The gilded horseshoe hall of the Hungarian State Opera House — frescoed ceiling, tiered balconies, and a chandelier weighing over three tons.
+    The gilded horseshoe hall of the Hungarian State Opera House — frescoed ceiling, tiered balconies, and a chandelier weighing over three tons. <a href="https://guide.planetofhotels.com/en/hungary/budapest/hungarian-state-opera-house">(Source)</a>
 </div>
 
 ### Heroes' Square & Andrássy Avenue
