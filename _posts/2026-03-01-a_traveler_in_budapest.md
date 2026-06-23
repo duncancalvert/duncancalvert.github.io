@@ -18,7 +18,7 @@ categories: travel
 
 <br>
 
-There's a moment, usually at dusk and usually from the Buda side of the river, when Budapest reveals itself all at once. The Neo-Gothic spires of Parliament catch the last amber rays of light that sparkle across the Danube. The Chain Bridge arches between its famous stolid stone lions, the elegant and eclectic cafes of Pest spill out onto the embankment, and you understand why they call this city the *"Paris of the East"*.
+There's a moment, usually at dusk and usually from the Buda side of the river, when Budapest reveals itself all at once. The Neo-Gothic spires of Parliament catch the last amber rays of light that sparkle across the Danube. The Chain Bridge arches between its famous stolid stone lions, the elegant and eclectic cafes of Pest spill out onto the embankment, and you understand why they call this city the *Paris of the East*.
 
 But Budapest refuses to be a simple fascimile of its western cousin. Where Paris' Seine divides similar neighborhoods, the Danube divides two cities that feel genuinely distinct. Buda, medieval and hilly, climbing toward a castle that has watched empires rise and fall myriad times; and Pest, flat, urban, and dynamic, its grand Austro-Hungarian boulevards bisected by a warren of ruin pubs, literary cafés, and a nightlife that runs until dawn. Together they form one of Europe's most layered and surprising capitals — a city shaped by Celts, Romans, Huns, Magyar tribesman, Ottomans, Habsburgs, Nazis, Soviets, and its modern Hungarian residents.
 
