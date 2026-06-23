@@ -345,6 +345,15 @@ On the city's outskirts, Ecseri is a sprawling treasure hunt: communist memorabi
 
 **Dohány Street Synagogue** — The largest synagogue in Europe, and one of the most moving buildings in Budapest. The memorial garden behind it, where thousands of Budapest Jews were buried during the wartime siege, is a place of genuine solemnity. Do not miss it.
 
+<div class="row mt-3">
+  <div class="col-sm mt-3 mt-md-0">
+      {% include figure.liquid loading="eager" path="assets/img/posts_traveler_in_budapest/dohaney_street.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+  </div>
+</div>
+<div class="caption">
+    Dohány Street Synagogue ceiling. <a href="https://onthegrid.city/budapest/jewish-quarter/doh%C3%A1ny-street-synagogue">(Source)</a>
+</div>
+
 ---
 
 ## Parks & Outdoor Walks
