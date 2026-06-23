@@ -13,7 +13,7 @@ categories: travel
   </div>
 </div>
 <div class="caption">
-    The Budapest skyline at sunset from Gellert Hill - Buda on the left, Pest on the right.
+    The Budapest skyline at sunset from Gellert Hill - Buda on the left, Pest on the right. <a href="https://www.fodors.com/world/europe/hungary/budapest/experiences/news/how-to-spend-57-days-in-budapest-and-nearby-towns">(Source)</a>
 </div>
 
 <br>
@@ -127,27 +127,29 @@ Today Budapest is one of Europe's most visited and talked-about cities: a place 
 
 ## Where to Stay
 
-Budapest's districts each have their own character. Choose one that matches how you want to spend your days:
+Like many large cities, Budapest's districts each have their own unique character and style. For first time visitors, District 5, 6, or 7 on the Pest side are the most straightforward choice to make your homebase as they are central and have a wide selection of accomodations. Returning visitors may want to choose a district further out from the city center for a more local Hungarian experience.
 
 - **District V (Belváros–Lipótváros)** — Upscale and central. Near Parliament and the Danube promenade, ideal for first-timers who want everything within walking distance.
 - **District VII (Jewish Quarter)** — The most atmospheric choice. Ruin pubs, street food, the Grand Synagogue, and a nightlife that doesn't stop. A neighborhood that rewards wandering at any hour.
 - **District VI (Terézváros)** — Stylish and literary, centered on Andrássy Avenue, Budapest's World Heritage boulevard. Close to the Opera House and excellent cafés.
 - **District I (Castle Hill)** — Historic and scenic, with cobblestone lanes and the best elevated views in the city. Quieter at night, magical in the early morning before the crowds arrive.
 - **District VIII (Palace District)** — Quieter, more local, with beautiful old palaces being slowly restored and excellent neighborhood cafés.
-- **Óbuda** — The most residential, with Roman ruins and far less tourist traffic than the rest. A good base if you want to live more like a local.
+- **Óbuda** — The most residential and local, with Roman ruins and far less tourist traffic than the rest. A good base if you want to live more like a local and don't mind a significant commute to city amentities.
 
 <div class="row mt-3">
   <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid loading="eager" path="assets/img/posts_traveler_in_budapest/budapest_districts_map.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+      {% include figure.liquid loading="eager" path="assets/img/posts_traveler_in_budapest/map_budapest_city_center.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
   </div>
 </div>
 <div class="caption">
-    Budapest's central districts — the highlighted core contains most of what you'll want to explore on foot.
+    Budapest's central districts, districts 1, 5, 6, 7, 8, 9, 11, and 14 contain most of what you'll want to explore on foot. <a href="https://www.offbeatbudapest.com/budapest-city-guide/neighborhoods/overview/">(Source)</a>
 </div>
 
 ---
 
 ## Monuments & Architecture
+
+Budapest was built in a single ambitious generation, and it shows. The great monuments of the city are not scattered relics of different eras but the product of one sustained burst of national confidence between the 1870s and 1910s, when a newly unified Hungary set out to build a capital worthy of its ambitions. What follows are the landmarks that define the city's skyline and its self-image.
 
 ### Hungarian Parliament Building
 
@@ -250,6 +252,8 @@ Rising 235 meters above the Danube, Gellért Hill is where the city's patron sai
 ---
 
 ## Hidden Gems
+
+Budapest rewards the visitor who ventures off the main circuit. Beneath and beyond the grand monuments lies a second city of strange museums, atmospheric churches carved into rock, eccentric markets, and fairytale castles that most tourists walk straight past. These are the places locals are quietly glad you have not found yet.
 
 ### Cave Church
 
@@ -424,6 +428,8 @@ Budapest sits atop a geological fault that feeds more than 100 thermal springs b
 ---
 
 ## Eat & Drink
+
+Budapest punches well above its weight as a food city, spanning everything from market stalls serving paprika-dusted street food to Michelin-starred restaurants reinterpreting Hungarian cuisine with serious ambition. The city is also genuinely affordable compared to most European capitals, which makes exploring it on any budget a pleasure. What follows runs from the cheapest good meals in the city to its best bars and coffee shops.
 
 ### Cheap Good Eats
 
