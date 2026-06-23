@@ -356,6 +356,47 @@ On the city's outskirts, Ecseri is a sprawling treasure hunt: communist memorabi
 
 ---
 
+## The Baths
+
+Budapest sits atop a geological fault that feeds more than 100 thermal springs beneath the city. The Romans built the first baths here; the Ottomans refined the culture and added their domed architecture; and today the thermal bath remains one of the city's most distinctive and pleasurable experiences — part spa, part social institution, part living museum.
+
+**Széchenyi Thermal Bath** — The largest and most famous, opened in 1913, with three outdoor pools and 15 indoor pools fed by two thermal springs rich in calcium, magnesium, and hydrogen carbonate. Its Neo-Baroque yellow palace architecture is half the draw. The outdoor pools, where locals famously play chess while soaking, are an iconic Budapest image. Go in the morning or evening to avoid the midday tourist surge.
+
+<div class="row mt-3">
+  <div class="col-sm mt-3 mt-md-0">
+      {% include figure.liquid loading="eager" path="assets/img/posts_traveler_in_budapest/szechenyi_bath_outdoor.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+  </div>
+</div>
+<div class="caption">
+    Széchenyi Thermal Bath — the iconic yellow Neo-Baroque palace and its famous outdoor pools, open year-round.
+</div>
+
+**Rudas Thermal Bath** — Built in the 16th century during Ottoman occupation, Rudas has the most atmospheric traditional bathing space in the city: a central octagonal pool under a massive Turkish dome with colored glass skylights that filter the light into something otherworldly. Soaking here feels like time travel. The rooftop hot tub offers panoramic Danube views, especially magical at sunset. Rudas still maintains separate men-only and women-only days for the traditional baths — a custom observed for 500 years.
+
+<div class="row mt-3">
+  <div class="col-sm mt-3 mt-md-0">
+      {% include figure.liquid loading="eager" path="assets/img/posts_traveler_in_budapest/rudas_bath_ottoman_dome.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+  </div>
+</div>
+<div class="caption">
+    Rudas Thermal Bath — the 16th-century Ottoman dome and its octagonal pool, unchanged in 500 years of continuous use.
+</div>
+
+**Gellért Thermal Bath** — Part of the landmark Hotel Gellért, these Art Nouveau baths opened in 1918 and are the most ornate in the city, with mosaics, stained glass, and sculptures throughout. A more luxurious and architecturally spectacular experience than Széchenyi, with smaller crowds. The outdoor wave pool in summer is a Budapest institution.
+
+<div class="row mt-3">
+  <div class="col-sm mt-3 mt-md-0">
+      {% include figure.liquid loading="eager" path="assets/img/posts_traveler_in_budapest/gellert_bath_interior.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+  </div>
+</div>
+<div class="caption">
+    Gellért Thermal Bath — Art Nouveau columns, warm mineral pools, and an atmosphere that belongs to another century.
+</div>
+
+*Practical note: shower before entering the pools, bring flip-flops and a towel (or buy them at the bath). Most baths require swimwear.*
+
+---
+
 ## Parks & Outdoor Walks
 
 **Margaret Island** — A car-free island in the middle of the Danube, Budapest's favorite place to breathe. Locals jog its 5km circuit, picnic under ancient trees, and rent bikes. There are medieval monastery ruins, a small zoo, a musical fountain, and thermal pools. Named after Princess Margaret, daughter of King Béla IV, who lived in a convent here in the 13th century. A perfect antidote to heavy sightseeing.
@@ -395,47 +436,6 @@ On the city's outskirts, Ecseri is a sprawling treasure hunt: communist memorabi
 
 ---
 
-## The Baths
-
-Budapest sits atop a geological fault that feeds more than 100 thermal springs beneath the city. The Romans built the first baths here; the Ottomans refined the culture and added their domed architecture; and today the thermal bath remains one of the city's most distinctive and pleasurable experiences — part spa, part social institution, part living museum.
-
-**Széchenyi Thermal Bath** — The largest and most famous, opened in 1913, with three outdoor pools and 15 indoor pools fed by two thermal springs rich in calcium, magnesium, and hydrogen carbonate. Its Neo-Baroque yellow palace architecture is half the draw. The outdoor pools, where locals famously play chess while soaking, are an iconic Budapest image. Go in the morning or evening to avoid the midday tourist surge.
-
-<div class="row mt-3">
-  <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid loading="eager" path="assets/img/posts_traveler_in_budapest/szechenyi_bath_outdoor.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-  </div>
-</div>
-<div class="caption">
-    Széchenyi Thermal Bath — the iconic yellow Neo-Baroque palace and its famous outdoor pools, open year-round.
-</div>
-
-**Rudas Thermal Bath** — Built in the 16th century during Ottoman occupation, Rudas has the most atmospheric traditional bathing space in the city: a central octagonal pool under a massive Turkish dome with colored glass skylights that filter the light into something otherworldly. Soaking here feels like time travel. The rooftop hot tub offers panoramic Danube views, especially magical at sunset. Rudas still maintains separate men-only and women-only days for the traditional baths — a custom observed for 500 years.
-
-<div class="row mt-3">
-  <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid loading="eager" path="assets/img/posts_traveler_in_budapest/rudas_bath_ottoman_dome.png" class="img-fluid rounded z-depth-1" zoomable=true %}
-  </div>
-</div>
-<div class="caption">
-    Rudas Thermal Bath — the 16th-century Ottoman dome and its octagonal pool, unchanged in 500 years of continuous use.
-</div>
-
-**Gellért Thermal Bath** — Part of the landmark Hotel Gellért, these Art Nouveau baths opened in 1918 and are the most ornate in the city, with mosaics, stained glass, and sculptures throughout. A more luxurious and architecturally spectacular experience than Széchenyi, with smaller crowds. The outdoor wave pool in summer is a Budapest institution.
-
-<div class="row mt-3">
-  <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid loading="eager" path="assets/img/posts_traveler_in_budapest/gellert_bath_interior.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-  </div>
-</div>
-<div class="caption">
-    Gellért Thermal Bath — Art Nouveau columns, warm mineral pools, and an atmosphere that belongs to another century.
-</div>
-
-*Practical note: shower before entering the pools, bring flip-flops and a towel (or rent them at the bath). Most baths require swimwear.*
-
----
-
 ## Eat & Drink
 
 Budapest punches well above its weight as a food city, spanning everything from market stalls serving paprika-dusted street food to Michelin-starred restaurants reinterpreting Hungarian cuisine with serious ambition. The city is also genuinely affordable compared to most European capitals, which makes exploring it on any budget a pleasure. What follows runs from the cheapest good meals in the city to its best bars and coffee shops.
@@ -444,18 +444,7 @@ Budapest punches well above its weight as a food city, spanning everything from 
 
 Budapest is a deeply affordable city for food, especially if you explore beyond the tourist corridors.
 
-- **Central Market Hall (Nagy Vásárcsarnok)** — Budapest's great iron-and-tile covered market, built in 1897. The ground floor offers fresh produce, paprika, salami, and foie gras at excellent prices. The upper floor has hot Hungarian food stalls and souvenirs. Come hungry on a weekday morning when the market is at its liveliest.
-
-<div class="row mt-3">
-  <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid loading="eager" path="assets/img/posts_traveler_in_budapest/central_market_hall.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-  </div>
-</div>
-<div class="caption">
-    The Central Market Hall — Budapest's great covered market since 1897, with paprika, salami, foie gras, and everything Hungarian under one iron roof.
-</div>
-
-- **Szimpla Farmers' Market** — On Sunday mornings, the city's most famous ruin pub transforms into a lively farmers' market with cheese, honey, sausages, and freshly baked bread. Street musicians, families, and tourists mixing in a space that was a nightclub hours earlier. One of the best ways to see how Budapest mixes old and new.
+- **Szimpla Farmers' Market** — On Sunday mornings, the city's most famous ruin pub transforms into a lively farmers' market with cheese, honey, sausages, and freshly baked bread. Expect tourist prices and enjoy street musicians, families, and tourists mixing in a space that was a nightclub hours earlier.
 
 <div class="row mt-3">
   <div class="col-sm mt-3 mt-md-0">
@@ -467,11 +456,21 @@ Budapest is a deeply affordable city for food, especially if you explore beyond 
 </div>
 
 - **Lángos** — Fried bread, traditionally served with sour cream and cheese, though you'll find it topped with everything imaginable. The definitive Budapest street food. Try *A Lángosos* for a local favorite, or look for stands at any market.
-- **Karaván Street Food Court** — Outdoor food trucks and stalls right next to Szimpla Kert, good for a quick and varied lunch.
+- **Karaván Street Food Court** — Outdoor food trucks and stalls right next to Szimpla Kert, touristy but good for a quick outdoor lunches.
 - **Bors GasztroBár** — Famous for its soups and inventive gourmet sandwiches. Tiny, often with a line. Worth it.
 - **Kádár Étkezde** — Old-school Hungarian canteen in the Jewish Quarter, serving honest Budapest comfort food to a mix of regulars and knowing visitors. Cash only, no pretense.
 - **Gettó Gulyás** — Affordable and excellent, specializing in stews and goulash the way they should taste.
 - **Menza** — Retro-inspired Hungarian food in a fun, busy atmosphere. Reliable for both lunch and dinner.
+- **Central Market Hall (Nagy Vásárcsarnok)** — Budapest's great iron-and-tile covered market, built in 1897. The ground floor offers fresh produce, paprika, salami, and foie gras at tourist prices. The upper floor has a limited selection of hot Hungarian food stalls and souvenirs. Come hungry on a weekday morning when the market is at its liveliest. Be aware of pickpockets.
+
+<div class="row mt-3">
+  <div class="col-sm mt-3 mt-md-0">
+      {% include figure.liquid loading="eager" path="assets/img/posts_traveler_in_budapest/central_market_hall.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+  </div>
+</div>
+<div class="caption">
+    The Central Market Hall — Budapest's great covered market since 1897, with paprika, salami, foie gras, and everything Hungarian under one iron roof.
+</div>
 
 Local dishes to try: **goulash** (a rich paprika-forward beef stew, nothing like the canned version), **chimney cake** (kürtőskalács — spiral pastry rolled in sugar and nuts), and **foie gras** (Hungary produces some of the world's finest, at a fraction of French prices).
 
@@ -539,6 +538,6 @@ For taxis, use **Bolt**, **Uber**, or **FöTaxi** — all regulated apps with tr
 
 ---
 
-Budapest rewards the visitor who stays long enough to fall into its rhythms: the morning coffee in a grand old café, the afternoon soak in a thermal bath, the evening walk along the Danube when the Parliament lights come on and the river goes gold. It's a city of layers — Roman, Ottoman, Habsburg, Soviet, and now something entirely its own — and each layer reveals something worth knowing.
+Budapest rewards the visitor who stays long enough to fall into its rhythms: the morning coffee in a grand old café, the afternoon soak in a thermal bath, the evening walk along the Danube when the Parliament lights come on and the river goes gold. It's a city full of layers and contradictions with interwoven cultures, architecture, cuisine, and style.
 
-Go once. You'll want to go back.
+Go once and fall under its spell for a lifetime.
