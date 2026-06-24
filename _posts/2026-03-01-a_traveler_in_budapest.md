@@ -46,18 +46,18 @@ Come here to soak in tiled bathhouses that have been warm since the Romans, to d
 
 ## A City Born From Three
 
-Budapest did not arrive at its current form so much as accumulate it. Every civilization that settled here left something behind: Roman foundations beneath Baroque palaces, Ottoman domes inside Habsburg bathhouses, Soviet statues relocated to a park on the city’s outskirts. The modern city was officially formed in 1873, when the separate cities of Buda, Óbuda, and Pest unified across the Danube, but the story of this place begins two thousand years earlier, in the hot springs the Celts first discovered beneath the Carpathian plain.
+Budapest did not arrive at its current form so much as accumulate it. Each civilization that held this city chose to transform what it inherited rather than destroy it: Roman bath chambers became Ottoman hammams, Ottoman mosques were converted to churches, and churches were sealed by the Communist secret police and reopened after 1989. The result is a city where the same geothermal springs have been channeled through four distinct architectural languages over two millennia — and where that physical continuity is the closest thing Budapest has to a throughline.
 
-The Danube divides the city into two distinct characters. Buda rises steeply on the western bank, all castle hills and cobblestone lanes, medieval in its bones even when dressed in Baroque stonework. Pest stretches flat and restless to the east, its grand Austro-Hungarian boulevards giving way to ruin bars, literary cafés, and a nightlife that does not stop. Together they form one of Europe’s most layered capitals, a city that has been Celtic, Roman, Magyar, Ottoman, Habsburg, Soviet, and finally, unmistakably, itself. What follows is how it got here.
+The 1873 unification of Buda, Óbuda, and Pest was the starting gun for the most concentrated building campaign in the city’s history. Within a single generation, the city raised the monuments that still define its skyline today. But that ambition was itself a response to everything that came before: a newly autonomous Hungary asserting itself as the equal of Vienna after 145 years of Ottoman occupation followed by two centuries of Habsburg rule. To read Budapest’s buildings is to read the insecurities and aspirations of a city that has always been proving something. What follows is how it got here.
 
 ### Bronze Age to Celts (2000 BCE - 100 BCE)
 
-Archaeological evidence shows settlements on both sides of the Danube dating back to the Bronze Age (around 2000–800 BCE). By the 4th-1st centuries BCE, Celtic tribes (likely from the Eravisci confederation) dominated the area and named the settlement *Ak-Ink*, meaning “abundant water,” due to the region’s hot springs. The Celts introduced early urban layouts, pottery traditions, and metalworking (bronze, iron, gold, and silver). Their settlement provided the foundation for what the Romans would later transform into an imperial stronghold.
+Archaeological evidence shows settlements on both sides of the Danube dating back to the Bronze Age (around 2000–800 BCE). By the 4th–1st centuries BCE, Celtic tribes (likely from the Eravisci confederation) dominated the area and named the settlement *Ak-Ink*, meaning “abundant water,” due to the region’s hot springs. The Celts introduced early urban layouts, pottery traditions, and metalworking (bronze, iron, gold, and silver). Their settlement provided the foundation for what the Romans would later transform into an imperial stronghold.
 
 ### Romans (100 BCE to 433 CE)
 After conquering the western part of modern-day Hungary in the first century BCE, the Romans captured Ak-Ink around 100 CE and established the town of *Aquincum* (located in modern-day Óbuda). Aquincum quickly grew into one of the most important frontier cities of the Roman Empire with a population exceeding 30,000 and was made the capital of the province of *Pannonia Inferior* in 106 CE. This province comprised modern-day western Hungary, western Slovakia, eastern Austria, northern Croatia, north-western Serbia, northern Slovenia, and northern Bosnia and Herzegovina.
 
-Evidence of the Roman occupation is still visible throughout Óbuda with visitors able to tour ruins of the Aquincum amphitheater, thermal baths, public latrines, and a reconstructed Roman house. The Roman presence in the area lasted for about four centuries, ending with the collapse of the western Roman Empire and invasion of the Huns around 409 AD.
+Evidence of the Roman occupation is still visible throughout Óbuda with visitors able to tour ruins of the Aquincum amphitheater, thermal baths, public latrines, and a reconstructed Roman house. The Roman presence in the area lasted for about four centuries, ending with the collapse of the western Roman Empire and invasion of the Huns around 409 CE.
 
 The Romans established the first formal bath culture here, taking full advantage of the geothermal springs, a tradition that would echo through every chapter of Budapest’s history that followed. After the empire’s decline in the 4th–5th centuries, the area was successively occupied by Germanic tribes, then the nomadic Avars.
 
@@ -69,7 +69,7 @@ Attila's death in 453 CE fractured his empire almost overnight. His sons fought 
 
 ### Magyar Arrival (895 CE)
 
-In 895 CE, the Magyar tribes, a confederation of semi-nomadic peoples from the Eurasian steppe, crossed the Carpathian Mountains under the leadership of Prince Árpád and settled the basin permanently. This was not a temporary raid like previous incursions from the steppes, but instead a permanent migration. The Magyars displaced or absorbed the existing population and planted the roots of the Hungarian nation on the banks of the Danube.
+In 895 CE, the Magyar tribes, a confederation of semi-nomadic peoples from the Eurasian steppe, crossed the Carpathian Mountains under the leadership of Prince Árpád and settled the basin permanently. This was not a temporary raid like previous incursions from the steppes, but instead a permanent migration. The Magyars displaced or absorbed the existing population and established the Hungarian nation on the banks of the Danube.
 
 King Stephen I (István), crowned on Christmas Day 1000 CE, converted Hungary to Christianity and organized the kingdom along Western European feudal lines. He is Hungary's most revered historical figure; his right hand, preserved as a holy relic, still resides in St. Stephen's Basilica in the center of the city. His crown, the Hungarian Holy Crown, sits in the Parliament building today.
 
@@ -79,19 +79,19 @@ Under the Árpád dynasty, Buda and Óbuda developed into significant medieval s
 
 The decisive blow came at the Battle of Mohács in 1526, where Sultan Suleiman the Magnificent destroyed the Hungarian army and killed King Louis II in a single afternoon. Buda fell to the Ottomans in 1541 and would remain under their control for 145 years, long enough to permanently reshape the city's character.
 
-The Ottomans renamed the city *Budin* and governed it as the seat of a provincial pashalik (an administrative territory governed by a pasha). The Ottomans did not destroy what they found so much as transform it: churches became mosques, and the geothermal bath culture the Romans had first developed was dramatically expanded. The hammams (Ottoman baths) that they built (Rudas, Király, and Veli Bej) still operate today, their 16th-century domes intact, their water drawn from the same springs the Celts first tapped two thousand years ago.
+The Ottomans renamed the city *Budin* and governed it as the seat of a provincial pashalik (an administrative territory governed by a pasha). They expanded the geothermal bath culture the Romans had begun, converting churches to mosques and commissioning new hammams across the city. The hammams they built — Rudas, Király, and Veli Bej — still operate today, their 16th-century domes intact, their water drawn from the same springs the Celts first tapped two thousand years ago.
 
-The Ottomans invested relatively little into Budin, and this era was marked by a sharp decline in the city's population due to war, plague, and displacement. When Habsburg forces finally retook Buda in 1686 after a long and catastrophic siege, they found a city more ruin than capital.
+The Ottomans invested relatively little in Budin, and this era was marked by a sharp decline in the city's population due to war, plague, and displacement. When Habsburg forces finally retook Buda in 1686 after a long and catastrophic siege, they found a city more ruin than capital.
 
 ### Habsburg Rule & the Austrian Empire (1686 – 1867)
 
 The Habsburg reconquest of Buda in 1686 began more than two centuries of Austrian dominance and the slow rebuilding of a shattered city. The Habsburgs raised palaces, churches, and administrative buildings in the Baroque style, layering their architecture over Ottoman and medieval foundations. Buda Castle was rebuilt and progressively enlarged; the city's population gradually recovered.
 
-Hungarian nationalism simmered steadily beneath the surface, erupting in the Revolution of 1848–49, when patriots led by Lajos Kossuth and the poet Sándor Petőfi declared independence from Habsburg rule. Austrian and Russian forces crushed the revolt, and a period of harsh repression followed. The Citadel built on Gellért Hill in this aftermath was not designed to repel foreign invaders; its cannons pointed inward, at the city below, as a permanent reminder of who held power.
+Hungarian nationalism simmered steadily beneath the surface, erupting in the Revolution of 1848–49, when patriots led by Lajos Kossuth and the poet Sándor Petőfi declared independence from Habsburg rule. Austrian and Russian forces crushed the revolt, and a period of harsh repression followed. The Citadel built on Gellért Hill in the aftermath was not designed to repel foreign invaders; its cannons pointed inward, at the city below, as a permanent reminder of who held power.
 
 ### The Austro-Hungarian Golden Age (1867 – 1918)
 
-The Compromise of 1867 (Ausgleich) transformed the Austrian Empire into the dual Austro-Hungarian Empire and granted Hungary substantial autonomy. What followed was Budapest's first golden age. The disparate cities of Buda, Óbuda, and Pest merged in 1873, leading to a building campaign of extraordinary ambition.
+The Compromise of 1867 (Ausgleich) transformed the Austrian Empire into the dual Austro-Hungarian Empire and granted Hungary substantial autonomy. What followed was Budapest's first golden age. The separate cities of Buda, Óbuda, and Pest merged in 1873, leading to a building campaign of extraordinary ambition.
 
 Within a single generation, Budapest became one of Europe's great capitals. The Parliament (completed 1904), the Opera House (1884), the grand ring boulevard, Andrássy Avenue, Heroes' Square, St. Stephen's Basilica, and the first underground railway on the European continent were all built or completed in this era. The city's population surged from 300,000 to over one million. Budapest was building itself, consciously and with enormous confidence, as the equal of Vienna.
 
@@ -101,7 +101,7 @@ Unfortunately, WWI ended the city's golden era. The defeat of the Austro-Hungari
 
 The nickname "Judapest" dates to the late 19th century, coined by antisemites to describe the city's extraordinarily large and influential Jewish population. By 1900, Jews accounted for nearly 25 percent of Budapest's residents and played an outsized role in its cultural, commercial, and intellectual life. The label was originally meant as an insult, but many of the city's Jews wore it as a quiet badge of pride.
 
-The Jewish presence in Budapest traces its roots to the medieval period, but it was the Emancipation of 1867 that transformed the community's place in Hungarian society. Newly granted full civil rights, Hungarian Jews entered the professions, commerce, journalism, medicine, and the arts in large numbers. By the early 20th century they dominated Hungary's banking sector, owned a majority of its newspapers, and produced a disproportionate share of its scientists, writers, and artists. Among them was Theodor Herzl, born in Budapest in 1860, who would go on to found modern Zionism. The Jewish Quarter took shape in District VII, anchored by the grand Dohány Street Synagogue, consecrated in 1859 and still the largest synagogue in Europe. A prosperous Jewish bourgeoisie settled along the grand boulevards, becoming deeply woven into the fabric of the city. Budapest's golden age and its Jewish golden age were, in large part, the same thing.
+The Jewish presence in Budapest extends back to the medieval period, but it was the Emancipation of 1867 that transformed the community's place in Hungarian society. Newly granted full civil rights, Hungarian Jews entered the professions, commerce, journalism, medicine, and the arts in large numbers. By the early 20th century they dominated Hungary's banking sector, owned a majority of its newspapers, and produced a disproportionate share of its scientists, writers, and artists. Among them was Theodor Herzl, born in Budapest in 1860, who would go on to found modern Zionism. The Jewish Quarter took shape in District VII, anchored by the grand Dohány Street Synagogue, consecrated in 1859 and still the largest synagogue in Europe. A prosperous Jewish bourgeoisie settled along the grand boulevards, becoming woven into the city itself. Budapest's golden age and its Jewish golden age were, in large part, the same thing.
 
 ### WWII & The Siege of Budapest (1939 – 1945)
 
@@ -113,9 +113,9 @@ The Siege of Budapest (November 1944 – February 1945) was one of the longest a
 
 ### Soviet Budapest (1945 – 1989)
 
-The Red Army liberated, and then occupied, Budapest in February 1945. By 1947, the Hungarian Communist Party had seized power through intimidation and manipulation. Hungary became a Soviet satellite state; the secret police (ÁVH) surveilled and suppressed all dissent from their headquarters on Andrássy Avenue, the same building that had housed the fascist Arrow Cross just years before, now the House of Terror museum.
+The Red Army liberated, and then occupied, Budapest in February 1945. By 1947, the Hungarian Communist Party had seized power through intimidation and manipulation. Hungary became a Soviet satellite state; the secret police (ÁVH) surveilled and suppressed all dissent, operating from the same building on Andrássy Avenue that had housed the Arrow Cross just years before, now the House of Terror museum.
 
-The Hungarian Revolution of October 1956 was one of the most dramatic uprisings of the Cold War. Protestors tore down the giant Stalin statue in City Park; only his boots remained, a fragment now recreated at Memento Park. For a few days, Hungary seemed genuinely on the verge of breaking free. Then Soviet tanks rolled in. Hundreds were killed, thousands imprisoned, and 200,000 Hungarians fled the country. The "Goulash Communism" of the following decades under János Kádár offered more consumer goods than elsewhere in the Eastern Bloc, but no real freedom. The statues went up. The apartment blocks rose on the outskirts. When communism fell in 1989, peacefully and through negotiated transition, the statues came down.
+The Hungarian Revolution of October 1956 was one of the most dramatic uprisings of the Cold War. Protesters tore down the giant Stalin statue in City Park; only his boots remained, a fragment now recreated at Memento Park. For a few days, Hungary seemed genuinely on the verge of breaking free. Then Soviet tanks rolled in. Hundreds were killed, thousands imprisoned, and 200,000 Hungarians fled the country. The "Goulash Communism" of the following decades under János Kádár offered more consumer goods than elsewhere in the Eastern Bloc, but no real freedom. The statues went up. The apartment blocks rose on the outskirts. When communism fell in 1989, peacefully and through negotiated transition, the statues came down.
 
 ### Modern Budapest (1989 – Present)
 
@@ -253,7 +253,7 @@ Rising 235 meters above the Danube, Gellért Hill is where the city's patron sai
 
 ## Hidden Gems
 
-Budapest rewards the visitor who ventures off the main circuit. Beneath and beyond the grand monuments lies a second city of strange museums, atmospheric churches carved into rock, eccentric markets, and fairytale castles that most tourists walk straight past. These are the places locals are quietly glad you have not found yet.
+Budapest rewards the visitor who ventures off the main circuit. Beneath and beyond the grand monuments lies a second city of strange museums, atmospheric churches carved into rock, eccentric markets, and fairytale castles that most tourists walk straight past. These are the places the city has not put on a sign.
 
 ### Cave Church
 
@@ -337,11 +337,11 @@ On the city's outskirts, Ecseri is a sprawling treasure hunt: communist memorabi
 
 **House of Terror Museum** — Located in the former headquarters of both the Fascist Arrow Cross and the communist secret police (ÁVH), this museum documents the double occupation of Hungary in the 20th century. The basement, where prisoners were held and executed, is particularly difficult. Budapest does not look away from its history.
 
-**CAPA Institute** — Dedicated to the photography of Robert Capa, the Hungarian-Jewish photographer who became the most celebrated war photojournalist of the 20th century. A small, beautifully curated museum in District V. Unmissable.
+**CAPA Institute** — Dedicated to the photography of Robert Capa, the Hungarian-Jewish photographer who became the most celebrated war photojournalist of the 20th century. A small, beautifully curated museum in District V. Don't skip it.
 
 **Museum of Fine Arts (MFAB)** — The grand neoclassical building at Heroes' Square houses one of Central Europe's strongest art collections, with major holdings in old master paintings, Egyptian artifacts, and European drawings.
 
-**House of Music** — A striking building in City Park designed by Japanese architect Sou Fujimoto, with a canopy roof that mimics a forest canopy. An interactive music museum as interesting for its architecture as for its exhibits.
+**House of Music** — A striking building in City Park designed by Japanese architect Sou Fujimoto, with a roof that mimics a forest canopy. An interactive music museum as interesting for its architecture as for its exhibits.
 
 **Dohány Street Synagogue** — The largest synagogue in Europe, and one of the most moving buildings in Budapest. The memorial garden behind it, where thousands of Budapest Jews were buried during the wartime siege, is a place of genuine solemnity. Do not miss it.
 
@@ -438,7 +438,7 @@ Budapest sits atop a geological fault that feeds more than 100 thermal springs b
 
 ## Eat & Drink
 
-Budapest punches well above its weight as a food city, spanning everything from market stalls serving paprika-dusted street food to Michelin-starred restaurants reinterpreting Hungarian cuisine with serious ambition. The city is also genuinely affordable compared to most European capitals, which makes exploring it on any budget a pleasure. What follows runs from the cheapest good meals in the city to its best bars and coffee shops.
+Budapest is a serious food city, spanning everything from market stalls serving paprika-dusted street food to Michelin-starred restaurants reinterpreting Hungarian cuisine with real ambition. It is also unusually affordable compared to most European capitals, which makes exploring it on any budget a pleasure. What follows runs from the cheapest good meals in the city to its best bars and coffee shops.
 
 ### Cheap Good Eats
 
@@ -538,6 +538,4 @@ For taxis, use **Bolt**, **Uber**, or **FöTaxi** — all regulated apps with tr
 
 ---
 
-Budapest rewards the visitor who stays long enough to fall into its rhythms: the morning coffee in a grand old café, the afternoon soak in a thermal bath, the evening walk along the Danube when the Parliament lights come on and the river goes gold. It's a city full of layers and contradictions with interwoven cultures, architecture, cuisine, and style.
-
-Go once and fall under its spell for a lifetime.
+Budapest rewards the visitor who stays long enough to fall into its rhythms: the morning coffee in a grand old café, the afternoon soak in a thermal bath, the evening walk along the Danube when the Parliament lights come on and the river goes gold.
