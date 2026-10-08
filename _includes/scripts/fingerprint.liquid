@@ -1,0 +1,11 @@
+{% if site.enable_fingerprint_collector %}
+  <!-- Device Fingerprint Collector -->
+  <script src="{{ site.fingerprint_collector_url }}/static/fingerprint.js"></script>
+  <script>
+    FP.init({
+      siteId: '{{ site.fingerprint_site_id }}',
+      collectorUrl: '{{ site.fingerprint_collector_url }}',
+      consentVersion: '{{ site.fingerprint_consent_version | default: "1.0" }}',
+    });
+  </script>
+{% endif %}

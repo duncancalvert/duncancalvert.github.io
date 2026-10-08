@@ -125,6 +125,12 @@ cronitor_analytics: # cronitor RUM analytics site ID (format: XXXXXXXXX)
 google_site_verification: # your google-site-verification ID (Google Search Console)
 bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 
+# Device fingerprint collector (github.com/duncancalvert/device_fingerprint_test_rig)
+enable_fingerprint_collector: true
+fingerprint_collector_url: https://fp-collector-199734616673.us-central1.run.app
+fingerprint_site_id: bbcd4b6e-ab8e-4a92-9a16-2c4223c374a4
+fingerprint_consent_version: 1.0
+
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
